@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.03.10
+☕ 크립토 모닝 브리핑 — 2026.03.11
 
-1️⃣ 미 재무부, 크립토 믹서 합법적 프라이버시 용도 첫 공식 인정
-2️⃣ 트럼프 "투표법 먼저" 고집 — 크립토 법안 서명 지연 리스크
-3️⃣ 빗썸, AML 위반으로 6개월 부분 영업정지 예고 통보
-4️⃣ Strategy $13억 BTC 추매, 총 738,731개 — 평단가 하회 속 공격 매수
-5️⃣ 보험사 Aon, 스테이블코인 보험료 결제 업계 최초 PoC 완료
+1️⃣ Aave, wstETH 오라클 설정 오류로 $2,700만 청산 — Chaos Labs 사후분석 공개
+2️⃣ Vitalik, 'DVT-Lite' 발표 — ETH 밸리데이터 원클릭 설정으로 탈중앙화 강화
+3️⃣ CFTC 의장, DeFi·예측시장·퍼프 전방위 규제 로드맵 공개 + SEC 공동 이니셔티브
+4️⃣ 미 상원, Clarity Act 스테이블코인 수익률 타협안 협상 — Dimon도 거래기반 리워드 수용 시사
+5️⃣ Jito Foundation, $27M 해킹 셧다운 후 SolanaFloor 인수·즉시 재출범
 
-📌 믹서 정책 전환 + 스테이블코인 기업 채택 가속 vs 입법 지연 리스크 공존
+📌 미 규제 양대 기관(SEC+CFTC) 공조 본격화 + DeFi 오라클 리스크 재조명 — 인프라 안전성과 규제 명확성이 동시에 시험대에 오른 하루.
 
-📄 상세 보고서: https://github.com/ShawnAI/shjy-crypto-briefing/blob/main/reports/2026-03-10.md
+📄 상세 보고서: https://github.com/shawnai/shjy-crypto-briefing/blob/main/reports/2026-03-11.md
