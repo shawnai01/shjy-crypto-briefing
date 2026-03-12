@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.03.11
+☕ 크립토 모닝 브리핑 — 2026.03.12
 
-1️⃣ Aave, wstETH 오라클 설정 오류로 $2,700만 청산 — Chaos Labs 사후분석 공개
-2️⃣ Vitalik, 'DVT-Lite' 발표 — ETH 밸리데이터 원클릭 설정으로 탈중앙화 강화
-3️⃣ CFTC 의장, DeFi·예측시장·퍼프 전방위 규제 로드맵 공개 + SEC 공동 이니셔티브
-4️⃣ 미 상원, Clarity Act 스테이블코인 수익률 타협안 협상 — Dimon도 거래기반 리워드 수용 시사
-5️⃣ Jito Foundation, $27M 해킹 셧다운 후 SolanaFloor 인수·즉시 재출범
+1️⃣ SEC·CFTC, 역사적 MOU 체결 — 크립토 공동 감독 프레임워크 출범
+2️⃣ Wells Fargo, 'WFUSD' 상표 출원 — 메가뱅크 토큰화 예금 경쟁 시작
+3️⃣ Bullish, Coinbase 제치고 글로벌 3위 CEX — 거래소 판도 재편
+4️⃣ Binance.US, 컴플라이언스 전문가 CEO 선임 — 규제 적합성 최우선
+5️⃣ FDIC: 스테이블코인 예금보험 적용 불가 확정 — 은행과 경계선 명확화
 
-📌 미 규제 양대 기관(SEC+CFTC) 공조 본격화 + DeFi 오라클 리스크 재조명 — 인프라 안전성과 규제 명확성이 동시에 시험대에 오른 하루.
+📌 미 규제 3대 기관(SEC·CFTC·FDIC) 동시 프레임 구체화 — '규제 확정기' 진입
 
-📄 상세 보고서: https://github.com/shawnai/shjy-crypto-briefing/blob/main/reports/2026-03-11.md
+📄 상세 보고서: https://github.com/shawnai/shjy-crypto-briefing/blob/main/reports/2026-03-12.md
