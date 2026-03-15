@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.03.14
+☕ 크립토 모닝 브리핑 — 2026.03.15
 
-1️⃣ Circle, 토큰화 국채 1위 탈환 — USYC $22억으로 BlackRock BUIDL 추월, 시장 $110억 신기록
-2️⃣ USDC 거래량, 2019년 이후 처음 USDT 추월 — 점유율 64%, Mizuho 목표가 $120 상향
-3️⃣ 이더리움 재단, 38p '새 헌장' 공개 — CROPS 원칙·탈중앙 자기주권 선언
-4️⃣ 미 재무부, 北 $8억 크립토 세탁 네트워크 제재 — 6인·2사·21개 지갑 공개
-5️⃣ Custodia Bank, 연준 마스터 계좌 소송 최종 패소 — Kraken엔 열린 문
+1️⃣ BTC $71K 유지, 이란 Kharg Island 공습에도 주간 +4.2% — 3/17 Fed 회의 주목
+2️⃣ 이더리움 재단, BitMine에 5,000 ETH OTC 매도 ($10.2M) — 재무 다변화 지속
+3️⃣ 월가 토큰화 주식 추진 vs 기관투자자 즉시결제 우려 — ICE·Nasdaq 파트너십 후속
+4️⃣ 브라질 850개 기업 연합, 스테이블코인 IOF 과세 반대 — 위헌 주장
+5️⃣ 스테이블코인 = AI 에이전트 금융 핵심 인프라 — Circle x402·에이전틱 파이낸스
 
-📌 Circle이 국채 토큰화 + USDC 거래량 양면에서 스테이블코인 판도를 뒤집는 중. 인프라·규제 양쪽에서 제도화 가속.
+📌 전쟁 장기화 속 BTC 내성 강화 + 스테이블코인이 규제·AI 양쪽에서 핵심 자산으로 부상
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-14.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-15.md
