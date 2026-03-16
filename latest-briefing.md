@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.03.15
+☕ 크립토 모닝 브리핑 — 2026.03.16
 
-1️⃣ BTC $71K 유지, 이란 Kharg Island 공습에도 주간 +4.2% — 3/17 Fed 회의 주목
-2️⃣ 이더리움 재단, BitMine에 5,000 ETH OTC 매도 ($10.2M) — 재무 다변화 지속
-3️⃣ 월가 토큰화 주식 추진 vs 기관투자자 즉시결제 우려 — ICE·Nasdaq 파트너십 후속
-4️⃣ 브라질 850개 기업 연합, 스테이블코인 IOF 과세 반대 — 위헌 주장
-5️⃣ 스테이블코인 = AI 에이전트 금융 핵심 인프라 — Circle x402·에이전틱 파이낸스
+1️⃣ BTC 주간 +8.5%, 2025년 9월 이후 최고 — 테크주 상관관계 이탈, ETF $13억 순유입
+2️⃣ Visa vs Coinbase: AI 에이전트 결제 인프라 전쟁 — "에이전트가 인간보다 더 많은 거래"
+3️⃣ Kraken SPAC, 최대 $100억 크립토 기업 인수 타겟 물색 — 거래소 월스트리트화
+4️⃣ Druckenmiller: "10~15년 내 결제 시스템 = 스테이블코인" — 나머지 크립토엔 회의적
+5️⃣ AI 에이전트 예측시장 자동 트레이딩 — Olas 'Polystrat' Polymarket 24/7 거래 개시
 
-📌 전쟁 장기화 속 BTC 내성 강화 + 스테이블코인이 규제·AI 양쪽에서 핵심 자산으로 부상
+📌 BTC 테크주 디커플링 속 독자 강세 + AI×크립토 결제 내러티브 주말 CT 지배. 스테이블코인이 전통금융까지 합의하는 "확실한 영역"으로 수렴 중.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-15.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-16.md

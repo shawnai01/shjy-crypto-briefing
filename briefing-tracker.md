@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-03-16
+1. BTC 주간 +8.5%, 2025년 9월 이후 최고 — 테크주 상관관계 이탈, ETF $13억 순유입
+2. Visa vs Coinbase: AI 에이전트 결제 인프라 전쟁 본격화
+3. Kraken 연계 SPAC 'KRAKacquisition', 최대 $100억 크립토 기업 인수 타겟
+4. Druckenmiller: "10~15년 내 전체 결제 시스템이 스테이블코인으로"
+5. AI 에이전트 예측시장 자동 트레이딩 — Olas 'Polystrat' Polymarket 24/7 거래
+- ⚠️ 텔레그램 그룹 전송 실패 (chat not found) → latest-briefing.md 경유 대기
+
 ### 2026-03-15
 1. BTC $71K 유지, 이란 Kharg Island 공습에도 주간 +4.2% — Fed 3/17 회의 주목
 2. 이더리움 재단, BitMine에 5,000 ETH OTC 매도 ($10.2M) — 재무 다변화 전략
