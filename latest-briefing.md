@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.03.16
+☕ 크립토 모닝 브리핑 — 2026.03.17
 
-1️⃣ BTC 주간 +8.5%, 2025년 9월 이후 최고 — 테크주 상관관계 이탈, ETF $13억 순유입
-2️⃣ Visa vs Coinbase: AI 에이전트 결제 인프라 전쟁 — "에이전트가 인간보다 더 많은 거래"
-3️⃣ Kraken SPAC, 최대 $100억 크립토 기업 인수 타겟 물색 — 거래소 월스트리트화
-4️⃣ Druckenmiller: "10~15년 내 결제 시스템 = 스테이블코인" — 나머지 크립토엔 회의적
-5️⃣ AI 에이전트 예측시장 자동 트레이딩 — Olas 'Polystrat' Polymarket 24/7 거래 개시
+1️⃣ OpenSea, SEA 토큰 출시 무기한 연기 — "시장 환경 어렵다"
+2️⃣ Bitmine, 60,999 ETH 추가 매수 — 총 460만 ETH·$100억 돌파
+3️⃣ 미·영·캐 'Operation Atlantic' — 크립토 피싱 국제 공조 단속 개시
+4️⃣ Metaplanet, $2.55억 조달 — BTC 21만개 목표 가속
+5️⃣ 호주 상원, 크립토 라이선스 법안 통과 권고 — AFSL 체제 편입
 
-📌 BTC 테크주 디커플링 속 독자 강세 + AI×크립토 결제 내러티브 주말 CT 지배. 스테이블코인이 전통금융까지 합의하는 "확실한 영역"으로 수렴 중.
+📌 BTC $75K 접근 속 기관 매수 가속, 규제는 단속+프레임워크 양면 전개. OpenSea 연기가 보여주듯 시장 심리는 아직 회복 초기.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-16.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-03-17.md
