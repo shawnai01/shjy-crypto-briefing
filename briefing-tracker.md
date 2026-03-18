@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-03-18
+1. SEC, 크립토 자산 증권 분류 최초 공식 기준 발표 — CFTC 공동 가이던스
+2. Mastercard, 스테이블코인 인프라 BVNK $18억 인수
+3. Phantom, CFTC no-action relief 획득 — 지갑 파생상품 접근
+4. 미국 지역은행 연합, ZKsync 기반 토큰화 예금 네트워크 'Cari' 구축
+5. Tally 폐업 선언 — DAO 시대 종말 신호
+- ⚠️ 텔레그램 그룹 전송 실패 (chat not found) → latest-briefing.md 경유 대기
+
 ### 2026-03-17
 1. OpenSea, SEA 토큰 출시 무기한 연기 — 시장 환경 악화 이유
 2. Bitmine, 60,999 ETH 추가 매수 — 총 460만 ETH 보유, $100억 돌파
