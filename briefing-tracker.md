@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-03-22
+1. 크립토 업계 대규모 감원 ~450명 — Algorand·Gemini·Crypto.com 등 AI 전환+시장 위축
+2. Grayscale, HYPE(Hyperliquid) ETF S-1 신청 — 주간 $500억 거래량 DEX→TradFi
+3. Strategy Q1 89,618 BTC 매수 (총 761K) — 역대 2번째 분기 매수량
+4. BTC 옵션 풋 프리미엄 사상 최고 — VanEck 역발상 매수 신호
+5. 한국 야당 PPP, 크립토 과세 전면 폐지 법안 발의
+- ✅ 텔레그램 전송 완료
+
 ### 2026-03-21
 1. Clarity Act 스테이블코인 수익률 타협안 합의 — Tillis·Alsobrooks 원칙 합의, 4월 상원 청문회 유력
 2. Kalshi $22B 밸류에이션, $1B 추가 투자유치 (Coatue 리드) — 네바다·애리조나 규제 역풍 속 성장
