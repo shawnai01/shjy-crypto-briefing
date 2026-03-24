@@ -24,6 +24,14 @@
 5. Morgan Stanley BTC ETF 심사 기한 도래 — $8조 AUM, BTC 0~4% 배분 권고
 - ✅ 텔레그램 전송 완료
 
+### 2026-03-24
+1. Resolv 해킹: $80M USR 무담보 민팅, ~$23M 탈취 — 프라이빗 키 탈취
+2. 미 상원 "Prediction Markets Are Gambling Act" 초당파 발의 — 스포츠 베팅 금지
+3. BTC 채굴자 캐피출레이션 — 채굴 원가 $88K vs 시세 $68K
+4. 5c(c) Capital: Polymarket·Kalshi CEO $35M 예측시장 VC 펀드 출범
+5. ZachXBT, 전쟁 공포 악용 조직적 크립토 스캠 네트워크 적발
+- ✅ 텔레그램 전송 완료
+
 ### 2026-03-21
 1. Clarity Act 스테이블코인 수익률 타협안 합의 — Tillis·Alsobrooks 원칙 합의, 4월 상원 청문회 유력
 2. Kalshi $22B 밸류에이션, $1B 추가 투자유치 (Coatue 리드) — 네바다·애리조나 규제 역풍 속 성장
