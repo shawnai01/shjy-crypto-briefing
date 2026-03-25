@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-03-25
+1. Clarity Act 최신 초안, 스테이블코인 수익률 전면 금지 — Circle -20%·Coinbase -10%
+2. 트럼프 이란 공습 5일 중단 → BTC $71K 급등 후 반락, $4.15억 양방향 청산
+3. NYSE, Securitize와 토큰화 증권 플랫폼 공동 개발 공식 발표
+4. 미 하원 금융위, 3/25 토큰화 증권 청문회 — 2개 법안 심의
+5. Binance, AI 트레이딩 에이전트 'AI Pro' 3/25 공식 출시
+- ✅ 텔레그램 전송 완료
+
 ### 2026-03-22
 1. 크립토 업계 대규모 감원 ~450명 — Algorand·Gemini·Crypto.com 등 AI 전환+시장 위축
 2. Grayscale, HYPE(Hyperliquid) ETF S-1 신청 — 주간 $500억 거래량 DEX→TradFi
