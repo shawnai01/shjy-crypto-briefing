@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-03-29
+1. Goldman Sachs, 크립토 "사이클 저점 도달" 공식 콜 — 회복은 느릴 것 경고
+2. Franklin Templeton × Ondo Finance, $1.7T AUM 토큰화 ETF 24/7 온체인 거래 출시
+3. ETH 개발자, Buterin 지지 'Frame Transactions' Hegota 업그레이드서 후순위 강등
+4. BTC 고래, 46일간 270,000 BTC 축적 — 13년 만의 최대 온체인 매집
+5. 러시아, 4/1부터 가솔린 수출 전면 금지 — 에너지 쇼크 매크로 리스크 확대
+- ✅ 텔레그램 전송 완료
+
 ### 2026-03-28
 1. David Sacks, 크립토 차르 130일 만에 퇴임 → PCAST 공동의장 전환
 2. Tether, KPMG에 $185B USDT 첫 Big Four 정식 감사 의뢰
