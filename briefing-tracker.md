@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-04-06
+1. Polymarket, 이란 미군 구출 베팅 마켓 철거 — 의회 반발로 예측시장 규제 압력 격화
+2. Drift 해킹 전모: 6개월간 DPRK 정보작전 — 가짜 퀀트사 위장, 대면 접촉 후 $285M 탈취
+3. Block(Jack Dorsey), 비트코인 포셋 "Bitcoin Day" 오늘 론칭 — btc.day에서 $1M BTC 배포
+4. 이더리움 재단, 70,000 ETH 스테이킹 목표 달성 — $143M 규모, ETH 매도 의존 탈피
+5. Charles Schwab, H1 2026 현물 BTC·ETH 거래 확정 — $12T AUM 리테일 게이트 오픈
+- ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
+
 ### 2026-04-04
 1. TRM Labs, Drift Protocol $285M 해킹 北 소행 공식 확인 — 온체인 자금 회수 시도 중
 2. Cathie Wood "BTC 85% 폭락 시대 끝" — 검증된 신자산군 성숙 선언
