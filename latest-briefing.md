@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.06
+☕ 크립토 모닝 브리핑 — 2026.04.07
 
-1️⃣ Polymarket, 이란 미군 구출 베팅 마켓 철거 — 의회 반발로 예측시장 규제 압력 격화
-2️⃣ Drift 해킹 전모: 6개월간 DPRK 정보작전 — 가짜 퀀트사 위장, 대면 접촉 후 $285M 탈취
-3️⃣ Block(Jack Dorsey), 비트코인 포셋 "Bitcoin Day" 오늘 론칭 — btc.day에서 $1M BTC 배포
-4️⃣ 이더리움 재단, 70,000 ETH 스테이킹 목표 달성 — $143M 규모, ETH 매도 의존 탈피
-5️⃣ Charles Schwab, H1 2026 현물 BTC·ETH 거래 확정 — $12T AUM 리테일 게이트 오픈
+1️⃣ BTC $69K 랠리, 미·이란 45일 휴전 협상 보도 — $270M 숏 청산, 그러나 Polymarket 확률 30%
+2️⃣ Bitfinex 경고: BTC 옵션 $68K 이하 네거티브 감마 — $60K 급락 리스크 잠재
+3️⃣ Circle Arc L1, 포스트-양자 암호화 월렛 탑재 — 메인넷 첫 양자 내성 블록체인
+4️⃣ BTC 채굴자 셀오프 소진 임박, 난이도 90일 -6.27% — 15~20% 적자 운영 중
+5️⃣ XRP Tokyo 2026 오늘 개최 — Ripple·SBI·a16z·Rakuten 3,000명 도쿄 집결
 
-📌 예측시장 윤리·DeFi 보안 경고와 함께, BTC 포셋·EF 스테이킹·Schwab 진입 등 주류 채택 가속 동시 진행
+📌 이란 휴전 기대감에 리스크온 랠리, 그러나 옵션·채굴자 구조는 하방 취약 — 양자 내성·아시아 기관화가 중장기 인프라 테마로 부상
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-06.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-07.md
