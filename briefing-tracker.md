@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-04-08
+1. Morgan Stanley BTC ETF (MSBT) 오늘 NYSE Arca 상장 — 수수료 0.14%, IBIT 언더컷
+2. BTC ETF $471M 일일 순유입 — 2월 이후 최대, 2026년 6번째 규모
+3. SEC 의장 Atkins, 'Reg Crypto' 제안 임박 — OIRA 심사 단계 진입
+4. Polygon Giugliano 하드포크 오늘 메인넷 활성화 — 파이널리티 2초 단축
+5. 한국 토스(Toss), 자체 L1 블록체인·네이티브 코인 개발 추진 — KRW 스테이블코인 상표 24건 출원
+- ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
+
 ### 2026-04-07
 1. BTC $69K 랠리, 미·이란 45일 휴전 협상 보도 — $270M 숏 청산, Polymarket 확률 30%
 2. Bitfinex 경고: BTC 옵션 $68K 이하 네거티브 감마 — $60K 급락 리스크
