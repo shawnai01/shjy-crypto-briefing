@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-04-09
+1. BTC $72,700 급등, 트럼프 2주 이란 휴전 — $600M 청산, 유가 15% 폭락
+2. SEC, 과거 크립토 단속 '실패' 공식 인정 — $2.3B 집행이 투자자 보호 무실적
+3. Standard Chartered, Zodia Custody 완전 인수·CIB 통합 — 이달 내 발표
+4. Polymarket, 자체 스테이블코인 'Polymarket USD' + 거래소 전면 업그레이드
+5. Arthur Hayes "HYPE만 매수 중" — $150 목표가, Hyperliquid 올인 선언
+- ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
+
 ### 2026-04-08
 1. Morgan Stanley BTC ETF (MSBT) 오늘 NYSE Arca 상장 — 수수료 0.14%, IBIT 언더컷
 2. BTC ETF $471M 일일 순유입 — 2월 이후 최대, 2026년 6번째 규모

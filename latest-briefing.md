@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.08
+☕ 크립토 모닝 브리핑 — 2026.04.09
 
-1️⃣ Morgan Stanley BTC ETF (MSBT) 오늘 NYSE 상장 — 수수료 0.14%, IBIT 언더컷
-2️⃣ BTC ETF $471M 일일 순유입 — 2월 이후 최대, 기관 자금 리스크온 회전
-3️⃣ SEC 의장 Atkins, 'Reg Crypto' 제안 임박 — 스타트업 세이프하버 포함
-4️⃣ Polygon Giugliano 하드포크 오늘 메인넷 — 파이널리티 2초 단축
-5️⃣ 한국 토스, 자체 L1 블록체인·KRW 스테이블코인 추진
+1️⃣ BTC $72,700 급등, 트럼프 2주 이란 휴전 — $600M 청산, 유가 15% 폭락
+2️⃣ SEC, 과거 크립토 단속 '실패' 공식 인정 — $2.3B 집행이 투자자 보호 무실적
+3️⃣ Standard Chartered, Zodia Custody 완전 인수·CIB 통합 — 이달 내 발표
+4️⃣ Polymarket, 자체 스테이블코인 'Polymarket USD' + 거래소 전면 업그레이드
+5️⃣ Arthur Hayes "HYPE만 매수 중" — $150 목표가, Hyperliquid 올인 선언
 
-📌 기관 가속 + SEC 독자 규제 프레임 + 아시아 Web3 전환 — 이란 변수에도 자본은 리스크온으로 회전 중
+📌 이란 휴전발 매크로 랠리 + SEC 규제 기조 전환 + 기관 커스터디·프로토콜 자주화 동시 가속
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-08.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-09.md
