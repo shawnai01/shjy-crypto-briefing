@@ -9,11 +9,11 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 ### 2026-04-09
-1. BTC $72,700 급등, 트럼프 2주 이란 휴전 — $600M 청산, 유가 15% 폭락
-2. SEC, 과거 크립토 단속 '실패' 공식 인정 — $2.3B 집행이 투자자 보호 무실적
-3. Standard Chartered, Zodia Custody 완전 인수·CIB 통합 — 이달 내 발표
-4. Polymarket, 자체 스테이블코인 'Polymarket USD' + 거래소 전면 업그레이드
-5. Arthur Hayes "HYPE만 매수 중" — $150 목표가, Hyperliquid 올인 선언
+1. NYT, "Adam Back = 사토시 나카모토" 1년 추적 보도 — Back 즉각 부인, CT 전체 토론
+2. 백악관 CEA, "스테이블코인 수익률 금지는 비효과적" — Clarity Act 은행 로비 정면 반박
+3. Google Quantum AI, BTC 암호 해독 50만 큐빗 이하 — 양자 위협 타임라인 급단축
+4. Arthur Hayes "HYPE만 매수 중" — $150 목표가, Hyperliquid 올인 선언
+5. SEC, 과거 크립토 단속 '실패' 공식 인정 — 7건 소송 취하, 규제 패러다임 전환
 - ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
 
 ### 2026-04-08
