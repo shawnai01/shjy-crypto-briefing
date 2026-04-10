@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.09
+☕ 크립토 모닝 브리핑 — 2026.04.10
 
-1️⃣ NYT, "Adam Back = 사토시 나카모토" 1년 추적 보도 — Back 즉각 부인, CT 전체 토론
-2️⃣ 백악관 CEA, "스테이블코인 수익률 금지는 비효과적" — Clarity Act 은행 로비 정면 반박
-3️⃣ Google Quantum AI, BTC 암호 해독 50만 큐빗 이하 — 양자 위협 타임라인 급단축
-4️⃣ Arthur Hayes "HYPE만 매수 중" — $150 목표가, Hyperliquid 올인 선언
-5️⃣ SEC, 과거 크립토 단속 '실패' 공식 인정 — 7건 소송 취하, 규제 패러다임 전환
+1️⃣ 이란, 호르무즈 해협 BTC 통행료 징수 시작 — 최초 국가급 비트코인 결제 의무화
+2️⃣ Polymarket 이란 휴전 베팅 인사이더 의혹 — AP, 50개 신규 계정 수십만 달러 수익 추적
+3️⃣ 상원의원 6명, DOJ 부장관 크립토 이해충돌 공식 문제 제기 — $47만 보유 중 단속 해체
+4️⃣ BTC $80K 콜옵션 Deribit 1위 등극 — 고래 축적 + 휴전 랠리로 센티먼트 전환
+5️⃣ Gemini 유럽·영국 라이선스 분할 매각 움직임 — 복수 바이어 MiCA·FCA 라이선스 확보 타진
 
-📌 NYT 사토시 보도·백악관 Clarity Act 지원·양자 위협 재부각 — 크립토 정체성·규제·보안 3대 축이 동시 격변.
+📌 이란 BTC 통행료·Polymarket 인사이더·DOJ 윤리 논란 — 크립토가 지정학·규제·시장 전방위에서 주인공이 된 하루
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-09.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-10.md
