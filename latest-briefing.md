@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.10
+☕ 크립토 모닝 브리핑 — 2026.04.12
 
-1️⃣ 이란, 호르무즈 해협 BTC 통행료 징수 시작 — 최초 국가급 비트코인 결제 의무화
-2️⃣ Polymarket 이란 휴전 베팅 인사이더 의혹 — AP, 50개 신규 계정 수십만 달러 수익 추적
-3️⃣ 상원의원 6명, DOJ 부장관 크립토 이해충돌 공식 문제 제기 — $47만 보유 중 단속 해체
-4️⃣ BTC $80K 콜옵션 Deribit 1위 등극 — 고래 축적 + 휴전 랠리로 센티먼트 전환
-5️⃣ Gemini 유럽·영국 라이선스 분할 매각 움직임 — 복수 바이어 MiCA·FCA 라이선스 확보 타진
+1️⃣ Bittensor, Covenant AI 탈주로 $9억 증발 — "탈중앙화 극장" 폭로, TAO -27%
+2️⃣ Bhutan, BTC 보유량 18개월 -70% (13K→3.95K BTC) — 유일한 국가급 매도자, 채굴도 중단 정황
+3️⃣ CLARITY Act 4파전 교착 — Moreno "5월 넘기면 2026 입법 물 건너간다"
+4️⃣ Lightning Labs CTO, 비트코인 zk-STARK '포스트-양자 월렛 구조선' 프로토타입 최초 공개
+5️⃣ Securitize × TRON 전격 통합 — RWA 토크나이제이션 $26B TVL 체인으로 확장
 
-📌 이란 BTC 통행료·Polymarket 인사이더·DOJ 윤리 논란 — 크립토가 지정학·규제·시장 전방위에서 주인공이 된 하루
+📌 제도권은 계속 사고(ETF 유입·RWA 확장), Bhutan은 팔고, TAO는 내분, CLARITY Act는 5월이 마지노선 — 4월 하순~5월이 2026 사이클 최대 분기점.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-10.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-12.md

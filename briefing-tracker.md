@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-04-12
+1. Bittensor Covenant AI 탈주, TAO -27% / -$900M mcap — "탈중앙화 극장" 폭로
+2. Bhutan BTC 보유량 18개월 -70% (13K→3.95K BTC) — 채굴도 중단 정황, 유일한 국가급 매도자
+3. CLARITY Act 4파전 교착 — Moreno "5월 넘기면 2026 입법 물 건너간다"
+4. Lightning Labs Osuntokun, zk-STARK 포스트-양자 월렛 구조선 프로토타입 최초 공개
+5. Securitize × TRON 통합 — RWA 토크나이제이션 $26B TVL 체인으로 확장
+- ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
+
 ### 2026-04-10
 1. 이란, 호르무즈 해협 BTC 통행료 징수 시작 — 최초 국가급 비트코인 결제 의무화
 2. Polymarket 이란 휴전 베팅 인사이더 의혹 — AP, 50개 신규 계정 수십만 달러 수익 추적
