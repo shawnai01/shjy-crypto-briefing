@@ -8,6 +8,14 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-04-14
+1. BTC $2.8B 세금 매도 임박 — 4/15 IRS 마감, Fear & Greed 12
+2. Hyperbridge 브릿지 익스플로잇 — DOT 10억 개 무단 민팅, 실 탈취 $237K
+3. 백악관 Witt, CLARITY Act 타협 "지속 가능" — 상원 전진 신호
+4. Bitwise HYPE ETF(BHYP) 수정 S-1 제출 — DeFi 프로토콜 ETF 최초 경쟁
+5. Foundry, Zcash 마이닝 풀 정식 론칭 — 해시레이트 30% 즉시 장악
+- ⏳ 텔레그램 전송 대기 (격리 세션 → latest-briefing.md 경유)
+
 ### 2026-04-12
 1. Bittensor Covenant AI 탈주, TAO -27% / -$900M mcap — "탈중앙화 극장" 폭로
 2. Bhutan BTC 보유량 18개월 -70% (13K→3.95K BTC) — 채굴도 중단 정황, 유일한 국가급 매도자
