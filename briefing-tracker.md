@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+
+### 2026-04-24
+1. 100개 이상 크립토 기업, 미 상원에 CLARITY Act 마크업 촉구
+2. JPMorgan, KelpDAO 후폭풍에 "DeFi의 기관 매력 약화" 진단
+3. Aave 주도 'DeFi United' 출범… Lido·EtherFi·Stani 복구 공조
+4. 미군, 비트코인 노드 운영 공개… 국가안보 인프라 테스트 중
+5. Cardano 개발사 Input Output, 비트코인 DeFi·확장성에 4,680만달러 예산 요청
+- ⚠️ 텔레그램 직접 전송 미실행 (현 세션에 message 도구 없음) → reports/2026-04-24.md에 요약안 저장
+
 ### 2026-04-23
 1. Lazarus, 신규 macOS 공격 벡터 ‘Mach-O Man’로 크립토 임원 정조준
 2. KelpDAO 후폭풍, Aave 잠재 손실 최대 2.3억달러 시나리오 부상
