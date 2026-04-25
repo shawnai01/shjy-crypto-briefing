@@ -9,6 +9,14 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-04-25
+1. Aave 주도 ‘DeFi United’, KelpDAO 2.92억달러 후폭풍 복구 공조
+2. 100개+ 크립토 기업, 미 상원에 CLARITY Act 마크업 촉구
+3. CLARITY Act, 5월 청문회 창은 남았지만 일정 리스크 급증
+4. Volo Protocol, Kelp 직후 350만달러 추가 익스플로잇
+5. 비트코인 반등 배경으로 USDT 50억달러 증가 부상
+- ⚠️ 텔레그램 직접 전송 미실행 (현 세션에 message 도구 없음) → latest-briefing.md에 요약안 저장
+
 ### 2026-04-24
 1. 100개 이상 크립토 기업, 미 상원에 CLARITY Act 마크업 촉구
 2. JPMorgan, KelpDAO 후폭풍에 "DeFi의 기관 매력 약화" 진단
