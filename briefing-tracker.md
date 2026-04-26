@@ -9,6 +9,14 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-04-26
+1. 영국 FCA, 불법 크립토 P2P 트레이딩 전국 단속 착수
+2. 뉴욕, Coinbase·Gemini 상대로 예측시장 운영 소송 제기
+3. Trump, Mar-a-Lago 행사서 CLARITY Act 지지 재확인
+4. BlackRock IBIT 옵션 OI가 Deribit BTC 옵션 추월
+5. Coinbase Jesse Pollak, AI 에이전트 결제 핵심 레일로 크립토 제시
+- ⚠️ 텔레그램 직접 전송 미실행 (현 세션에 message 도구 없음) → latest-briefing.md에 요약안 저장
+
 ### 2026-04-25
 1. Aave 주도 ‘DeFi United’, KelpDAO 2.92억달러 후폭풍 복구 공조
 2. 100개+ 크립토 기업, 미 상원에 CLARITY Act 마크업 촉구
