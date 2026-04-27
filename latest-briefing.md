@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.26
+☕ 크립토 모닝 브리핑 — 2026.04.27
 
-1️⃣ 영국 FCA, 불법 크립토 P2P 트레이딩 전국 단속 착수
-2️⃣ 뉴욕, Coinbase·Gemini 상대로 예측시장 운영 소송 제기
-3️⃣ Trump, Mar-a-Lago 행사서 CLARITY Act 지지 재확인… 은행권과 재충돌
-4️⃣ BlackRock IBIT 옵션 OI가 Deribit BTC 옵션 추월… 기관 파생시장 중심축 이동
-5️⃣ Coinbase Jesse Pollak, AI 에이전트 결제 핵심 레일로 크립토·Base·x402 제시
+1️⃣ Litecoin 13블록 리오그 논란 — ‘제로데이’보다 비공개 패치·미업데이트 노드 리스크 부각
+2️⃣ CLARITY Act 4월 통과 실패 — 5월 말이 사실상 마지막 입법 창
+3️⃣ 미국, 이란 연계 크립토 3.44억달러 동결 — 스테이블코인 제재 집행 레일 역할 재확인
+4️⃣ Aave, KelpDAO 후폭풍 bad debt 2억달러 중 약 1.6억달러 확보 — DeFi 공동구제 모드 진입
+5️⃣ Jesse Pollak “AI 에이전트 결제는 크립토가 적합” — x402 누적 결제 4,800만달러 제시
 
-📌 오늘은 규제 집행 확대, 미국 시장구조법 재점화, 그리고 기관화·AI결제 인프라 진전이 핵심입니다.
+📌 오늘 흐름: 규제·제재·인프라 취약점이 시장 구조를 흔드는 가운데, DeFi 복구와 AI 결제는 ‘실사용 레일’ 경쟁으로 이동 중.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-26.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-27.md
