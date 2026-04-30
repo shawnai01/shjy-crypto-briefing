@@ -9,6 +9,14 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-04-30
+1. Visa, 스테이블코인 결제 파일럿 9개 체인으로 확대 — 연환산 70억달러 런레이트
+2. Meta, Stripe 지원으로 크리에이터 USDC 지급 시작 — Libra/Diem 이후 재진입
+3. CLARITY Act, Tillis가 5월 마크업 추진 — 쟁점은 stablecoin yield와 개발자 보호
+4. KelpDAO 2.92억달러 익스플로잇 후폭풍, Standard Chartered “DeFi bent, not broken” 평가
+5. Pump.fun, 100% 매출 소각 정책 폐기 — 36% 공급 소각 후 50/50 모델로 전환
+- ✅ 텔레그램 전송 완료 (messageId: 1930)
+
 ### 2026-04-29
 1. Visa·WeFi, 스테이블코인 기반 ‘온체인 뱅킹’ 결제 레일 협력
 2. 이스라엘, 첫 셰켈 연동 규제 스테이블코인 BILS 승인
