@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.04.28
+☕ 크립토 모닝 브리핑 — 2026.05.01
 
-1️⃣ Aave·DeFi United, KelpDAO 후폭풍에 3억달러+ 공동구제 체제로 확대
-2️⃣ Western Union, 5월 USDPT 출시 준비 — 송금사의 스테이블코인 결제 레일 진입
-3️⃣ MiCA, 유로 스테이블코인을 ‘안전하지만 약하게’ 만들었다는 보고서 제기
-4️⃣ IREN, BTC 채굴에서 AI 클라우드로 무게중심 이동 — 채굴업의 전력 인프라 재가격화
-5️⃣ 프랑스, 크립토 ‘렌치 어택’ 12건 관련 88명 기소 — 온체인 보안이 물리 보안으로 확장
+1️⃣ 북한계 해킹, 2026년 크립토 해킹 손실의 76% 차지 — Drift·KelpDAO 두 건만 5.77억달러
+2️⃣ Anchorage Digital × M0 — 미국 규제형 스테이블코인 발행 플랫폼 경쟁 본격화
+3️⃣ AllUnity, MiCA 규제 유로 스테이블코인 EURAU를 Solana로 확장
+4️⃣ Polymarket 군사·방위 시장, 내부정보 우위 의혹 확대
+5️⃣ CLARITY Act, 5월 중순 마크업 압박 — stablecoin yield·윤리·개발자 보호가 쟁점
 
-📌 스테이블코인·DeFi 복구·채굴 인프라·보안이 모두 현실 세계 운영 리스크와 산업 인프라 경쟁으로 이동 중.
+📌 보안 리스크는 국가 단위로 집중되고, 스테이블코인은 기관 발행·결제 인프라 경쟁으로 이동 중입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-04-28.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-01.md

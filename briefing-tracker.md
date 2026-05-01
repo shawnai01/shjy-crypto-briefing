@@ -9,6 +9,14 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-01
+1. 북한계 해킹, 2026년 크립토 해킹 손실의 76% 차지 — Drift·KelpDAO 두 건만 5.77억달러
+2. Anchorage Digital × M0 — 미국 규제형 스테이블코인 발행 플랫폼 경쟁 본격화
+3. AllUnity, MiCA 규제 유로 스테이블코인 EURAU를 Solana로 확장
+4. Polymarket 군사·방위 시장, 내부정보 우위 의혹 확대
+5. CLARITY Act, 5월 중순 마크업 압박 — 쟁점은 stablecoin yield·윤리조항·개발자 보호
+- ✅ 텔레그램 전송 완료 (messageId: 1949)
+
 ### 2026-04-30
 1. Visa, 스테이블코인 결제 파일럿 9개 체인으로 확대 — 연환산 70억달러 런레이트
 2. Meta, Stripe 지원으로 크리에이터 USDC 지급 시작 — Libra/Diem 이후 재진입
