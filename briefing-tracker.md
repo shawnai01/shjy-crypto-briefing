@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-02
+1. CLARITY Act 절충안, 스테이블코인 리워드 일부 허용 — 은행 예금형 수익은 차단
+2. Consensys, GENIUS Act/OCC 규칙에 DeFi yield·유통 파트너 예외 명확화 요구
+3. 영국 FCA, 토큰화 펀드 가이던스·Direct-to-Fund 모델 발표
+4. Wasabi Protocol, 관리자 키 compromise로 약 455만달러 유출
+5. 4월 크립토 VC 투자, 6.59억달러로 2024년 7월 이후 최저
+- ✅ 텔레그램 전송 완료 (messageId: 1965)
+
+
 ### 2026-05-01
 1. 북한계 해킹, 2026년 크립토 해킹 손실의 76% 차지 — Drift·KelpDAO 두 건만 5.77억달러
 2. Anchorage Digital × M0 — 미국 규제형 스테이블코인 발행 플랫폼 경쟁 본격화

@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.01
+☕ 크립토 모닝 브리핑 — 2026.05.02
 
-1️⃣ 북한계 해킹, 2026년 크립토 해킹 손실의 76% 차지 — Drift·KelpDAO 두 건만 5.77억달러
-2️⃣ Anchorage Digital × M0 — 미국 규제형 스테이블코인 발행 플랫폼 경쟁 본격화
-3️⃣ AllUnity, MiCA 규제 유로 스테이블코인 EURAU를 Solana로 확장
-4️⃣ Polymarket 군사·방위 시장, 내부정보 우위 의혹 확대
-5️⃣ CLARITY Act, 5월 중순 마크업 압박 — stablecoin yield·윤리·개발자 보호가 쟁점
+1️⃣ CLARITY Act 절충안, 스테이블코인 리워드 일부 허용 — 은행 예금형 수익은 차단
+2️⃣ Consensys, GENIUS Act/OCC 규칙에 DeFi yield·유통 파트너 예외 명확화 요구
+3️⃣ 영국 FCA, 토큰화 펀드 가이던스·Direct-to-Fund 모델 발표
+4️⃣ Wasabi Protocol, 관리자 키 compromise로 약 455만달러 유출
+5️⃣ 4월 크립토 VC 투자, 6.59억달러로 2024년 7월 이후 최저
 
-📌 보안 리스크는 국가 단위로 집중되고, 스테이블코인은 기관 발행·결제 인프라 경쟁으로 이동 중입니다.
+📌 오늘의 흐름: 규제는 스테이블코인·토큰화의 제도권 경계를 좁히고, 시장은 보안·자금조달 리스크를 다시 가격에 반영 중.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-01.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-02.md
