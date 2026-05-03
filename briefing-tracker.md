@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-03
+1. CLARITY Act 스테이블코인 yield 절충안 — “보유 이자” 금지, “사용 보상” 허용
+2. KelpDAO 2.92억달러 사고 후폭풍 — DeFi 담보·브릿지·리스크 관리 재설계 압박
+3. 4월 크립토 해킹 6.35억달러 — 북한계 공격이 보안 리스크의 중심으로 이동
+4. SEC crypto exemption 논쟁 — Atkins 완화 기조에 Warren·Van Hollen 공개 견제
+5. MegaETH MEGA 출시 — 16억달러 FDV, KPI 기반 unlock 실험
+- ✅ 텔레그램 전송 완료 (messageId: 1976)
+
+
 ### 2026-05-02
 1. CLARITY Act 절충안, 스테이블코인 리워드 일부 허용 — 은행 예금형 수익은 차단
 2. Consensys, GENIUS Act/OCC 규칙에 DeFi yield·유통 파트너 예외 명확화 요구
