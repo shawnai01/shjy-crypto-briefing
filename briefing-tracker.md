@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-04
+1. Coinbase “CLARITY Act 상원 경로 열렸다” — 스테이블코인 보상 절충안
+2. NYSE, DTC 파일럿 기반 토큰화 주식 거래 규칙 변경 신청
+3. a16z, CFTC 편에 서서 주별 예측시장 금지에 반대
+4. Ethereum Foundation, BitMine에 10,000 ETH 추가 OTC 매각
+5. 뉴욕 AG, Uphold의 CredEarn 홍보 관련 500만달러+ 합의 확보
+- ✅ 텔레그램 전송 완료 (messageId: 1991)
+
+
 ### 2026-05-03
 1. CLARITY Act 스테이블코인 yield 절충안 — “보유 이자” 금지, “사용 보상” 허용
 2. KelpDAO 2.92억달러 사고 후폭풍 — DeFi 담보·브릿지·리스크 관리 재설계 압박
