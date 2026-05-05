@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-05
+1. Western Union, Solana 기반 USDPT 출시 — 송금사가 자체 스테이블코인 결제망으로 진입
+2. 캐나다 CADD 출시 — Shopify·National Bank 후원 CAD 스테이블코인
+3. DTCC, 토큰화 증권 플랫폼 7월 파일럿·10월 출시 계획
+4. Coinbase, Solana 거래 라우터로 DFlow 통합 — 실패율 8배 개선 주장
+5. Arbitrum 동결 KelpDAO ETH, 북한 피해자 청구권과 충돌
+- ✅ 텔레그램 전송 완료 (messageId: 2001)
+
+
 ### 2026-05-04
 1. Coinbase “CLARITY Act 상원 경로 열렸다” — 스테이블코인 보상 절충안
 2. NYSE, DTC 파일럿 기반 토큰화 주식 거래 규칙 변경 신청

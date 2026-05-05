@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.04
+☕ 크립토 모닝 브리핑 — 2026.05.05
 
-1️⃣ Coinbase “CLARITY Act 상원 경로 열렸다” — 스테이블코인 보상 절충안
-2️⃣ NYSE, DTC 파일럿 기반 토큰화 주식 거래 규칙 변경 신청
-3️⃣ a16z, CFTC 편에 서서 주별 예측시장 금지에 반대
-4️⃣ Ethereum Foundation, BitMine에 10,000 ETH 추가 OTC 매각
-5️⃣ 뉴욕 AG, Uphold의 CredEarn 홍보 관련 500만달러+ 합의 확보
+1️⃣ Western Union, Solana 기반 USDPT 출시 — 송금사가 자체 스테이블코인 결제망으로 진입
+2️⃣ 캐나다 CADD 출시 — Shopify·National Bank 후원 CAD 스테이블코인
+3️⃣ DTCC, 토큰화 증권 플랫폼 7월 파일럿·10월 출시 계획
+4️⃣ Coinbase, Solana 거래 라우터로 DFlow 통합 — 실패율 8배 개선 주장
+5️⃣ Arbitrum 동결 KelpDAO ETH, 북한 피해자 청구권과 충돌
 
-📌 오늘 핵심은 미국 규제·토큰화 증권·예측시장 관할권이 제도권 레일로 이동하는 가운데, ETH 재단 재무관리와 과거 yield 상품 집행 리스크가 다시 부각된 점입니다.
+📌 스테이블코인·토큰화 증권은 제도권 결제/청산 레일로 들어오고, DeFi 해킹 복구는 법적 리스크까지 끌어안는 국면입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-04.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-05.md
