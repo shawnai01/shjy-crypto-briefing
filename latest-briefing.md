@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.05
+☕ 크립토 모닝 브리핑 — 2026.05.06
 
-1️⃣ Western Union, Solana 기반 USDPT 출시 — 송금사가 자체 스테이블코인 결제망으로 진입
-2️⃣ 캐나다 CADD 출시 — Shopify·National Bank 후원 CAD 스테이블코인
-3️⃣ DTCC, 토큰화 증권 플랫폼 7월 파일럿·10월 출시 계획
-4️⃣ Coinbase, Solana 거래 라우터로 DFlow 통합 — 실패율 8배 개선 주장
-5️⃣ Arbitrum 동결 KelpDAO ETH, 북한 피해자 청구권과 충돌
+1️⃣ Bullish, Equiniti 42억달러 인수 — 토큰화 증권 인프라 풀스택화
+2️⃣ Coinbase, 인력 14% 감축 — AI가 크립토 조직 구조를 재가격화
+3️⃣ Solana ‘Alpenglow’ 업그레이드, 빠르면 다음 분기 — finality 경쟁 재점화
+4️⃣ Drift, 2.95억달러 DPRK 연계 해킹 복구안 발표 — DeFi 손실을 토큰화 채권으로 처리
+5️⃣ Ripple·Crypto ISAC, 북한 해커 인텔 공유 — 2026년 해킹 손실 76%가 DPRK 연계
 
-📌 스테이블코인·토큰화 증권은 제도권 결제/청산 레일로 들어오고, DeFi 해킹 복구는 법적 리스크까지 끌어안는 국면입니다.
+📌 기관 토큰화는 전진 중이지만, AI 비용절감과 북한계 보안 리스크가 크립토 운영 기준을 다시 쓰는 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-05.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-06.md

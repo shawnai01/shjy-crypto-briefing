@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-06
+1. Bullish, Equiniti 42억달러 인수 — 토큰화 증권 인프라 풀스택화
+2. Coinbase, 인력 14% 감축 — AI가 크립토 조직 구조를 재가격화
+3. Solana ‘Alpenglow’ 업그레이드, 빠르면 다음 분기 — finality 경쟁 재점화
+4. Drift, 2.95억달러 DPRK 연계 해킹 복구안 발표 — DeFi 손실을 토큰화 채권으로 처리
+5. Ripple·Crypto ISAC, 북한 해커 인텔 공유 — 2026년 해킹 손실 76%가 DPRK 연계
+- ✅ 텔레그램 전송 완료 (messageId: 2030)
+
+
 ### 2026-05-05
 1. Western Union, Solana 기반 USDPT 출시 — 송금사가 자체 스테이블코인 결제망으로 진입
 2. 캐나다 CADD 출시 — Shopify·National Bank 후원 CAD 스테이블코인
