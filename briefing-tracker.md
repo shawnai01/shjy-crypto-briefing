@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-08
+1. BNY, 아부다비에서 BTC·ETH 커스터디 추진 — 중동 토큰화 허브 경쟁 가속
+2. Kraken 모회사 Payward, Reap 6억달러 인수 추진 — 아시아 스테이블코인 결제 인프라 확보
+3. Anchorage “은행·테크 최대 20곳이 스테이블코인 발행 대기” — GENIUS Act 이후 발행 레이어 경쟁
+4. Bridge·Deus X “다음 스테이블코인 성장축은 대기업 treasury와 AI agent 결제”
+5. BitMine, ETH 매수 속도 둔화 가능성 — 5% 공급 목표 근접 후 staking·buyback 전환 시사
+- ✅ 텔레그램 전송 완료 (messageId: 2053)
+
+
 ### 2026-05-07
 1. 백악관, CLARITY Act 7월 4일 통과 목표 — 시장구조 법안 타임라인 재가속
 2. DTCC, 고성능 L1과 corporate actions 토큰화 테스트 — 증권 백오피스 온체인화
