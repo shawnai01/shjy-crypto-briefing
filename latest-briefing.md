@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.08
+☕ 크립토 모닝 브리핑 — 2026.05.09
 
-1️⃣ BNY, 아부다비에서 BTC·ETH 커스터디 추진 — 중동 토큰화 허브 경쟁 가속
-2️⃣ Kraken 모회사 Payward, Reap 6억달러 인수 추진 — 아시아 스테이블코인 결제 인프라 확보
-3️⃣ Anchorage “은행·테크 최대 20곳이 스테이블코인 발행 대기” — GENIUS Act 이후 발행 레이어 경쟁
-4️⃣ Bridge·Deus X “다음 스테이블코인 성장축은 대기업 treasury와 AI agent 결제”
-5️⃣ BitMine, ETH 매수 속도 둔화 가능성 — 5% 공급 목표 근접 후 staking·buyback 전환 시사
+1️⃣ Consensus 2026: 스테이블코인은 “허가증”을 얻었지만 인프라·프라이버시가 병목
+2️⃣ Warren, Meta의 스테이블코인 계획에 질의 — 빅테크 결제 재진입 감시 강화
+3️⃣ Tether, 30일간 5.14억달러 USDT 동결 보도 — 스테이블코인 집행 레이어 확대
+4️⃣ Coinbase, Q1 3.94억달러 순손실 — 거래 수익 의존 모델 압박 지속
+5️⃣ ECB Lagarde, 유로 스테이블코인보다 중앙은행 기반 토큰화 결제 인프라 강조
 
-📌 기관권은 커스터디·스테이블코인 발행·결제 인프라로 들어오고, 시장은 ETH treasury 매수세의 다음 국면을 보기 시작했습니다.
+📌 스테이블코인은 제도권 문턱을 넘었지만, 다음 승부는 규제 신뢰·프라이버시·집행 권한·빅테크/중앙은행과의 힘겨루기입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-08.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-09.md
