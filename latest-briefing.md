@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.09
+☕ 크립토 모닝 브리핑 — 2026.05.10
 
-1️⃣ Consensus 2026: 스테이블코인은 “허가증”을 얻었지만 인프라·프라이버시가 병목
-2️⃣ Warren, Meta의 스테이블코인 계획에 질의 — 빅테크 결제 재진입 감시 강화
-3️⃣ Tether, 30일간 5.14억달러 USDT 동결 보도 — 스테이블코인 집행 레이어 확대
-4️⃣ Coinbase, Q1 3.94억달러 순손실 — 거래 수익 의존 모델 압박 지속
-5️⃣ ECB Lagarde, 유로 스테이블코인보다 중앙은행 기반 토큰화 결제 인프라 강조
+1️⃣ CLARITY Act, 5월 14일 상원 마크업 예정 — 미국 시장구조 법안 재가속
+2️⃣ BlackRock, 토큰화 Treasury reserve fund·$7B MMF 온체인 share class 추진
+3️⃣ LayerZero, Kelp $292M 사고 관련 “1/1 DVN 허용은 실수” 인정
+4️⃣ 미 법원, Aave의 $71M ETH 회수 경로 허용 — DeFi 복구와 법적 청구권 병존
+5️⃣ AWS Bedrock AgentCore Payments, Coinbase x402·Stripe 내장 — AI 에이전트 결제 레일 상용화
 
-📌 스테이블코인은 제도권 문턱을 넘었지만, 다음 승부는 규제 신뢰·프라이버시·집행 권한·빅테크/중앙은행과의 힘겨루기입니다.
+📌 오늘은 규제·토큰화·크로스체인 보안·AI 결제가 모두 “실험”에서 제도권 운영 레이어로 이동하는 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-09.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-10.md

@@ -501,3 +501,11 @@
 3. 코스피 이틀간 -20% 폭락 → 한국 자금 크립토 회전 조짐
 4. Sky(구 Maker) 거버넌스: 발행 축소 + $1.14억 바이백 → SKY +10%
 5. Eric Trump, 스테이블코인 수익률 놓고 은행 공격 — Clarity Act 논쟁 격화
+
+### 2026-05-10
+1. CLARITY Act, 5월 14일 상원 마크업 예정 — 미국 시장구조 법안 재가속
+2. BlackRock, 토큰화 Treasury reserve fund·$7B MMF 온체인 share class 추진
+3. LayerZero, Kelp $292M 사고 관련 “1/1 DVN 허용은 실수” 인정
+4. 미 법원, Aave의 $71M ETH 회수 경로 허용 — DeFi 복구와 법적 청구권 병존
+5. AWS Bedrock AgentCore Payments, Coinbase x402·Stripe 내장 — AI 에이전트 결제 레일 상용화
+- ✅ 텔레그램 전송 완료 (messageId: 2065)
