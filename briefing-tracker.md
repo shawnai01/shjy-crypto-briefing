@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-11
+1. JPMorgan·Mastercard·Ripple·Ondo, XRPL 기반 토큰화 국채 상환을 5초 내 처리
+2. Chainlink, Ondo 토큰화 주식/ETF 가격피드(SPYon·QQQon·TSLAon)를 Ethereum에 제공
+3. SEC Paul Atkins, 온체인 trading system·crypto vault·settlement rulemaking 시사
+4. Bank of Canada, 캐나다 스테이블코인 규칙은 2027년 중·후반 가능성
+5. Project Eleven, 양자컴퓨팅 리스크가 블록체인·금융 인프라 전반으로 확산될 수 있다고 경고
+- ✅ 텔레그램 전송 완료 (messageId: 2071)
+
+
 ### 2026-05-09
 1. Consensus 2026: 스테이블코인은 “허가증”을 얻었지만 인프라·프라이버시가 병목
 2. Warren, Meta의 스테이블코인 계획에 질의 — 빅테크 결제 재진입 감시 강화
