@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-12
+1. Circle, Arc 블록체인 프리세일 2.22억달러 — 약 30억달러 밸류
+2. 미국 은행권, CLARITY Act 스테이블코인 yield 제한 압박 강화
+3. BlackRock, 온체인 국채·머니마켓 펀드 라인업 확대 신청
+4. Solana Alpenglow, 커뮤니티 테스트 클러스터에서 가동
+5. Ronin, 독립 sidechain에서 Ethereum L2로 전환
+- ✅ 텔레그램 전송 완료 (messageId: 2073)
+
+
 ### 2026-05-11
 1. JPMorgan·Mastercard·Ripple·Ondo, XRPL 기반 토큰화 국채 상환을 5초 내 처리
 2. Chainlink, Ondo 토큰화 주식/ETF 가격피드(SPYon·QQQon·TSLAon)를 Ethereum에 제공

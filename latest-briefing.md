@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.11
+☕ 크립토 모닝 브리핑 — 2026.05.12
 
-1️⃣ JPMorgan·Mastercard·Ripple·Ondo, XRPL 기반 토큰화 국채 상환을 5초 내 처리
-2️⃣ Chainlink, Ondo 토큰화 주식/ETF 가격피드(SPYon·QQQon·TSLAon)를 Ethereum에 제공
-3️⃣ SEC Paul Atkins, 온체인 trading system·crypto vault·settlement rulemaking 시사
-4️⃣ Bank of Canada, 캐나다 스테이블코인 규칙은 2027년 중·후반 가능성
-5️⃣ Project Eleven, 양자컴퓨팅 리스크가 블록체인·금융 인프라 전반으로 확산될 수 있다고 경고
+1️⃣ Circle, Arc 블록체인 프리세일 2.22억달러 — 약 30억달러 밸류
+2️⃣ 미국 은행권, CLARITY Act 스테이블코인 yield 제한 압박 강화
+3️⃣ BlackRock, 온체인 국채·머니마켓 펀드 라인업 확대 신청
+4️⃣ Solana Alpenglow, 커뮤니티 테스트 클러스터에서 가동
+5️⃣ Ronin, 독립 sidechain에서 Ethereum L2로 전환
 
-📌 오늘은 토큰화 자산이 발행을 넘어 정산·담보·규칙·보안 레이어로 내려오는 흐름입니다.
+📌 오늘은 스테이블코인 규제·토큰화 펀드·체인 구조 업그레이드가 한 번에 움직였습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-11.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-12.md
