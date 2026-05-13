@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.12
+☕ 크립토 모닝 브리핑 — 2026.05.13
 
-1️⃣ Circle, Arc 블록체인 프리세일 2.22억달러 — 약 30억달러 밸류
-2️⃣ 미국 은행권, CLARITY Act 스테이블코인 yield 제한 압박 강화
-3️⃣ BlackRock, 온체인 국채·머니마켓 펀드 라인업 확대 신청
-4️⃣ Solana Alpenglow, 커뮤니티 테스트 클러스터에서 가동
-5️⃣ Ronin, 독립 sidechain에서 Ethereum L2로 전환
+1️⃣ JPMorgan, Ethereum 기반 토큰화 MMF `JLTXX` 출시 신청
+2️⃣ Ethereum Foundation, 악성 승인 방지용 `Clear Signing` 표준 공개
+3️⃣ DTCC, Chainlink와 토큰화 담보 AppChain 확장 — Q4 출시 준비
+4️⃣ Kraken 모회사 Payward, Franklin Templeton과 온체인 투자상품 개발
+5️⃣ Elliptic, Nasdaq·Deutsche Bank 참여로 1.2억달러 조달
 
-📌 오늘은 스테이블코인 규제·토큰화 펀드·체인 구조 업그레이드가 한 번에 움직였습니다.
+📌 기관 토큰화 레일은 확장 중이고, 보안·컴플라이언스는 필수 인프라가 되고 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-12.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-13.md

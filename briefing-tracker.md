@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-13
+1. JPMorgan, Ethereum 기반 토큰화 MMF `JLTXX` 출시 신청
+2. Ethereum Foundation, 악성 승인 방지용 `Clear Signing` 표준 공개
+3. DTCC, Chainlink와 토큰화 담보 AppChain 확장 — Q4 출시 준비
+4. Kraken 모회사 Payward, Franklin Templeton과 온체인 투자상품 개발
+5. Elliptic, Nasdaq·Deutsche Bank 참여로 1.2억달러 조달
+- ✅ 텔레그램 전송 완료 (messageId: 2075)
+
+
 ### 2026-05-12
 1. Circle, Arc 블록체인 프리세일 2.22억달러 — 약 30억달러 밸류
 2. 미국 은행권, CLARITY Act 스테이블코인 yield 제한 압박 강화
