@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-14
+1. 토큰화 미국채 TVL, 153.5억달러로 사상 최고 재돌파
+2. CLARITY Act, 상원 표결 앞두고 stablecoin yield·DeFi 조항 공방
+3. LayerZero, KelpDAO 사고 관련 “1-of-1 DVN 허용은 실수” 인정
+4. KRWQ, Solana로 확장 — 온체인 원화 결제/FX 레이어 실험
+5. Arc·Canton·Tempo, 기관용 stablecoin/tokenization 체인에 10억달러+ 조달
+- ✅ 텔레그램 전송 완료 (messageId: 2081)
+
+
 ### 2026-05-13
 1. JPMorgan, Ethereum 기반 토큰화 MMF `JLTXX` 출시 신청
 2. Ethereum Foundation, 악성 승인 방지용 `Clear Signing` 표준 공개
