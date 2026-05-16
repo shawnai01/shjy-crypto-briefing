@@ -9,6 +9,15 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-16
+1. CLARITY Act, 상원 은행위 통과 — 본회의 변수는 윤리 조항·은행권 반대
+2. 폴란드, MiCA 이행 크립토 법안 승인 — EU 라이선스 현지 집행 강화
+3. Bitwise, Hyperliquid ETF(BHYP) 거래 시작 — staking 내장형 DeFi ETP 실험
+4. Coinbase·Circle, Hyperliquid USDC AQA 지원 — stablecoin yield 경쟁이 프로토콜 레벨로 이동
+5. Bitcoin Depot, 10-Q 지연·going-concern 경고 — 크립토 ATM 규제/소송 리스크 부각
+- ✅ 텔레그램 전송 완료 (messageId: 2089)
+
+
 ### 2026-05-14
 1. 토큰화 미국채 TVL, 153.5억달러로 사상 최고 재돌파
 2. CLARITY Act, 상원 표결 앞두고 stablecoin yield·DeFi 조항 공방

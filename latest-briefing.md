@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.14
+☕ 크립토 모닝 브리핑 — 2026.05.16
 
-1️⃣ 토큰화 미국채 TVL, 153.5억달러로 사상 최고 재돌파
-2️⃣ CLARITY Act, 상원 표결 앞두고 stablecoin yield·DeFi 조항 공방
-3️⃣ LayerZero, KelpDAO 사고 관련 “1-of-1 DVN 허용은 실수” 인정
-4️⃣ KRWQ, Solana로 확장 — 온체인 원화 결제/FX 레이어 실험
-5️⃣ Arc·Canton·Tempo, 기관용 stablecoin/tokenization 체인에 10억달러+ 조달
+1️⃣ CLARITY Act, 상원 은행위 통과 — 본회의 변수는 윤리 조항·은행권 반대
+2️⃣ 폴란드, MiCA 이행 크립토 법안 승인 — EU 라이선스 현지 집행 강화
+3️⃣ Bitwise, Hyperliquid ETF(BHYP) 거래 시작 — staking 내장형 DeFi ETP 실험
+4️⃣ Coinbase·Circle, Hyperliquid USDC AQA 지원 — stablecoin yield 경쟁이 프로토콜 레벨로 이동
+5️⃣ Bitcoin Depot, 10-Q 지연·going-concern 경고 — 크립토 ATM 규제/소송 리스크 부각
 
-📌 기관 자금은 RWA·규제·보안·비달러 결제 레일로 재배치 중.
+📌 규제는 협상 국면으로, 스테이블코인은 수익 배분 레이어로, DeFi 인프라는 제도권 상품으로 이동 중.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-14.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-16.md
