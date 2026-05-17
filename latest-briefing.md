@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.05.16
+☕ 크립토 모닝 브리핑 — 2026.05.17
 
-1️⃣ CLARITY Act, 상원 은행위 통과 — 본회의 변수는 윤리 조항·은행권 반대
-2️⃣ 폴란드, MiCA 이행 크립토 법안 승인 — EU 라이선스 현지 집행 강화
-3️⃣ Bitwise, Hyperliquid ETF(BHYP) 거래 시작 — staking 내장형 DeFi ETP 실험
-4️⃣ Coinbase·Circle, Hyperliquid USDC AQA 지원 — stablecoin yield 경쟁이 프로토콜 레벨로 이동
-5️⃣ Bitcoin Depot, 10-Q 지연·going-concern 경고 — 크립토 ATM 규제/소송 리스크 부각
+1️⃣ CLARITY Act, 상원 은행위 통과 후 핵심 변수는 ‘윤리 조항’
+2️⃣ 미국 spot Bitcoin ETF, 6주 연속 순유입 종료 — 주간 10억달러 순유출
+3️⃣ 매크로 쇼크로 BTC 7.8만달러 하회, 24시간 청산 약 6.96억달러
+4️⃣ Strategy, 2029 전환사채 15억달러 조기상환 추진 — BTC 매각 가능성 문구 재부각
+5️⃣ 하나은행, Upbit 운영사 Dunamu 지분 6.55% 인수 추진
 
-📌 규제는 협상 국면으로, 스테이블코인은 수익 배분 레이어로, DeFi 인프라는 제도권 상품으로 이동 중.
+📌 규제 기대는 살아 있지만, 금리 재가격화·ETF 유출·treasury 부채 관리가 동시에 시장을 압박하는 구간입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-16.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-17.md
