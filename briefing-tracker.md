@@ -9,6 +9,16 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-18
+1. THORChain, 멀티체인 익스플로잇 후 글로벌 halt — DeFi 신뢰 시험대
+2. SBI·Rakuten, 일본 규제 정비 후 크립토 투자신탁 제공 계획
+3. 러시아 A7A5, 제재 우회용 스테이블코인에서 결제 인프라로 포지셔닝
+4. IREN, 30억달러 전환사채 마감 — Bitcoin miner의 AI 인프라 전환 가속
+5. VerifiedX, wrapper 없는 programmable Bitcoin DeFi 내러티브 제시
+- ⚠️ 텔레그램 전송 대기/도구 부재 (현 isolated 세션에 OpenClaw message route/tool 미노출) → latest-briefing.md에 요약문 저장
+- 📄 상세 보고서: reports/2026-05-18.md
+
+
 ### 2026-05-17
 1. CLARITY Act, 상원 은행위 통과 후 핵심 변수는 ‘윤리 조항’
 2. 미국 spot Bitcoin ETF, 6주 연속 순유입 종료 — 주간 10억달러 순유출
