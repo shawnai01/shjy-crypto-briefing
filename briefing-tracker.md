@@ -9,13 +9,23 @@
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 
+### 2026-05-19
+1. FCA·Bank of England, wholesale tokenization 공동 로드맵 공개
+2. Verus-Ethereum bridge, 약 1,150만달러 익스플로잇
+3. Aave, KelpDAO 후속 제한 해제 — WETH 담보/차입 정상화
+4. Bitcoin Depot, Chapter 11 신청 — crypto ATM 모델 압박
+5. Vitalik, AI-assisted formal verification을 보안 방어선으로 제시
+- ⚠️ 텔레그램 전송 대기/도구 부재 (현 isolated 세션에 OpenClaw message route/tool 미노출) → latest-briefing.md에 요약문 저장
+- 📄 상세 보고서: reports/2026-05-19.md
+
+
 ### 2026-05-18
 1. THORChain, 멀티체인 익스플로잇 후 글로벌 halt — DeFi 신뢰 시험대
 2. SBI·Rakuten, 일본 규제 정비 후 크립토 투자신탁 제공 계획
 3. 러시아 A7A5, 제재 우회용 스테이블코인에서 결제 인프라로 포지셔닝
 4. IREN, 30억달러 전환사채 마감 — Bitcoin miner의 AI 인프라 전환 가속
 5. VerifiedX, wrapper 없는 programmable Bitcoin DeFi 내러티브 제시
-- ⚠️ 텔레그램 전송 대기/도구 부재 (현 isolated 세션에 OpenClaw message route/tool 미노출) → latest-briefing.md에 요약문 저장
+- ✅ 텔레그램 전송 완료 (COO 워치독 보조 전송, 2026-05-18 10:18 KST; messageId 미확인)
 - 📄 상세 보고서: reports/2026-05-18.md
 
 
