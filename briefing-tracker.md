@@ -15,7 +15,7 @@
 3. Aave, KelpDAO 후속 제한 해제 — WETH 담보/차입 정상화
 4. Bitcoin Depot, Chapter 11 신청 — crypto ATM 모델 압박
 5. Vitalik, AI-assisted formal verification을 보안 방어선으로 제시
-- ⚠️ 텔레그램 전송 대기/도구 부재 (현 isolated 세션에 OpenClaw message route/tool 미노출) → latest-briefing.md에 요약문 저장
+- ✅ 텔레그램 전송 완료 (COO 워치독 보조 전송, 2026-05-19 10:18 KST; messageId: 2104)
 - 📄 상세 보고서: reports/2026-05-19.md
 
 
