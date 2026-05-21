@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-21
+1. Fed, crypto firms용 제한형 payment account 제안 공개
+2. EU, MiCA 재검토 consultation 개시 — 8월 31일까지 의견수렴
+3. 미국 PARITY Act 재상정 — stablecoin 세무·소액거래 과세 쟁점화
+4. Polymarket, parlay형 event contracts 추진 — SEC도 event contract ETF 의견수렴
+5. Securitize, Q1 매출 사상 최대지만 RWA 흑자 모델은 검증 중
+- ⚠️ 텔레그램 직접 전송 미실행 (현 세션에 message route/tool 없음) → latest-briefing.md에 요약안 저장, 10:05 메인 전송 크론/수동 전송 대기
+- 📄 상세 보고서: reports/2026-05-21.md
+
 
 ### 2026-05-19
 1. FCA·Bank of England, wholesale tokenization 공동 로드맵 공개
