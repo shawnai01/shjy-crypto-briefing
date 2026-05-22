@@ -601,3 +601,11 @@
 4. 미 법원, Aave의 $71M ETH 회수 경로 허용 — DeFi 복구와 법적 청구권 병존
 5. AWS Bedrock AgentCore Payments, Coinbase x402·Stripe 내장 — AI 에이전트 결제 레일 상용화
 - ✅ 텔레그램 전송 완료 (messageId: 2065)
+
+### 2026-05-22
+1. CoinShares: 크립토 ETP 10.7억달러 순유출 — 6주 유입 종료
+2. SEC, tokenized stock 거래용 innovation exemption 검토
+3. Aave, KelpDAO 후속 WETH 동결 해제·LTV 복원 단계 진입
+4. Meta stablecoin 파일럿, Warren의 5월 20일 답변 요구 시한 경과
+5. Fed·FDIC, stablecoin을 금융 안정성/은행 규칙 안으로 편입 중
+- ✅ 텔레그램 전송 완료 (messageId: 2157)
