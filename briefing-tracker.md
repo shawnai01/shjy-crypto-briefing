@@ -14,7 +14,7 @@
 3. 백악관, Fed에 크립토·핀테크 payment account 접근성 검토 지시
 4. ICE·OKX, Brent/WTI 원유 perpetual futures 출시 추진
 5. NEAR, privacy·AI·dynamic resharding 업데이트로 AI agent 내러티브 재부상
-- ⚠️ 텔레그램 직접 전송 미실행 (현 격리 세션에 Telegram message route 도구 없음) → latest-briefing.md에 요약안 저장, 10:05 메인 전송 크론/워치독 대기
+- ✅ 텔레그램 전송 완료 (COO 워치독 보조 전송, 2026-05-24 10:16 KST; messageId: 2164)
 - 📄 상세 보고서: reports/2026-05-24.md
 
 ### 2026-05-22
