@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-24
+1. BTC 7.5만달러 하회 — 청산 9.17억달러·ETF 주간 12.5억달러 유출
+2. Polymarket, 내부 top-up 지갑 키 유출로 약 70만달러 손실
+3. 백악관, Fed에 크립토·핀테크 payment account 접근성 검토 지시
+4. ICE·OKX, Brent/WTI 원유 perpetual futures 출시 추진
+5. NEAR, privacy·AI·dynamic resharding 업데이트로 AI agent 내러티브 재부상
+- ⚠️ 텔레그램 직접 전송 미실행 (현 격리 세션에 Telegram message route 도구 없음) → latest-briefing.md에 요약안 저장, 10:05 메인 전송 크론/워치독 대기
+- 📄 상세 보고서: reports/2026-05-24.md
+
 ### 2026-05-22
 1. CoinShares: 크립토 ETP 10.7억달러 순유출 — 6주 유입 종료
 2. SEC, tokenized stock 거래용 innovation exemption 검토
