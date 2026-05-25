@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-25
+1. BTC 7.4만달러대 급락 — spot ETF 2주간 22.6억달러 유출
+2. SEC tokenized stock exemption, 합성 주식 토큰은 제외 방향
+3. ECB, 유로 스테이블코인 완화안에 반대 — 은행 안정성 우선
+4. AI agent 결제 레이어로 stablecoin rails 부상 — USDC 집중도 98.6%
+5. DeFi exploit 손실 8.4억달러+ — bridge/admin 리스크 재부각
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-25.md
+
 ### 2026-05-24
 1. BTC 7.5만달러 하회 — 청산 9.17억달러·ETF 주간 12.5억달러 유출
 2. Polymarket, 내부 top-up 지갑 키 유출로 약 70만달러 손실
