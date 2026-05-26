@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.05.25
+☕ 크립토 모닝 브리핑 — 2026.05.26
 
-1️⃣ BTC 7.4만달러대 급락 — spot ETF 2주간 22.6억달러 유출
-2️⃣ SEC tokenized stock exemption, 합성 주식 토큰은 제외 방향
-3️⃣ ECB, 유로 스테이블코인 완화안에 반대 — 은행 안정성 우선
-4️⃣ AI agent 결제 레이어로 stablecoin rails 부상 — USDC 집중도 98.6%
-5️⃣ DeFi exploit 손실 8.4억달러+ — bridge/admin 리스크 재부각
+1️⃣ BTC/ETH ETF 12억달러+ 유출 — HYPE/XRP/SOL로 선택적 회전
+2️⃣ Hyperliquid, pre-IPO/RWA/perp/prediction market 경계로 확장
+3️⃣ SEC, Nasdaq Bitcoin Index Options(QBTC) 가속 승인
+4️⃣ Vitalik, EF 축소·ETH 매도 축소·CROPS 집중 언급
+5️⃣ 인도네시아, Polymarket 차단 — prediction market 도박 분류
 
-📌 오늘은 ETF 유출로 risk-off가 강하지만, 규제형 토큰화·stablecoin 결제·AI agent rails는 계속 제도권 인프라로 전진 중입니다.
+📌 대형 BTC/ETH 베타는 약하지만, 거래 인프라·규제형 접근성·RWA/prediction market 경계에서는 구조 변화가 계속됩니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-25.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-26.md
 
 ⚠️ 전송 대기: 현 isolated cron 세션에 Telegram message route/tool 없음.

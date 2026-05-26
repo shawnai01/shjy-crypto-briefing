@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-26
+1. BTC/ETH ETF 12억달러+ 유출 — HYPE/XRP/SOL로 선택적 회전
+2. Hyperliquid, pre-IPO/RWA/perp/prediction market 경계로 확장
+3. SEC, Nasdaq Bitcoin Index Options(QBTC) 가속 승인
+4. Vitalik, EF 축소·ETH 매도 축소·CROPS 집중 언급
+5. 인도네시아, Polymarket 차단 — prediction market 도박 분류
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-26.md
+
 ### 2026-05-25
 1. BTC 7.4만달러대 급락 — spot ETF 2주간 22.6억달러 유출
 2. SEC tokenized stock exemption, 합성 주식 토큰은 제외 방향
