@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-27
+1. 영국, Huobi/HTX·루블 스테이블코인 발행사 제재
+2. Base, ChatGPT/Claude/Cursor 지갑·DeFi 조작용 MCP 출시
+3. Prediction market, Trump/CFTC vs 주정부·해외 차단 충돌 확대
+4. Bitcoin 수요 지표, 2025년 12월 이후 최저 — spot 매수 약화
+5. ETH treasury 양극화 — Bitmine 대량 매수, SharpLink Russell 편입
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-27.md
+
 ### 2026-05-26
 1. BTC/ETH ETF 12억달러+ 유출 — HYPE/XRP/SOL로 선택적 회전
 2. Hyperliquid, pre-IPO/RWA/perp/prediction market 경계로 확장
