@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-28
+1. IBIT 12.9억달러 블록 매도 + BTC ETF 7거래일 연속 유출
+2. Cash App, 약 6천만 사용자 대상 USDC 결제 rollout 시작
+3. Mastercard, 뉴욕 BitLicense 확보 — stablecoin/tokenized deposit 인프라 준비
+4. DTCC, DTC custodied assets를 Stellar에 연결 계획
+5. BIS Project Agora, tokenized 예금·중앙은행 money 실거래 테스트로 이동
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-28.md
+
 ### 2026-05-27
 1. 영국, Huobi/HTX·루블 스테이블코인 발행사 제재
 2. Base, ChatGPT/Claude/Cursor 지갑·DeFi 조작용 MCP 출시
