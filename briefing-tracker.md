@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-30
+1. CFTC, Kalshi의 미국 첫 Bitcoin perpetual futures `BTCPERP` 승인
+2. Paxos, SEC 등록 clearing agency 확보 — tokenized equities 후단 인프라 진입
+3. Dimon, CLARITY Act stablecoin rewards 조항에 공개 반발
+4. Sui, 1.72 업그레이드 버그로 약 6시간 블록 생산 중단
+5. Texas, Strategic Bitcoin Reserve 자문위원회 구성 — IBIT에서 직접 custody로 이동 준비
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-30.md
+
 ### 2026-05-29
 1. BTC ETF, 7.33억달러 추가 유출 — IBIT 중심 리스크 축소 지속
 2. SoFi, 1,500만 회원 대상 은행 발행 stablecoin 공개

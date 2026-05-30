@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.05.29
+☕ 크립토 모닝 브리핑 — 2026.05.30
 
-1️⃣ BTC ETF, 7.33억달러 추가 유출 — IBIT 중심 리스크 축소 지속
-2️⃣ SoFi, 1,500만 회원 대상 은행 발행 stablecoin 공개
-3️⃣ VanEck, 미국 첫 spot BNB ETP `VBNB` 출시
-4️⃣ BIS Project Agora, tokenized cross-border settlement를 real-value 테스트로 이동
-5️⃣ Banca Sella, 이탈리아 첫 MiCA 기반 은행 crypto 서비스 승인
+1️⃣ CFTC, Kalshi의 미국 첫 Bitcoin perpetual futures `BTCPERP` 승인
+2️⃣ Paxos, SEC 등록 clearing agency 확보 — tokenized equities 후단 인프라 진입
+3️⃣ Dimon, CLARITY Act stablecoin rewards 조항에 공개 반발
+4️⃣ Sui, 1.72 업그레이드 버그로 약 6시간 블록 생산 중단
+5️⃣ Texas, Strategic Bitcoin Reserve 자문위원회 구성 — IBIT에서 직접 custody로 이동 준비
 
-📌 시장 베타는 식고 있지만, 은행·ETF·중앙은행 rails의 온체인화는 계속 전진 중입니다.
+📌 가격보다 구조가 중요합니다. 미국 crypto market structure가 perps, clearing, stablecoin yield, custody 쪽에서 동시에 움직이고 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-29.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-30.md
 
 ⚠️ 전송 대기: 현 isolated cron 세션에 Telegram message route/tool 없음.
