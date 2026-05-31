@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.05.30
+☕ 크립토 모닝 브리핑 — 2026.05.31
 
-1️⃣ CFTC, Kalshi의 미국 첫 Bitcoin perpetual futures `BTCPERP` 승인
-2️⃣ Paxos, SEC 등록 clearing agency 확보 — tokenized equities 후단 인프라 진입
-3️⃣ Dimon, CLARITY Act stablecoin rewards 조항에 공개 반발
-4️⃣ Sui, 1.72 업그레이드 버그로 약 6시간 블록 생산 중단
-5️⃣ Texas, Strategic Bitcoin Reserve 자문위원회 구성 — IBIT에서 직접 custody로 이동 준비
+1️⃣ Coinbase, CFTC 경로로 Deribit 글로벌 perps 접근권 확보
+2️⃣ Gravity Bridge, 약 540만달러 유출 — bridge key compromise 리스크 재부각
+3️⃣ BTC/ETH, 주식 9주 랠리에도 부진 — ETF bid 냉각 지속
+4️⃣ CFTC, Gemini 2025년 settlement 철회 공동 요청
+5️⃣ Arbitrum Foundation, 2027 운영비로 DAO treasury에 약 4,350만달러 요청
 
-📌 가격보다 구조가 중요합니다. 미국 crypto market structure가 perps, clearing, stablecoin yield, custody 쪽에서 동시에 움직이고 있습니다.
+📌 미국 perps/FCM 경로는 열리고, bridge 보안과 L2 treasury governance는 계속 시험대에 올라 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-30.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-05-31.md
 
-⚠️ 전송 대기: 현 isolated cron 세션에 Telegram message route/tool 없음.
+⚠️ 전송 대기: 현 isolated cron 세션에 Telegram group message route/tool 없음.

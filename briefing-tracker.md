@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-05-31
+1. Coinbase, CFTC 경로로 Deribit 글로벌 perps 접근권 확보
+2. Gravity Bridge, 약 540만달러 유출 — bridge key compromise 리스크 재부각
+3. BTC/ETH, 주식 9주 랠리에도 부진 — ETF bid 냉각 지속
+4. CFTC, Gemini 2025년 settlement 철회 공동 요청
+5. Arbitrum Foundation, 2027 운영비로 DAO treasury에 약 4,350만달러 요청
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-05-31.md
+
 ### 2026-05-30
 1. CFTC, Kalshi의 미국 첫 Bitcoin perpetual futures `BTCPERP` 승인
 2. Paxos, SEC 등록 clearing agency 확보 — tokenized equities 후단 인프라 진입
