@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-01
+1. Coinbase, 인도 INR 직접 입출금 레일 출시
+2. CME, crypto derivatives 24/7 전환 + BTC volatility futures 6/1 예정
+3. 미국, 이란 연계 crypto 약 10억달러 압류 주장
+4. ICE CEO, Hyperliquid를 “Nasdaq보다 큰” crypto-native venue로 언급
+5. Bitcoin ETF, 사상 최장 9거래일 유출 스트릭
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-01.md
+
 ### 2026-05-31
 1. Coinbase, CFTC 경로로 Deribit 글로벌 perps 접근권 확보
 2. Gravity Bridge, 약 540만달러 유출 — bridge key compromise 리스크 재부각
