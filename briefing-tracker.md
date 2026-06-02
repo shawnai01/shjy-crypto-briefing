@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-02
+1. Crypto funds, 2026년 두 번째로 큰 주간 유출 기록
+2. Strategy, 32 BTC 매도 — treasury model의 상징적 전환
+3. Aave, rsETH 사고 후 V3 상장 기준 전면 개편
+4. 일본 LDP, crypto ETF·엔화 stablecoin 프레임워크 지지
+5. Binance, 비미국 이용자 대상 7,000개+ 미국 주식·ETF 거래 출시
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-02.md
+
 ### 2026-06-01
 1. Coinbase, 인도 INR 직접 입출금 레일 출시
 2. CME, crypto derivatives 24/7 전환 + BTC volatility futures 6/1 예정
