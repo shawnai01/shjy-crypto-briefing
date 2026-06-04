@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-04
+1. Bitcoin, $66k 하회 — ETF 유출·레버리지 청산·Strategy 매도 충격 동시 반영
+2. CoinShares: 디지털자산 투자상품 16.7억달러 유출 — 3주 누적 42.1억달러
+3. Zcash, Orchard 취약점 긴급 대응 완료 — 프라이버시 풀 24시간 제한 후 재개
+4. Solana, native subscription delegation 공개 — 반복 결제/merchant billing 레일 표준화
+5. Hyperliquid, 약세장 속 제도권 상품화 지속 — VanEck HYPE ETN + ETF inflow
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-04.md
+
 ### 2026-06-03
 1. 미국, Nobitex 등 이란 crypto exchange 제재
 2. MoneyGram, Stellar 기반 자체 달러 stablecoin MGUSD 출시
