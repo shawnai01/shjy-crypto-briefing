@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-05
+1. BTC·ETH·SOL·XRP ETF, 13거래일 44억달러 유출 — HYPE만 순유입
+2. Mastercard, USDC·PYUSD·RLUSD 등 stablecoin settlement 확대
+3. SEC Peirce: DeFi 오픈소스 코드 공개는 보호받는 활동
+4. CLARITY Act, Senate calendar가 병목 — 여름 통과 목표는 유지
+5. Coinbase, SpaceX pre-IPO perpetual futures 출시 — private market exposure의 crypto화
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-05.md
+
 ### 2026-06-04
 1. Bitcoin, $66k 하회 — ETF 유출·레버리지 청산·Strategy 매도 충격 동시 반영
 2. CoinShares: 디지털자산 투자상품 16.7억달러 유출 — 3주 누적 42.1억달러

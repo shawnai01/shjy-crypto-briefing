@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.04
+☕ 크립토 모닝 브리핑 — 2026.06.05
 
-1️⃣ Bitcoin, $66k 하회 — ETF 유출·레버리지 청산·Strategy 매도 충격
-2️⃣ CoinShares: 디지털자산 투자상품 16.7억달러 유출 — 3주 누적 42.1억달러
-3️⃣ Zcash, Orchard 취약점 긴급 대응 완료 — 프라이버시 풀 24시간 제한 후 재개
-4️⃣ Solana, native subscription delegation 공개 — 반복 결제/merchant billing 레일 표준화
-5️⃣ Hyperliquid, 약세장 속 제도권 상품화 지속 — VanEck HYPE ETN + ETF inflow
+1️⃣ BTC·ETH·SOL·XRP ETF, 13거래일 44억달러 유출 — HYPE만 순유입
+2️⃣ Mastercard, USDC·PYUSD·RLUSD 등 stablecoin settlement 확대
+3️⃣ SEC Peirce: DeFi 오픈소스 코드 공개는 보호받는 활동
+4️⃣ CLARITY Act, Senate calendar가 병목 — 여름 통과 목표는 유지
+5️⃣ Coinbase, SpaceX pre-IPO perpetual futures 출시 — private market exposure의 crypto화
 
-📌 오늘 흐름은 broad crypto beta 약화 속에서도 결제 primitive·온체인 derivatives 같은 실사용 인프라만 선별적으로 부각되는 쪽입니다.
+📌 오늘 흐름은 market beta 약화와 별개로 결제·규제·private market rails가 제도권 인프라로 계속 편입되는 쪽입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-04.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-05.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
