@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.05
+☕ 크립토 모닝 브리핑 — 2026.06.06
 
-1️⃣ BTC·ETH·SOL·XRP ETF, 13거래일 44억달러 유출 — HYPE만 순유입
-2️⃣ Mastercard, USDC·PYUSD·RLUSD 등 stablecoin settlement 확대
-3️⃣ SEC Peirce: DeFi 오픈소스 코드 공개는 보호받는 활동
-4️⃣ CLARITY Act, Senate calendar가 병목 — 여름 통과 목표는 유지
-5️⃣ Coinbase, SpaceX pre-IPO perpetual futures 출시 — private market exposure의 crypto화
+1️⃣ Bitcoin, $60k 방어선 시험 — ETF 유출·변동성 확대가 같은 방향으로 작동
+2️⃣ 미국 하원, crypto tax 초안 7건 회람 — 6월 9일 Ways and Means 청문회 예정
+3️⃣ Senate Republicans, 은행의 crypto capital treatment 명확화 요구
+4️⃣ Securitize, S-4 효력 발생 — tokenization 인프라의 NYSE 상장 경로 가시화
+5️⃣ Kraken, SpaceX IPO 접근권을 xStocks로 제공 — private/public equity 경계가 온체인화
 
-📌 오늘 흐름은 market beta 약화와 별개로 결제·규제·private market rails가 제도권 인프라로 계속 편입되는 쪽입니다.
+📌 오늘 흐름은 BTC beta 약화 속에서도 규제·세금·tokenized equity 인프라가 계속 제도권으로 들어가는 쪽입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-05.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-06.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재

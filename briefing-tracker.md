@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-06
+1. Bitcoin, $60k 방어선 시험 — ETF 유출·변동성 확대가 같은 방향으로 작동
+2. 미국 하원, crypto tax 초안 7건 회람 — 6월 9일 Ways and Means 청문회 예정
+3. Senate Republicans, 은행의 crypto capital treatment 명확화 요구
+4. Securitize, S-4 효력 발생 — tokenization 인프라의 NYSE 상장 경로 가시화
+5. Kraken, SpaceX IPO 접근권을 xStocks로 제공 — private/public equity 경계가 온체인화
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-06.md
+
 ### 2026-06-05
 1. BTC·ETH·SOL·XRP ETF, 13거래일 44억달러 유출 — HYPE만 순유입
 2. Mastercard, USDC·PYUSD·RLUSD 등 stablecoin settlement 확대
