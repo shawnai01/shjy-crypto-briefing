@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-07
+1. BTC, $60k 하회 후 $61k 회복 — 24시간 청산 16억달러
+2. Lubin-linked wallet, 110,000 ETH를 Sky vault 담보로 추가 — ETH 하락 방어성 이동
+3. Hyperion DeFi, USDH sunset 후 2,870만달러 HYPE deployment 정리
+4. JPMorgan·Citi·BofA·Wells Fargo, 2027년 tokenized deposit network 추진
+5. Zcash, Orchard bug 이후 새 shielded pool·turnstile accounting 검토
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-07.md
+
 ### 2026-06-06
 1. Bitcoin, $60k 방어선 시험 — ETF 유출·변동성 확대가 같은 방향으로 작동
 2. 미국 하원, crypto tax 초안 7건 회람 — 6월 9일 Ways and Means 청문회 예정

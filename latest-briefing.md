@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.06
+☕ 크립토 모닝 브리핑 — 2026.06.07
 
-1️⃣ Bitcoin, $60k 방어선 시험 — ETF 유출·변동성 확대가 같은 방향으로 작동
-2️⃣ 미국 하원, crypto tax 초안 7건 회람 — 6월 9일 Ways and Means 청문회 예정
-3️⃣ Senate Republicans, 은행의 crypto capital treatment 명확화 요구
-4️⃣ Securitize, S-4 효력 발생 — tokenization 인프라의 NYSE 상장 경로 가시화
-5️⃣ Kraken, SpaceX IPO 접근권을 xStocks로 제공 — private/public equity 경계가 온체인화
+1️⃣ BTC, $60k 하회 후 $61k 회복 — 24시간 청산 16억달러
+2️⃣ Lubin-linked wallet, 110,000 ETH를 Sky vault 담보로 추가
+3️⃣ Hyperion DeFi, USDH sunset 후 2,870만달러 HYPE deployment 정리
+4️⃣ JPMorgan·Citi·BofA·Wells Fargo, 2027년 tokenized deposit network 추진
+5️⃣ Zcash, Orchard bug 이후 새 shielded pool·turnstile accounting 검토
 
-📌 오늘 흐름은 BTC beta 약화 속에서도 규제·세금·tokenized equity 인프라가 계속 제도권으로 들어가는 쪽입니다.
+📌 오늘 흐름은 가격 반등보다 레버리지 정리, 담보 방어, 은행권 온체인 예금 경쟁이 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-06.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-07.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
