@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-08
+1. BTC $60k 재방문 — spot ETF는 17.2억달러 주간 순유출
+2. NYDIG: AI·IPO·양자·Strategy 매도 우려가 BTC 약세를 동시 압박
+3. 미국 House Ways and Means, crypto tax 초안 7건 공개
+4. Bybit·Kraken, xStocks로 SpaceX tokenized IPO 접근권 제공
+5. Joe Lubin, Ethereum Foundation 조정은 위기보다 역할 재정의라고 방어
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-08.md
+
 ### 2026-06-07
 1. BTC, $60k 하회 후 $61k 회복 — 24시간 청산 16억달러
 2. Lubin-linked wallet, 110,000 ETH를 Sky vault 담보로 추가 — ETH 하락 방어성 이동
