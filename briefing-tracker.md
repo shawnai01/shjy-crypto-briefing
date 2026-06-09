@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-09
+1. CoinShares: 디지털자산 펀드 16.7억달러 순유출 — BTC는 2026년 최대 주간 유출
+2. Zcash Orchard 버그 후 Ironwood 제안 — 프라이버시 풀 공급 검증이 핵심
+3. Strategy, 32 BTC 매도 후 1,550 BTC 재매수 — treasury 모델 스트레스 테스트
+4. Bybit, xStocks 기반 SpaceX tokenized IPO 접근권 출시
+5. SEC, 2026~2030 전략계획에 digital assets/DLT 규제 기반 목표 포함
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-09.md
+
 ### 2026-06-08
 1. BTC $60k 재방문 — spot ETF는 17.2억달러 주간 순유출
 2. NYDIG: AI·IPO·양자·Strategy 매도 우려가 BTC 약세를 동시 압박
