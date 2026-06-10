@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-10
+1. Humanity Protocol, 3,600만달러 exploit — 멀티시그 키 관리 실패
+2. Morpho, a16z·Paradigm·Ribbit 주도 1.75억달러 조달
+3. Binance Research: active tokenized RWA 589% 성장
+4. Aave, Circle Arc에 V4 배포 Temp Check — USDC/EURC/cirBTC 중심
+5. 영국 FCA, authorised funds의 crypto ETN 10% 편입 제안
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-10.md
+
 ### 2026-06-09
 1. CoinShares: 디지털자산 펀드 16.7억달러 순유출 — BTC는 2026년 최대 주간 유출
 2. Zcash Orchard 버그 후 Ironwood 제안 — 프라이버시 풀 공급 검증이 핵심
