@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-11
+1. NYDFS, GENIUS Act 맞춤 stablecoin 규정 제안 — reserve concentration과 리스크 관리 강화
+2. CFTC, prediction market/event contract 룰 제안 — Kalshi·Polymarket류 시장의 미국 규제 경계 구체화
+3. Mastercard, Agent Pay for Machines 출시 — AI agent 결제에 stablecoin/crypto 파트너 대거 참여
+4. BlackRock·Fidelity, Bitcoin ETF 시장을 사실상 양강 구도로 재편
+5. Ethereum privacy 논의 재점화 — pERC-20 등 private token standard 부상
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-11.md
+
 ### 2026-06-10
 1. Humanity Protocol, 3,600만달러 exploit — 멀티시그 키 관리 실패
 2. Morpho, a16z·Paradigm·Ribbit 주도 1.75억달러 조달
