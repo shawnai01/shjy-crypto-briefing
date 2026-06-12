@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-12
+1. Coinbase, AI agent가 거래·결제하는 `Coinbase for Agents` 출시
+2. 일본 하원, crypto를 주식처럼 규제하는 법안 통과 — ETF·세제 개편 경로 열림
+3. Citi, private company shares용 tokenized depositary receipt 출시
+4. Digital Asset, Canton Network 확장 위해 3.55억달러 조달
+5. 필리핀 중앙은행, Binance·현지 파트너 VASP 라이선스 부재 지적
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-12.md
+
 ### 2026-06-11
 1. NYDFS, GENIUS Act 맞춤 stablecoin 규정 제안 — reserve concentration과 리스크 관리 강화
 2. CFTC, prediction market/event contract 룰 제안 — Kalshi·Polymarket류 시장의 미국 규제 경계 구체화
