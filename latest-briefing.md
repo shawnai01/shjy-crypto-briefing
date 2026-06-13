@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.12
+☕ 크립토 모닝 브리핑 — 2026.06.13
 
-1️⃣ Coinbase, AI agent가 거래·결제하는 `Coinbase for Agents` 출시
-2️⃣ 일본 하원, crypto를 주식처럼 규제하는 법안 통과 — ETF·세제 개편 경로 열림
-3️⃣ Citi, private company shares용 tokenized depositary receipt 출시
-4️⃣ Digital Asset, Canton Network 확장 위해 3.55억달러 조달
-5️⃣ 필리핀 중앙은행, Binance·현지 파트너 VASP 라이선스 부재 지적
+1️⃣ SEC, Reg NMS Rule 611/610(e) 폐지 제안 — tokenized stock/DeFi AMM 논의 재점화
+2️⃣ SpaceX IPO와 함께 tokenized shares 동시 출시 — 온체인 private/public equity 수요 확인
+3️⃣ Mastercard, Agent Pay for Machines 출시 — stablecoin 포함 AI agent 결제 레일 경쟁
+4️⃣ SBF 항소 기각 — FTX fraud conviction과 25년형 유지
+5️⃣ BTC, 200주 평균 방어와 dominance 59% — altcoin 대비 상대 강세
 
-📌 오늘 흐름: AI agent 결제/거래와 기관 tokenization은 빨라지고, 각국 규제는 라이선스·투자상품 틀로 더 선명해지는 중.
+📌 오늘 흐름: tokenized equity와 agent payment는 제도권 인프라로 들어오고, 시장은 BTC 중심 방어 포지션으로 기우는 중.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-12.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-13.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재

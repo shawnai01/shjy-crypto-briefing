@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-13
+1. SEC, Reg NMS Rule 611/610(e) 폐지 제안 — tokenized stock/DeFi AMM 논의 재점화
+2. SpaceX IPO와 함께 tokenized shares 동시 출시 — 온체인 private/public equity 수요 확인
+3. Mastercard, Agent Pay for Machines 출시 — stablecoin 포함 AI agent 결제 레일 경쟁
+4. SBF 항소 기각 — FTX fraud conviction과 25년형 유지
+5. BTC, 200주 평균 방어와 dominance 59% — altcoin 대비 상대 강세
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-13.md
+
 ### 2026-06-12
 1. Coinbase, AI agent가 거래·결제하는 `Coinbase for Agents` 출시
 2. 일본 하원, crypto를 주식처럼 규제하는 법안 통과 — ETF·세제 개편 경로 열림
