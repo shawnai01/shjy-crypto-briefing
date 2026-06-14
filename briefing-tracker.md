@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-14
+1. AI 고성능 모델 시대, DeFi 해킹은 코드보다 키·권한·서명 실수에서 빨라질 위험
+2. SpaceX IPO가 18,712 BTC 보유를 공개 시장에 올리며 기업 treasury 내러티브 확장
+3. BTC $64k 회복 + spot ETF 8,590만달러 순유입 — 단기 수급 압박 완화 신호
+4. 스테이블코인 논쟁은 결제에서 yield/rewards와 은행 예금 경쟁으로 이동
+5. Wall Street의 Ethereum/RWA 활용, 파일럿에서 tokenized assets 실제 배치로 이동
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-14.md
+
 ### 2026-06-13
 1. SEC, Reg NMS Rule 611/610(e) 폐지 제안 — tokenized stock/DeFi AMM 논의 재점화
 2. SpaceX IPO와 함께 tokenized shares 동시 출시 — 온체인 private/public equity 수요 확인
