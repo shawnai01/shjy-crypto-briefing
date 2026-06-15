@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.14
+☕ 크립토 모닝 브리핑 — 2026.06.15
 
-1️⃣ AI 고성능 모델 시대, DeFi 해킹은 코드보다 키·권한·서명 실수에서 빨라질 위험
-2️⃣ SpaceX IPO가 18,712 BTC 보유를 공개 시장에 올리며 기업 treasury 내러티브 확장
-3️⃣ BTC $64k 회복 + spot ETF 8,590만달러 순유입 — 단기 수급 압박 완화 신호
-4️⃣ 스테이블코인 논쟁은 결제에서 yield/rewards와 은행 예금 경쟁으로 이동
-5️⃣ Wall Street의 Ethereum/RWA 활용, 파일럿에서 tokenized assets 실제 배치로 이동
+1️⃣ BTC $64k 회복 + spot ETF 8,590만달러 순유입 — 단기 바닥 확인 국면
+2️⃣ Standard Chartered, BTC $59k를 이번 사이클 저점 후보로 제시
+3️⃣ Humanity Protocol 3,600만달러 해킹, 북한 연계 피싱 가능성 부각
+4️⃣ Ethereum Kohaku, hard fork 없는 양자내성 계정 보호 비용 약 $0.07 제시
+5️⃣ Wall Street 토큰화 수요, Ethereum/RWA 실사용 단계로 이동
 
-📌 이번 흐름은 가격 반등보다 "기관 수급·기업 재무·보안·RWA" 쪽이 핵심입니다.
+📌 오늘 핵심은 가격 반등보다 ETF 플로우, 지정학 리스크 완화, 보안·RWA 인프라 확인입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-14.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-15.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재

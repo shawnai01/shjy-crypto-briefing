@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-15
+1. BTC $64k 회복 + spot ETF 8,590만달러 순유입 — 단기 바닥 확인 국면
+2. Standard Chartered, BTC $59k를 이번 사이클 저점 후보로 제시
+3. Humanity Protocol 3,600만달러 해킹, 북한 연계 피싱 가능성 부각
+4. Ethereum Kohaku, hard fork 없는 양자내성 계정 보호 비용 약 $0.07 제시
+5. Wall Street 토큰화 수요, Ethereum/RWA 실사용 단계로 이동
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-15.md
+
 ### 2026-06-14
 1. AI 고성능 모델 시대, DeFi 해킹은 코드보다 키·권한·서명 실수에서 빨라질 위험
 2. SpaceX IPO가 18,712 BTC 보유를 공개 시장에 올리며 기업 treasury 내러티브 확장
