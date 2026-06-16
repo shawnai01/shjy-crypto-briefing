@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-16
+1. BTC, 미-이란 임시 합의 이후 $66k 부근 반등
+2. Strategy, 1,587 BTC 추가 매수 — 총 846,842 BTC 보유
+3. Bitmine, 우선주 조달 후 ETH 1.36억달러 추가 매수
+4. Kraken, 미국 perpetual futures 출시 — derivatives onshore 이동
+5. CEX 거래량은 저점, RWA perps는 사상 최고
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-16.md
+
 ### 2026-06-15
 1. BTC $64k 회복 + spot ETF 8,590만달러 순유입 — 단기 바닥 확인 국면
 2. Standard Chartered, BTC $59k를 이번 사이클 저점 후보로 제시
