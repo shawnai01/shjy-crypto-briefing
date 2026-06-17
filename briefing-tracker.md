@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-17
+1. Coinbase, 주식·옵션·pre-IPO perps·AI advisor까지 확장
+2. Coinbase tokenized U.S. stocks 추진 — 비미국 대상, 배당 포함
+3. BTC ETF $64M 순유출은 GBTC 착시 — IBIT는 순유입
+4. Ethereum Glamsterdam, devnet 기반 최종 개발 단계 진입
+5. State Street, stablecoin reserve용 MMF 출시
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-17.md
+
 ### 2026-06-16
 1. BTC, 미-이란 임시 합의 이후 $66k 부근 반등
 2. Strategy, 1,587 BTC 추가 매수 — 총 846,842 BTC 보유
