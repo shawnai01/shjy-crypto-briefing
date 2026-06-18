@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-18
+1. Fidelity, stablecoin reserve MMF 경쟁 진입
+2. Illinois, 디지털자산 보관·이전·교환에 0.2% 과세
+3. Moody's, Solana tokenized bond에 credit rating 온체인 연동
+4. Blockchain.com, Ondo 통해 tokenized stocks/ETFs 173개 추가
+5. BitGo, MiCA deadline 앞두고 Europe crypto-as-a-service 출시
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-18.md
+
 ### 2026-06-17
 1. Coinbase, 주식·옵션·pre-IPO perps·AI advisor까지 확장
 2. Coinbase tokenized U.S. stocks 추진 — 비미국 대상, 배당 포함
