@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-19
+1. 미국, stablecoin issuer에 은행권식 고객식별 요구 추진
+2. CME, crypto perpetual futures 승인 방식 두고 CFTC 제소
+3. Malta MFSA, DeFi를 MiCA 범위에 넣는 기준 논의 착수
+4. Ethereum Foundation, co-executive director Hsiao-Wei Wang 사임
+5. BTC/ETH ETF 수급, 6월 17일 다시 순유출
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-19.md
+
 ### 2026-06-18
 1. Fidelity, stablecoin reserve MMF 경쟁 진입
 2. Illinois, 디지털자산 보관·이전·교환에 0.2% 과세
