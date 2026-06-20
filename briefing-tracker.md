@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-20
+1. CFTC, 미국 regulated venue의 crypto true perpetual 전환 길 열어줌
+2. Coinbase, 1:1 backed tokenized U.S. stocks와 dividend 지급 계획 공개
+3. Franklin Templeton, 기업 배당금을 Bitcoin으로 전환하는 ETF 제안
+4. Ethereum Foundation, Hsiao-Wei Wang 사임으로 리더십 이탈 지속
+5. BTC 옵션 시장, $52k까지 하방 헤지 매수 확대
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-20.md
+
 ### 2026-06-19
 1. 미국, stablecoin issuer에 은행권식 고객식별 요구 추진
 2. CME, crypto perpetual futures 승인 방식 두고 CFTC 제소

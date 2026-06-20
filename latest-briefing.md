@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.19
+☕ 크립토 모닝 브리핑 — 2026.06.20
 
-1️⃣ 미국, stablecoin issuer에 은행권식 고객식별 요구 추진
-2️⃣ CME, crypto perpetual futures 승인 방식 두고 CFTC 제소
-3️⃣ Malta MFSA, DeFi를 MiCA 범위에 넣는 기준 논의 착수
-4️⃣ Ethereum Foundation, co-executive director Hsiao-Wei Wang 사임
-5️⃣ BTC/ETH ETF 수급, 6월 17일 다시 순유출
+1️⃣ CFTC, 미국 regulated venue의 crypto true perpetual 전환 길 열어줌
+2️⃣ Coinbase, 1:1 backed tokenized U.S. stocks와 dividend 지급 계획 공개
+3️⃣ Franklin Templeton, 기업 배당금을 Bitcoin으로 전환하는 ETF 제안
+4️⃣ Ethereum Foundation, Hsiao-Wei Wang 사임으로 리더십 이탈 지속
+5️⃣ BTC 옵션 시장, $52k까지 하방 헤지 매수 확대
 
-📌 오늘 흐름은 crypto가 제도권 안으로 들어오면서 compliance, derivatives market structure, DeFi governance 기준이 동시에 빡빡해지는 국면입니다.
+📌 상품화는 계속되지만 단기 수급은 방어적입니다. 온체인 주식/배당/퍼프는 전진, BTC 포지셔닝은 하방 헤지 우위.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-19.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-20.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
