@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-21
+1. Sonic Labs, 창업진 보드 퇴진 + CEO/COO 교체
+2. Microsoft, USB·Tor 기반 crypto clipper `CryptoBandits.A` 공개
+3. Algorand, 2027~2028년 quantum-resistant 로드맵 공개
+4. Franklin Templeton, 배당금을 Bitcoin 노출로 전환하는 DRIP ETF 2종 신고
+5. 미국 onshore perpetual futures 경쟁, Kraken 출시와 CME 소송으로 충돌
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-21.md
+
 ### 2026-06-20
 1. CFTC, 미국 regulated venue의 crypto true perpetual 전환 길 열어줌
 2. Coinbase, 1:1 backed tokenized U.S. stocks와 dividend 지급 계획 공개
