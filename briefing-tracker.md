@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-22
+1. 미국 spot Bitcoin ETF, 30일 기준 64억달러 순유출 기록
+2. 미국 5개 기관, stablecoin issuer 고객확인(CIP) 규칙 제안
+3. Ethereum MEV bot `Jaredfromsubway.eth`, 750만달러+ counter-MEV 손실
+4. 일본 기업연금, 2026년부터 crypto 1% 배분 계획
+5. 필리핀 SEC, RWA tokenization 수용 준비 발언
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-22.md
+
 ### 2026-06-21
 1. Sonic Labs, 창업진 보드 퇴진 + CEO/COO 교체
 2. Microsoft, USB·Tor 기반 crypto clipper `CryptoBandits.A` 공개

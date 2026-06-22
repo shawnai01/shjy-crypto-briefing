@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.21
+☕ 크립토 모닝 브리핑 — 2026.06.22
 
-1️⃣ Sonic Labs, 창업진 보드 퇴진 + CEO/COO 교체
-2️⃣ Microsoft, USB·Tor 기반 crypto clipper `CryptoBandits.A` 공개
-3️⃣ Algorand, 2027~2028년 quantum-resistant 로드맵 공개
-4️⃣ Franklin Templeton, 배당금을 Bitcoin 노출로 전환하는 DRIP ETF 2종 신고
-5️⃣ 미국 onshore perpetual futures 경쟁, Kraken 출시와 CME 소송으로 충돌
+1️⃣ 미국 spot Bitcoin ETF, 30일 기준 64억달러 순유출 기록
+2️⃣ 미국 5개 기관, stablecoin issuer 고객확인(CIP) 규칙 제안
+3️⃣ Ethereum MEV bot `Jaredfromsubway.eth`, 750만달러+ counter-MEV 손실
+4️⃣ 일본 기업연금, 2026년부터 crypto 1% 배분 계획
+5️⃣ 필리핀 SEC, RWA tokenization 수용 준비 발언
 
-📌 상품화는 깊어지고 있지만, 이번 주말 핵심은 프로젝트·보안·규제 신뢰 비용 재평가입니다.
+📌 기관 수급은 식고 있지만, stablecoin/RWA/tokenization 규제 레일은 더 구체화되고 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-21.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-22.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
