@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-24
+1. BTC $63k 하회 — ETF 6주 유출과 6/26 Deribit 만기 대기
+2. Senate Democrats, Trump family crypto-Abu Dhabi ties 청문회 요구
+3. CryptoQuant: Strategy는 BTC 추가 매수보다 cash reserve 재건 필요
+4. DCG 산하 Fortitude, Zcash miner Nasdaq 우회상장 추진
+5. Meta, Polymarket/Kalshi형 prediction market 앱 `Arena` 개발 보도
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-24.md
+
 ### 2026-06-23
 1. Franklin Templeton, 250 Digital 인수 완료 후 `Franklin Crypto` 출범
 2. ICE-OKX, tokenized securities/derivatives 합작사 `OKXICE` 설립
