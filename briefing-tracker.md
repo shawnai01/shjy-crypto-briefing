@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-25
+1. BTC $61k 부근 반등 — AI/tech risk-off 이후 약한 회복
+2. Bitcoin miners, 수익이 생산비 밑으로 내려가 margin squeeze 심화
+3. Fed `skinny account`, crypto/fintech payment rail 직접 접근 논쟁
+4. CBDC ban 포함 주택법안 서명 지연 — CLARITY Act 일정도 압박
+5. Ethereum Foundation 구조조정 + 한국 FSC token securities 인프라 개편
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-25.md
+
 ### 2026-06-24
 1. BTC $63k 하회 — ETF 6주 유출과 6/26 Deribit 만기 대기
 2. Senate Democrats, Trump family crypto-Abu Dhabi ties 청문회 요구
