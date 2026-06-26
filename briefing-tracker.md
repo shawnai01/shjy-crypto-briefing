@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-26
+1. BTC $60k floor 시험 — 10.6B달러 options expiry
+2. Base mainnet, invalid block 이후 chain stall
+3. Invesco, stablecoin reserve용 onchain fund filing
+4. Senate CLARITY Act 7월 처리 일정 압박 확대
+5. 일본 stablecoin 결제 경쟁 — Circle/Nomura + Ripple/SBI
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-26.md
+
 ### 2026-06-25
 1. BTC $61k 부근 반등 — AI/tech risk-off 이후 약한 회복
 2. Bitcoin miners, 수익이 생산비 밑으로 내려가 margin squeeze 심화

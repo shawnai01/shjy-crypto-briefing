@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.25
+☕ 크립토 모닝 브리핑 — 2026.06.26
 
-1️⃣ BTC $61k 부근 반등 — AI/tech risk-off 이후 약한 회복
-2️⃣ Bitcoin miners, 수익이 생산비 밑으로 내려가 margin squeeze 심화
-3️⃣ Fed `skinny account`, crypto/fintech payment rail 직접 접근 논쟁
-4️⃣ CBDC ban 포함 주택법안 서명 지연 — CLARITY Act 일정도 압박
-5️⃣ Ethereum Foundation 구조조정 + 한국 FSC token securities 인프라 개편
+1️⃣ BTC $60k floor 시험 — 10.6B달러 options expiry
+2️⃣ Base mainnet, invalid block 이후 chain stall
+3️⃣ Invesco, stablecoin reserve용 onchain fund filing
+4️⃣ Senate CLARITY Act 7월 처리 일정 압박 확대
+5️⃣ 일본 stablecoin 결제 경쟁 — Circle/Nomura + Ripple/SBI
 
-📌 단기 반등보다 payment rail, policy calendar, miner economics, 인프라 재편이 더 큰 이슈입니다.
+📌 가격보다 옵션 만기, L2 신뢰성, stablecoin 인프라, 미국 규제 일정이 핵심 변수입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-25.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-26.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
