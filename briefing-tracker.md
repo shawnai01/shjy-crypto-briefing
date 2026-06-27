@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-27
+1. Strategy, BTC premium 붕괴 — enterprise mNAV 1 아래로 하락
+2. Base, 이틀 연속 mainnet stall — Beryl 이후 안정성 점검
+3. Invesco, stablecoin reserve용 tokenized MMF SEC filing
+4. CLARITY Act 일정 압박 — 주택법안/SAVE Act 충돌 파급
+5. Polymarket, fake bets 논란 후 CFTC 조사 요구 직면
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-27.md
+
 ### 2026-06-26
 1. BTC $60k floor 시험 — 10.6B달러 options expiry
 2. Base mainnet, invalid block 이후 chain stall
