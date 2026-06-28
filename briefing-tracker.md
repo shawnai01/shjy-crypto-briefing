@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-28
+1. Spot Bitcoin ETF, 7주 연속 순유출 — IBIT 평균 투자자 약 40% 손실권
+2. SecondFi Cardano wallet exploit — 374개 주소, 약 1,600만 ADA 피해
+3. EU ECON, DeFi·staking·NFT·lending 규제 범위 검토 권고
+4. Securitize, Cantor SPAC 합병으로 약 4억달러 조달 예상
+5. Bitcoin supply in loss 1,083만 BTC — 장기 보유자는 역대 최대 보유
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-28.md
+
 ### 2026-06-27
 1. Strategy, BTC premium 붕괴 — enterprise mNAV 1 아래로 하락
 2. Base, 이틀 연속 mainnet stall — Beryl 이후 안정성 점검
