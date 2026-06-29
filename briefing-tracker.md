@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-29
+1. BIS Annual Economic Report 2026 — stablecoin은 "돈"의 핵심 속성에 아직 미달
+2. Binance, Greece MiCA 신청 철회 — 7월 1일 EU deadline 앞두고 규제 리스크 재부각
+3. Strategy, BTC treasury가 약 130억달러 손실권 — Saylor는 추가 매수 신호
+4. Coinbase·Circle 주가, Big Tech 대비 급락 — crypto equity가 가격 사이클에 재동조
+5. BTC 2026년 약세 심화 — ETF outflow와 AI/IPO risk rotation이 가격을 압박
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-29.md
+
 ### 2026-06-28
 1. Spot Bitcoin ETF, 7주 연속 순유출 — IBIT 평균 투자자 약 40% 손실권
 2. SecondFi Cardano wallet exploit — 374개 주소, 약 1,600만 ADA 피해

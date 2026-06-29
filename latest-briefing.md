@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.28
+☕ 크립토 모닝 브리핑 — 2026.06.29
 
-1️⃣ Spot Bitcoin ETF, 7주 연속 순유출 — IBIT 평균 투자자 약 40% 손실권
-2️⃣ SecondFi Cardano wallet exploit — 374개 주소, 약 1,600만 ADA 피해
-3️⃣ EU ECON, DeFi·staking·NFT·lending 규제 범위 검토 권고
-4️⃣ Securitize, Cantor SPAC 합병으로 약 4억달러 조달 예상
-5️⃣ Bitcoin supply in loss 1,083만 BTC — 장기 보유자는 역대 최대 보유
+1️⃣ BIS Annual Economic Report 2026 — stablecoin은 "돈"의 핵심 속성에 아직 미달
+2️⃣ Binance, Greece MiCA 신청 철회 — 7월 1일 EU deadline 앞두고 규제 리스크 재부각
+3️⃣ Strategy, BTC treasury가 약 130억달러 손실권 — Saylor는 추가 매수 신호
+4️⃣ Coinbase·Circle 주가, Big Tech 대비 급락 — crypto equity가 가격 사이클에 재동조
+5️⃣ BTC 2026년 약세 심화 — ETF outflow와 AI/IPO risk rotation이 가격을 압박
 
-📌 오늘은 가격보다 ETF 환매, wallet 보안, EU 규제 확장, RWA 상장, 장기 보유자 손실이 핵심입니다.
+📌 오늘은 stablecoin·MiCA·Strategy·crypto equities·ETF flow가 모두 제도권 진입 이후의 스트레스 테스트로 연결됩니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-28.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-29.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재
