@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.06.29
+☕ 크립토 모닝 브리핑 — 2026.06.30
 
-1️⃣ BIS Annual Economic Report 2026 — stablecoin은 "돈"의 핵심 속성에 아직 미달
-2️⃣ Binance, Greece MiCA 신청 철회 — 7월 1일 EU deadline 앞두고 규제 리스크 재부각
-3️⃣ Strategy, BTC treasury가 약 130억달러 손실권 — Saylor는 추가 매수 신호
-4️⃣ Coinbase·Circle 주가, Big Tech 대비 급락 — crypto equity가 가격 사이클에 재동조
-5️⃣ BTC 2026년 약세 심화 — ETF outflow와 AI/IPO risk rotation이 가격을 압박
+1️⃣ Spot Bitcoin ETF, 6월 약 40.6억달러 순유출 — 출시 후 최악의 월간 환매
+2️⃣ Strategy, BTC 매각 가능성 공식화 — preferred dividend와 buyback 방어용 자본 프레임
+3️⃣ BNY, Circle USDC를 기관 custody platform에 탑재 — mint/burn까지 은행권으로 진입
+4️⃣ Securitize, SPAC 합병 승인 후 NYSE 상장 예정 — tokenization pure-play 상장사 등장
+5️⃣ Loopring, DEX/AMM 즉시 종료 — 1세대 zk-rollup의 제품 수명 종료
 
-📌 오늘은 stablecoin·MiCA·Strategy·crypto equities·ETF flow가 모두 제도권 진입 이후의 스트레스 테스트로 연결됩니다.
+📌 오늘은 crypto가 liquidity·credit·compliance·distribution 경쟁으로 재편되는 흐름이 뚜렷합니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-29.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-06-30.md
 
 ⚠️ 전송 상태: 전송 대기 / 도구 부재

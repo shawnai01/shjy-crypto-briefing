@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-06-30
+1. Spot Bitcoin ETF, 6월 약 40.6억달러 순유출 — 출시 후 최악의 월간 환매
+2. Strategy, BTC 매각 가능성 공식화 — preferred dividend와 buyback 방어용 자본 프레임
+3. BNY, Circle USDC를 기관 custody platform에 탑재 — mint/burn까지 은행권으로 진입
+4. Securitize, SPAC 합병 승인 후 NYSE 상장 예정 — tokenization pure-play 상장사 등장
+5. Loopring, DEX/AMM 즉시 종료 — 1세대 zk-rollup의 제품 수명 종료
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-06-30.md
+
 ### 2026-06-29
 1. BIS Annual Economic Report 2026 — stablecoin은 "돈"의 핵심 속성에 아직 미달
 2. Binance, Greece MiCA 신청 철회 — 7월 1일 EU deadline 앞두고 규제 리스크 재부각
