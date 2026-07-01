@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-01
+1. EU MiCA 전환기간 종료 — 미인가 CASP는 7월 1일부터 서비스 중단/정리 대상
+2. SEC, `novel ETF` 공개 의견수렴 개시 — crypto·event contract ETF 프레임 재검토
+3. Open USD 컨소시엄, Circle 주가 급락 유발 — stablecoin 수익 배분 경쟁 본격화
+4. Bitcoin ETF 유출 지속 — 6월 29일 IBIT 3억달러 유출, 전체 순유출 2.31억달러
+5. CLARITY Act, Senate 관문 앞두고 변동성 리스크 — 시장구조 법안 일정 불확실
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-01.md
+
 ### 2026-06-30
 1. Spot Bitcoin ETF, 6월 약 40.6억달러 순유출 — 출시 후 최악의 월간 환매
 2. Strategy, BTC 매각 가능성 공식화 — preferred dividend와 buyback 방어용 자본 프레임
