@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-02
+1. 미국 spot Bitcoin ETF, 6월 45억달러 순유출 — 출시 후 최악의 월간 환매
+2. EU MiCA 마감 이후 허가 사업자 12% 수준 — 라이선스 보유 거래소 중심 재편
+3. Robinhood Chain 공개 + Uniswap 기본 AMM 탑재 — tokenized stocks와 DeFi 결합
+4. Ethereum Foundation, 정부·기관용 정책 가이드 공개 — neutral infrastructure 포지션 강화
+5. Edel Finance exploit — tokenized equity 담보 lending의 첫 공개 사고
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-02.md
+
 ### 2026-07-01
 1. EU MiCA 전환기간 종료 — 미인가 CASP는 7월 1일부터 서비스 중단/정리 대상
 2. SEC, `novel ETF` 공개 의견수렴 개시 — crypto·event contract ETF 프레임 재검토
