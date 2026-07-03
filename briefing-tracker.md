@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-03
+1. Securitize·Ondo, tokenized stocks 모델 경쟁 본격화
+2. OFAC, ISIS-K 연계 crypto 주소 134개 제재 — Tether 동결까지 연결
+3. Solana, 100,000 SOL 기준 onchain governance 도입
+4. eToro, onchain perps 플랫폼 Extended 투자 — brokerage DeFi 경쟁 확대
+5. Strategy STRC 논란, BTC treasury가 양방향 리스크로 전환
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-03.md
+
 ### 2026-07-02
 1. 미국 spot Bitcoin ETF, 6월 45억달러 순유출 — 출시 후 최악의 월간 환매
 2. EU MiCA 마감 이후 허가 사업자 12% 수준 — 라이선스 보유 거래소 중심 재편
