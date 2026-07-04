@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-04
+1. Bitcoin ETF, 10일 유출 후 2개월 최대 일간 순유입
+2. ETF 매도 속 whales는 2주간 270,000 BTC 축적
+3. Securitize, NYSE 상장과 동시에 SECZ 주식 토큰화
+4. IMF, tokenization의 실시간 충격 전파 리스크 경고
+5. Binance, MiCA 전환 이후 EU 라이선스 전략 재정비
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-04.md
+
 ### 2026-07-03
 1. Securitize·Ondo, tokenized stocks 모델 경쟁 본격화
 2. OFAC, ISIS-K 연계 crypto 주소 134개 제재 — Tether 동결까지 연결
