@@ -1,13 +1,15 @@
-☕ 크립토 모닝 브리핑 — 2026.07.04
+☕ 크립토 모닝 브리핑 — 2026.07.05
 
-1️⃣ Bitcoin ETF, 10일 유출 후 2개월 최대 일간 순유입
-2️⃣ ETF 매도 속 whales는 2주간 270,000 BTC 축적
-3️⃣ Securitize, NYSE 상장과 동시에 SECZ 주식 토큰화
-4️⃣ IMF, tokenization의 실시간 충격 전파 리스크 경고
-5️⃣ Binance, MiCA 전환 이후 EU 라이선스 전략 재정비
+1️⃣ Revolut, USDT 8월 delist 예고 — MiCA 이후 stablecoin 재편 지속
+2️⃣ 미국 보안관 단체, CLARITY Act 반대에서 중립으로 전환
+3️⃣ Kraken, tokenized stocks를 futures/margin collateral로 허용
+4️⃣ Kalshi, World Cup 효과로 6월 거래량 사상 최대
+5️⃣ BTC/ETH 반등에도 옵션 시장은 아직 하방 보험 수요 우위
 
-📌 가격은 반등했지만, 핵심은 ETF 수급 지속성·RWA 제도권화·MiCA 이후 거래소 재편입니다.
+📌 주말 가격 반등보다 중요한 건 stablecoin 접근성, RWA 담보화, prediction market 규제 충돌, 그리고 아직 방어적인 옵션 포지셔닝입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-04.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-05.md
 
-⚠️ 전송 상태: 전송 대기 / 도구 부재
+✅ 전송 상태: OpenClaw 그룹 세션 전송 확인
+🧾 OpenClaw record id: 01cf270d-824a-4745-a4a0-ca7a3c79f2c3
+ℹ️ Telegram messageId: 도구 응답 미반환

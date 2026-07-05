@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-05
+1. Revolut, USDT 8월 delist 예고 — MiCA 이후 stablecoin 재편 지속
+2. 미국 보안관 단체, CLARITY Act 반대에서 중립으로 전환
+3. Kraken, tokenized stocks를 futures/margin collateral로 허용
+4. Kalshi, World Cup 효과로 6월 거래량 사상 최대
+5. BTC/ETH 반등에도 옵션 시장은 아직 하방 보험 수요 우위
+- ✅ OpenClaw 그룹 세션 전송 확인 (record id: `01cf270d-824a-4745-a4a0-ca7a3c79f2c3`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-05.md
+
 ### 2026-07-04
 1. Bitcoin ETF, 10일 유출 후 2개월 최대 일간 순유입
 2. ETF 매도 속 whales는 2주간 270,000 BTC 축적
