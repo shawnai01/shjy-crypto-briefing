@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-06
+1. Binance, 주간 순유출 12.3억달러 — ETH 출금 트랜잭션 3년 고점
+2. Vitalik, Lean Ethereum 3대 축 제시 — 양자내성·확장성·프라이버시
+3. 은행권 stablecoin 전략, "도입 여부"에서 "어떻게 연결할지"로 전환
+4. Aptos VM 취약점 공개 — 패치 완료됐지만 cross-chain systemic risk 확인
+5. CLARITY Act, 7월 4일 목표 불발 — 8월 7일 전 처리 여부가 다음 관문
+- ✅ OpenClaw 그룹 세션 전송 확인 (record id: `a544613e-871d-4d1e-a6ce-b869d1fa090b`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-06.md
+
 ### 2026-07-05
 1. Revolut, USDT 8월 delist 예고 — MiCA 이후 stablecoin 재편 지속
 2. 미국 보안관 단체, CLARITY Act 반대에서 중립으로 전환

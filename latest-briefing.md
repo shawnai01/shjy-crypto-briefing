@@ -1,15 +1,15 @@
-☕ 크립토 모닝 브리핑 — 2026.07.05
+☕ 크립토 모닝 브리핑 — 2026.07.06
 
-1️⃣ Revolut, USDT 8월 delist 예고 — MiCA 이후 stablecoin 재편 지속
-2️⃣ 미국 보안관 단체, CLARITY Act 반대에서 중립으로 전환
-3️⃣ Kraken, tokenized stocks를 futures/margin collateral로 허용
-4️⃣ Kalshi, World Cup 효과로 6월 거래량 사상 최대
-5️⃣ BTC/ETH 반등에도 옵션 시장은 아직 하방 보험 수요 우위
+1️⃣ Binance, 주간 순유출 12.3억달러 — ETH 출금 트랜잭션 3년 고점
+2️⃣ Vitalik, Lean Ethereum 3대 축 제시 — 양자내성·확장성·프라이버시
+3️⃣ 은행권 stablecoin 전략, "도입 여부"에서 "어떻게 연결할지"로 전환
+4️⃣ Aptos VM 취약점 공개 — 패치 완료됐지만 cross-chain systemic risk 확인
+5️⃣ CLARITY Act, 7월 4일 목표 불발 — 8월 7일 전 처리 여부가 다음 관문
 
-📌 주말 가격 반등보다 중요한 건 stablecoin 접근성, RWA 담보화, prediction market 규제 충돌, 그리고 아직 방어적인 옵션 포지셔닝입니다.
+📌 가격은 반등했지만, 오늘의 진짜 신호는 거래소 유출, Ethereum 장기 로드맵, stablecoin 은행 인프라, L1 보안, 미국 법안 일정의 재정렬입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-05.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-06.md
 
 ✅ 전송 상태: OpenClaw 그룹 세션 전송 확인
-🧾 OpenClaw record id: 01cf270d-824a-4745-a4a0-ca7a3c79f2c3
+🧾 OpenClaw record id: a544613e-871d-4d1e-a6ce-b869d1fa090b
 ℹ️ Telegram messageId: 도구 응답 미반환
