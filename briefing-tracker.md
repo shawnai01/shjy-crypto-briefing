@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-07
+1. Strategy, 3,588 BTC 매각 — dividend cash reserve 방어 우선
+2. Visa 데이터: USDC, 2026년 상반기 adjusted stablecoin volume 약 70%
+3. Ethereum Lean 로드맵 지지 확산 — 개발자들은 3~4년 timeline 단축 요구
+4. Ripple, Luxembourg CASP 정식 승인 — MiCA 이후 EEA passport 확보
+5. Summer.fi, Lazy Summer vaults 중단 — 약 600만달러 exploit
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `200ea9bb-0c88-4616-b0d8-935dbb2c2a7d`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-07.md
+
 ### 2026-07-06
 1. Binance, 주간 순유출 12.3억달러 — ETH 출금 트랜잭션 3년 고점
 2. Vitalik, Lean Ethereum 3대 축 제시 — 양자내성·확장성·프라이버시
