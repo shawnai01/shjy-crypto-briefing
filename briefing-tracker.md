@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-08
+1. SEC, 7월 중 `Reg Crypto` 제안 가능성 — 온체인 증권/자금조달 룰 정비
+2. BTC ETF, 7월 6일 2.66억달러 순유입 — 반등 지속성은 금리 변수에 달림
+3. Kraken, 유럽 은행 라이선스 추진 — MiCA 이후 crypto-bank 경계 흐림
+4. Tokenized equities, 6월 38.6억달러 거래량 — Securitize 상장주는 40% 하락
+5. Binance, BTC covered-call yield 상품 출시 — BTC 보유자 yield 수요 상품화
+- ⚠️ OpenClaw 그룹 세션 전달 요청 2회 접수됐으나 대상 세션이 inter-session 데이터로 처리해 visible reply 미전송 (runId: `c53169dd-5a98-4c9c-8f74-f3e5b7f4ea3b`, `052443ec-00f3-497e-b40f-ed5349bd6a5b`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-08.md
+
 ### 2026-07-07
 1. Strategy, 3,588 BTC 매각 — dividend cash reserve 방어 우선
 2. Visa 데이터: USDC, 2026년 상반기 adjusted stablecoin volume 약 70%
