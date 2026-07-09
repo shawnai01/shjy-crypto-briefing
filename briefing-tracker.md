@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-09
+1. SEC, 2026 agenda에 crypto broker/exchange rule 반영
+2. ESMA, MiCA 이후 CASP custody 운영복원력 공동감독 착수
+3. Adam Back BSTR-Cantor Bitcoin treasury SPAC, 기존 조건 폐기 후 재협상
+4. Binance Wallet, Plume nBASIS vault 통합 — Invesco·Bitwise RWA yield 배포
+5. Zapper, 8월 3일 서비스 종료 — DeFi dashboard 수익화 한계 노출
+- ⚠️ OpenClaw 그룹 세션 전달 요청 2회 접수됐으나 대상 세션이 inter-session 데이터로 처리해 visible reply 미전송 (runId: `4e528dcc-b46a-4948-a9b8-8d6c40cee032`, `dddb9371-0a2b-4f60-8e25-db2f3f48b640`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-09.md
+
 ### 2026-07-08
 1. SEC, 7월 중 `Reg Crypto` 제안 가능성 — 온체인 증권/자금조달 룰 정비
 2. BTC ETF, 7월 6일 2.66억달러 순유입 — 반등 지속성은 금리 변수에 달림
