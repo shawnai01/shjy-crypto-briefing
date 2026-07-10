@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-10
+1. CLARITY Act, Senate 통합 초안 다음 주 공개 가능
+2. CryptoQuant: BTC 반등은 trend reversal보다 bear-market recovery
+3. H1 crypto hacks 207건 — 손실은 줄었지만 운영보안 리스크 확대
+4. Ethereum Foundation, AI agents로 실제 protocol bug 발견
+5. MARA, Texas 2GW powered land site 확보 — miners의 AI/HPC 전환 가속
+- ⚠️ OpenClaw 그룹 세션 전달 요청 접수됐으나 대상 세션이 inter-session 데이터로 처리해 visible reply 미전송 (runId: `f0adbe2a-86ca-4f18-9245-35b436ff3815`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-10.md
+
 ### 2026-07-09
 1. SEC, 2026 agenda에 crypto broker/exchange rule 반영
 2. ESMA, MiCA 이후 CASP custody 운영복원력 공동감독 착수

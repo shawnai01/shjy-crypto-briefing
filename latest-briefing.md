@@ -1,11 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.09
+☕ 크립토 모닝 브리핑 — 2026.07.10
 
-1️⃣ SEC, 2026 agenda에 crypto broker/exchange rule 반영
-2️⃣ ESMA, MiCA 이후 CASP custody 운영복원력 공동감독 착수
-3️⃣ Adam Back BSTR-Cantor Bitcoin treasury SPAC, 기존 조건 폐기 후 재협상
-4️⃣ Binance Wallet, Plume nBASIS vault 통합 — Invesco·Bitwise RWA yield 배포
-5️⃣ Zapper, 8월 3일 서비스 종료 — DeFi dashboard 수익화 한계 노출
+1️⃣ CLARITY Act, Senate 통합 초안 다음 주 공개 가능
+2️⃣ CryptoQuant: BTC 반등은 trend reversal보다 bear-market recovery
+3️⃣ H1 crypto hacks 207건 — 손실은 줄었지만 운영보안 리스크 확대
+4️⃣ Ethereum Foundation, AI agents로 실제 protocol bug 발견
+5️⃣ MARA, Texas 2GW powered land site 확보 — miners의 AI/HPC 전환 가속
 
-📌 규제·커스터디 감독은 선명해지고, crypto equity/SPAC와 DeFi app은 재평가받는 가운데 RWA는 대형 wallet distribution으로 이동 중입니다.
+📌 규제 일정은 마지막 협상 창구로 들어가고, 시장·보안·채굴 인프라는 모두 운영 실행력을 더 강하게 보는 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-09.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-10.md
+
+전송 상태: OpenClaw 그룹 세션 전달 요청 접수, visible reply 미확인(runId: f0adbe2a-86ca-4f18-9245-35b436ff3815)
