@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-11
+1. Circle, OCC national trust bank 최종 승인 — USDC 인프라 연방 감독권 진입
+2. SEC 7월 crypto rulemaking 가능 — CLARITY 지연 시 agency rule이 선행
+3. BTC $64k 반등에도 ETF flow는 BTC·ETH 모두 순유출
+4. Phantom·Hyperliquid, CFTC에 DeFi software/wallet exemption 요청
+5. Ill Bloom wallet seed 취약점 — 확인 손실 500만달러+
+- ⚠️ OpenClaw 그룹 세션 전달 요청 접수됐으나 대상 세션이 inter-session 데이터로 처리해 visible reply 미전송 (runId: `4bfba235-a0d5-4e62-98ff-adf70bcd25dc`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-11.md
+
 ### 2026-07-10
 1. CLARITY Act, Senate 통합 초안 다음 주 공개 가능
 2. CryptoQuant: BTC 반등은 trend reversal보다 bear-market recovery

@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.10
+☕ 크립토 모닝 브리핑 — 2026.07.11
 
-1️⃣ CLARITY Act, Senate 통합 초안 다음 주 공개 가능
-2️⃣ CryptoQuant: BTC 반등은 trend reversal보다 bear-market recovery
-3️⃣ H1 crypto hacks 207건 — 손실은 줄었지만 운영보안 리스크 확대
-4️⃣ Ethereum Foundation, AI agents로 실제 protocol bug 발견
-5️⃣ MARA, Texas 2GW powered land site 확보 — miners의 AI/HPC 전환 가속
+1️⃣ Circle, OCC national trust bank 최종 승인 — USDC 인프라 연방 감독권 진입
+2️⃣ SEC 7월 crypto rulemaking 가능 — CLARITY 지연 시 agency rule이 선행
+3️⃣ BTC $64k 반등에도 ETF flow는 BTC·ETH 모두 순유출
+4️⃣ Phantom·Hyperliquid, CFTC에 DeFi software/wallet exemption 요청
+5️⃣ Ill Bloom wallet seed 취약점 — 확인 손실 500만달러+
 
-📌 규제 일정은 마지막 협상 창구로 들어가고, 시장·보안·채굴 인프라는 모두 운영 실행력을 더 강하게 보는 흐름입니다.
+📌 오늘은 가격보다 제도권 연결부와 self-custody 운영보안이 더 중요합니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-10.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-11.md
 
-전송 상태: OpenClaw 그룹 세션 전달 요청 접수, visible reply 미확인(runId: f0adbe2a-86ca-4f18-9245-35b436ff3815)
+전송 상태: OpenClaw 그룹 세션 전달 요청 접수, visible reply 미확인(runId: 4bfba235-a0d5-4e62-98ff-adf70bcd25dc)
