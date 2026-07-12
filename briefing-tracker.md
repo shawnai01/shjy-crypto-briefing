@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-12
+1. BTC $64k 반등 — 7/14 CPI가 다음 분기점
+2. BTC ETF $90.4M·ETH ETF $18.4M 순유입 — 기관 수급 조심스러운 복귀
+3. SEC `novel ETF` 의견수렴 — crypto ETF 다음 전장은 상품 구조
+4. Hedera Bonzo Lend oracle exploit — 약 905만달러 비정상 차입
+5. Robinhood Chain 첫 주 $568M 일간 거래량 — RWA chain 실수요 시험대
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `054160de-1dcb-4ed5-8024-7058baea5c3f`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-12.md
+
 ### 2026-07-11
 1. Circle, OCC national trust bank 최종 승인 — USDC 인프라 연방 감독권 진입
 2. SEC 7월 crypto rulemaking 가능 — CLARITY 지연 시 agency rule이 선행
