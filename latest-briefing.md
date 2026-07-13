@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.07.12
+☕ 크립토 모닝 브리핑 — 2026.07.13
 
-1️⃣ BTC $64k 반등 — 7/14 CPI가 다음 분기점
-2️⃣ BTC ETF $90.4M·ETH ETF $18.4M 순유입 — 기관 수급 조심스러운 복귀
-3️⃣ SEC `novel ETF` 의견수렴 — crypto ETF 다음 전장은 상품 구조
-4️⃣ Hedera Bonzo Lend oracle exploit — 약 905만달러 비정상 차입
-5️⃣ Robinhood Chain 첫 주 $568M 일간 거래량 — RWA chain 실수요 시험대
+1️⃣ Hormuz 긴장에도 BTC $63.8k 부근 — macro shock 흡수력 시험
+2️⃣ Fidelity Timmer: BTC, $58k 장기 support zone 접근
+3️⃣ SEC 2026 agenda — crypto offering·broker-dealer·tokenized securities 룰 설계
+4️⃣ Base B20 mainnet — stablecoin/RWA용 freeze·blocklist 내장 token standard
+5️⃣ Swift, 17개 은행과 tokenized deposit blockchain ledger pilot 준비
 
-📌 반등 자체보다 CPI 이후 ETF flow, ETF 구조 규제, oracle 보안이 핵심입니다.
+📌 오늘은 가격보다 macro shock, SEC rulemaking, regulated token infrastructure가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-12.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-13.md

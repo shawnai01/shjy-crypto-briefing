@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-13
+1. Hormuz 긴장에도 BTC $63.8k 부근 — macro shock 흡수력 시험
+2. Fidelity Timmer: BTC, $58k 장기 support zone 접근
+3. SEC 2026 agenda — crypto offering·broker-dealer·tokenized securities 룰 설계
+4. Base B20 mainnet — stablecoin/RWA용 freeze·blocklist 내장 token standard
+5. Swift, 17개 은행과 tokenized deposit blockchain ledger pilot 준비
+- ⚠️ OpenClaw 그룹 세션 전달 요청 접수됐으나 대상 세션이 inter-session 데이터로 처리해 visible reply 미전송 (runId: `79c08e86-929c-4560-9ff6-f6ea7943dace`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-13.md
+
 ### 2026-07-12
 1. BTC $64k 반등 — 7/14 CPI가 다음 분기점
 2. BTC ETF $90.4M·ETH ETF $18.4M 순유입 — 기관 수급 조심스러운 복귀
