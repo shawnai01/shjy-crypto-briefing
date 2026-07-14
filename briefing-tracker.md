@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-14
+1. BTC $62k 방어 — CPI·Fed 이벤트가 다음 분기점
+2. Strategy, MSTR 매각으로 USD reserve 30억달러 — BTC 매수 중단 지속
+3. Robinhood Chain 주간 DEX 30억달러 — RWA보다 투기 거래가 먼저 붙음
+4. Circle OCC 승인에도 USDC 성장·경쟁 압력은 지속
+5. Lawson, JPYC POS 결제 파일럿 — 일본 리테일 stablecoin 실험 확대
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `c2479b8b-6e83-40d7-a170-d4803d08d83d`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-14.md
+
 ### 2026-07-13
 1. Hormuz 긴장에도 BTC $63.8k 부근 — macro shock 흡수력 시험
 2. Fidelity Timmer: BTC, $58k 장기 support zone 접근

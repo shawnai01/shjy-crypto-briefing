@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.07.13
+☕ 크립토 모닝 브리핑 — 2026.07.14
 
-1️⃣ Hormuz 긴장에도 BTC $63.8k 부근 — macro shock 흡수력 시험
-2️⃣ Fidelity Timmer: BTC, $58k 장기 support zone 접근
-3️⃣ SEC 2026 agenda — crypto offering·broker-dealer·tokenized securities 룰 설계
-4️⃣ Base B20 mainnet — stablecoin/RWA용 freeze·blocklist 내장 token standard
-5️⃣ Swift, 17개 은행과 tokenized deposit blockchain ledger pilot 준비
+1️⃣ BTC $62k 방어 — CPI·Fed 이벤트가 다음 분기점
+2️⃣ Strategy, MSTR 매각으로 USD reserve 30억달러 — BTC 매수 중단 지속
+3️⃣ Robinhood Chain 주간 DEX 30억달러 — RWA보다 투기 거래가 먼저 붙음
+4️⃣ Circle OCC 승인에도 USDC 성장·경쟁 압력은 지속
+5️⃣ Lawson, JPYC POS 결제 파일럿 — 일본 리테일 stablecoin 실험 확대
 
-📌 오늘은 가격보다 macro shock, SEC rulemaking, regulated token infrastructure가 핵심입니다.
+📌 오늘은 macro 이벤트와 regulated distribution power가 시장 방향을 가르는 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-13.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-14.md
