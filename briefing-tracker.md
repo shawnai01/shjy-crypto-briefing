@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-15
+1. BTC·ETH ETF, 8주 유출 뒤 2.818억달러 순유입
+2. SEC `Regulation Crypto` + CLARITY Act, 8월 전 규제 관문
+3. 영국 HMRC, DeFi lending·LP 세금 `no gain, no loss`로 정리
+4. ECB·Swift, digital euro와 tokenized deposit 실험 확대
+5. Injective SDK npm 공격 — 지갑 키 탈취 코드 49분 노출
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `fe57f984-f552-4730-8599-b18dc5e0753a`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-15.md
+
 ### 2026-07-14
 1. BTC $62k 방어 — CPI·Fed 이벤트가 다음 분기점
 2. Strategy, MSTR 매각으로 USD reserve 30억달러 — BTC 매수 중단 지속
