@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-16
+1. BTC·ETH, CPI 완화 뒤 ETF 순유입 재개
+2. Open USD, USDC 수익 배분 모델 직접 압박
+3. Morgan Stanley ETH·SOL ETF, staking·0.14% fee 전면화
+4. SBI·DigiFT, Solana 기반 일본 주식 토큰 출시
+5. Aave, Chainlink CCIP를 cross-chain 기본 인프라로 채택
+- ❌ OpenClaw 그룹 세션 전달 요청은 접수됐으나 Telegram API가 `bot was kicked from the group chat`를 반환해 visible reply 전송 실패 (runId: `d7992f52-774d-4014-a14d-3a90895de87c`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-16.md
+
 ### 2026-07-15
 1. BTC·ETH ETF, 8주 유출 뒤 2.818억달러 순유입
 2. SEC `Regulation Crypto` + CLARITY Act, 8월 전 규제 관문
