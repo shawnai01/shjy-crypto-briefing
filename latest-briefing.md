@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.07.16
+☕ 크립토 모닝 브리핑 — 2026.07.17
 
-1️⃣ BTC·ETH, CPI 완화 뒤 ETF 순유입 재개
-2️⃣ Open USD, USDC 수익 배분 모델 직접 압박
-3️⃣ Morgan Stanley ETH·SOL ETF, staking·0.14% fee 전면화
-4️⃣ SBI·DigiFT, Solana 기반 일본 주식 토큰 출시
-5️⃣ Aave, Chainlink CCIP를 cross-chain 기본 인프라로 채택
+1️⃣ ETH, BlackRock ETF 수급으로 BTC 대비 강세
+2️⃣ T. Rowe Price, 첫 active multi-token crypto ETP 출시
+3️⃣ Crypto.com, Citadel Securities에서 4억달러 투자 유치
+4️⃣ SBI·Ondo, 일본 주식 토큰화와 JPYSC 결제 협력
+5️⃣ DTCC, tokenized securities live U.S. trades 처리
 
-📌 오늘은 macro 완화보다 stablecoin/RWA/DeFi 인프라 재편이 더 큰 신호입니다.
+📌 오늘은 가격보다 ETF 상품화·RWA 결제/후선 인프라가 더 큰 신호입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-16.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-17.md

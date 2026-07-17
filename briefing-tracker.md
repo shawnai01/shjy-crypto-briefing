@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-17
+1. ETH, BlackRock ETF 수급으로 BTC 대비 강세
+2. T. Rowe Price, 첫 active multi-token crypto ETP 출시
+3. Crypto.com, Citadel Securities에서 4억달러 투자 유치
+4. SBI·Ondo, 일본 주식 토큰화와 JPYSC 결제 협력
+5. DTCC, tokenized securities live U.S. trades 처리
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `283db120-4846-469f-8e39-99ffcb7550e4`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-17.md
+
 ### 2026-07-16
 1. BTC·ETH, CPI 완화 뒤 ETF 순유입 재개
 2. Open USD, USDC 수익 배분 모델 직접 압박
