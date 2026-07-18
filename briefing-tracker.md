@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-18
+1. Morgan Stanley E*TRADE, BTC·ETH·SOL 현물 거래 롤아웃
+2. ESMA MiCA 등록 CASP 14개 추가 — 총 294개
+3. Swift 40+ 기관 ledger vs Stripe-PayPal bid — 결제 레일 경쟁
+4. SBI, Coinhako majority stake 인수 — 아시아 digital asset corridor
+5. Ostium, oracle/keeper exploit로 약 1,800만 USDC 손실
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `f3076810-53df-46a5-8218-5b03caf5b056`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-18.md
+
 ### 2026-07-17
 1. ETH, BlackRock ETF 수급으로 BTC 대비 강세
 2. T. Rowe Price, 첫 active multi-token crypto ETP 출시
