@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-19
+1. BTC 옵션 $2.5B call spread — 7월 말 $72k 베팅
+2. Crypto ETF 주간 약 $200M 순유입 — ETH가 BTC 앞섬
+3. 미국, Brazil Pix 겨냥 Section 301 — stablecoin 결제 지정학
+4. Base Native AA devnet 공개 — Cobalt 계정 추상화 준비
+5. Across Solana 공격 — user fund 무손실, relayer 손실 격리
+- ✅ OpenClaw 그룹 세션 전달 요청 접수 (runId: `1c72368b-6cf6-41b7-aa4f-96958fc4ea41`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-19.md
+
 ### 2026-07-18
 1. Morgan Stanley E*TRADE, BTC·ETH·SOL 현물 거래 롤아웃
 2. ESMA MiCA 등록 CASP 14개 추가 — 총 294개
