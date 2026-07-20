@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.07.19
+☕ 크립토 모닝 브리핑 — 2026.07.20
 
-1️⃣ BTC 옵션 $2.5B call spread — 7월 말 $72k 베팅
-2️⃣ Crypto ETF 주간 약 $200M 순유입 — ETH가 BTC 앞섬
-3️⃣ 미국, Brazil Pix 겨냥 Section 301 — stablecoin 결제 지정학
-4️⃣ Base Native AA devnet 공개 — Cobalt 계정 추상화 준비
-5️⃣ Across Solana 공격 — user fund 무손실, relayer 손실 격리
+1️⃣ GENIUS Act deadline 통과 — stablecoin 최종 규칙은 아직 미완
+2️⃣ 프랑스 ANJ, Polymarket ISP 차단 — prediction market 규제 확대
+3️⃣ Saylor, Bitcoin BIP-110 반대 — Ordinals/data spam 논쟁 재점화
+4️⃣ ETH ETF 수급 재가동 — BlackRock ETHA 중심으로 ETH가 BTC 앞섬
+5️⃣ Galaxy·Kraken, 기관용 onchain yield를 custody workflow 안으로 통합
 
-📌 오늘은 macro 옵션 베팅보다 결제망·wallet UX·bridge operational risk가 더 오래갈 이슈입니다.
+📌 오늘은 가격보다 stablecoin 규칙, prediction market 규제, 기관용 DeFi 인프라가 더 오래갈 이슈입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-19.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-20.md

@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-20
+1. GENIUS Act deadline 통과 — stablecoin 최종 규칙은 아직 미완
+2. 프랑스 ANJ, Polymarket ISP 차단 — prediction market 규제 확대
+3. Saylor, Bitcoin BIP-110 반대 — Ordinals/data spam 논쟁 재점화
+4. ETH ETF 수급 재가동 — BlackRock ETHA 중심으로 ETH가 BTC 앞섬
+5. Galaxy·Kraken, 기관용 onchain yield를 custody workflow 안으로 통합
+- ⚠️ OpenClaw 그룹 세션 전달 요청은 접수됐으나 대상 메인 세션이 inter-session 규칙으로 visible reply 미전송 (runId: `91c6b8d3-de58-43ee-b6bc-a525b0eac58c`; delivery.status: `pending`; Telegram messageId 미반환)
+- 📄 상세 보고서: reports/2026-07-20.md
+
 ### 2026-07-19
 1. BTC 옵션 $2.5B call spread — 7월 말 $72k 베팅
 2. Crypto ETF 주간 약 $200M 순유입 — ETH가 BTC 앞섬
