@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-21
+1. BTC ETF 순유입 재개 — stablecoin dry powder는 23억달러 감소
+2. AZ-COM Maruwa, JPYC로 2,300개 파트너 결제 추진
+3. Allbridge Core, Solana pool flash loan exploit로 165만달러 손실
+4. Hyperliquid HIP-4, permissionless prediction market 로드맵 공개
+5. Bitmine, ETH supply 4.8% 보유 — buyback으로 매수 속도 조절
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-21.md
+
 ### 2026-07-20
 1. GENIUS Act deadline 통과 — stablecoin 최종 규칙은 아직 미완
 2. 프랑스 ANJ, Polymarket ISP 차단 — prediction market 규제 확대
