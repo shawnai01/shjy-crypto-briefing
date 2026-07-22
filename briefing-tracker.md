@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-22
+1. BTC ETF 5일 연속 순유입 — 약 7.27억달러 유입
+2. 러시아, 9월 1일 시행 crypto market law 통과
+3. Augustus, stablecoin-era clearing bank로 1.8억달러 조달
+4. Galaxy, Bitcoin quantum readiness에 최대 500만달러 지원
+5. Movement Labs, MOVE token 논란 이후 Chapter 11 신청
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group message route/tool 없음; local `openclaw` CLI는 `libsimdjson.29.dylib` 누락으로 실행 불가; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-22.md
+
 ### 2026-07-21
 1. BTC ETF 순유입 재개 — stablecoin dry powder는 23억달러 감소
 2. AZ-COM Maruwa, JPYC로 2,300개 파트너 결제 추진
