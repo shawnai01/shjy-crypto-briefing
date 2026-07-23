@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.22
+☕ 크립토 모닝 브리핑 — 2026.07.23
 
-1️⃣ BTC ETF 5일 연속 순유입 — 약 7.27억달러 유입
-2️⃣ 러시아, 9월 1일 시행 crypto market law 통과
-3️⃣ Augustus, stablecoin-era clearing bank로 1.8억달러 조달
-4️⃣ Galaxy, Bitcoin quantum readiness에 최대 500만달러 지원
-5️⃣ Movement Labs, MOVE token 논란 이후 Chapter 11 신청
+1️⃣ CLARITY Act 새 초안 공개 — 윤리 조항이 막판 병목
+2️⃣ 민주당 협상파도 "아직 부족" — 소비자보호/불법금융 쟁점
+3️⃣ Balance stablecoin, oracle 조작으로 99% 붕괴
+4️⃣ Wanchain bridge exploit — Midnight NIGHT 2.9억개 유출
+5️⃣ Kraken xStocks, 홍콩·영국·한국 주식으로 확장
 
-📌 오늘은 ETF 수급 회복과 함께 규제·결제 인프라·프로토콜 거버넌스 리스크가 동시에 부각됐습니다.
+📌 법안은 합의 리스크, 인프라는 oracle/bridge 리스크, RWA는 tokenized equities 경쟁으로 갈라졌습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-22.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-23.md
 
-전송 상태: 대기 (현 isolated cron 세션에 Telegram group message route/tool 없음; local openclaw CLI 실행 불가)
+전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)

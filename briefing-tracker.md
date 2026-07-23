@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-23
+1. CLARITY Act 새 초안 공개 — 윤리 조항이 막판 병목
+2. 민주당 협상파도 CLARITY Act "아직 부족" — 소비자보호/불법금융 쟁점
+3. Balance stablecoin, oracle 조작으로 99% 붕괴
+4. Wanchain bridge exploit — Midnight NIGHT 2.9억개 유출 후 반등
+5. Kraken parent Payward, xStocks를 홍콩·영국·한국 주식으로 확장
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-23.md
+
 ### 2026-07-22
 1. BTC ETF 5일 연속 순유입 — 약 7.27억달러 유입
 2. 러시아, 9월 1일 시행 crypto market law 통과
