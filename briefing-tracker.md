@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-24
+1. CLARITY Act, 8월 recess 전 처리 가능성 낮아짐
+2. Goldman Sachs CEO, 은행권 반발 속 CLARITY Act 지지
+3. Verus-Ethereum bridge, 같은 취약점 계열로 754만달러 재공격
+4. BlackRock·Coinbase·Strategy, Bitcoin Security Consortium 출범
+5. Tassat, regional bank용 stablecoin reserve 플랫폼 발표
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-24.md
+
 ### 2026-07-23
 1. CLARITY Act 새 초안 공개 — 윤리 조항이 막판 병목
 2. 민주당 협상파도 CLARITY Act "아직 부족" — 소비자보호/불법금융 쟁점
