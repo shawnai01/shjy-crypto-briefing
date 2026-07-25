@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-25
+1. CLARITY Act, 2026년 통과 확률 30%로 하향
+2. BTC ETF 2.25억달러 유출, ETH ETF는 2,632만달러 유입
+3. AFX·Verus bridge 연쇄 공격 — 3,160만달러 손실
+4. Wise, OCC charter 거절 뒤 GENIUS Act 프레임으로 재신청
+5. Deribit BTC options, $70k·$72k strike에 약 50억달러 OI 집중
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-25.md
+
 ### 2026-07-24
 1. CLARITY Act, 8월 recess 전 처리 가능성 낮아짐
 2. Goldman Sachs CEO, 은행권 반발 속 CLARITY Act 지지
