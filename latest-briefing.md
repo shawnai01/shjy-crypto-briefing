@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.25
+☕ 크립토 모닝 브리핑 — 2026.07.26
 
-1️⃣ CLARITY Act, 2026년 통과 확률 30%로 하향
-2️⃣ BTC ETF 2.25억달러 유출, ETH ETF는 2,632만달러 유입
-3️⃣ AFX·Verus bridge 연쇄 공격 — 3,160만달러 손실
-4️⃣ Wise, OCC charter 거절 뒤 GENIUS Act 프레임으로 재신청
-5️⃣ Deribit BTC options, $70k·$72k strike에 약 50억달러 OI 집중
+1️⃣ Sberbank, 12월까지 crypto trading·digital depository 인프라 구축
+2️⃣ EU 21차 제재, A7·A7A5 stablecoin 네트워크 직접 겨냥
+3️⃣ Robinhood Chain RWA value 약 7,000만달러 — tokenized stocks 거래 본격화
+4️⃣ BTC ETF 수급 약화, ETH ETF는 상대 우위 유지
+5️⃣ Triple-A hot wallet drain 970만달러 — 7월 보안 리스크 재가열
 
-📌 정책 일정 리스크와 ETH 수급 회전, bridge 운영 보안이 오늘의 핵심입니다.
+📌 규제권 진입과 제재 단속, RWA 실사용, hot-wallet 운영 보안이 오늘의 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-25.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-26.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)

@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-26
+1. Sberbank, 12월까지 crypto trading·digital depository 인프라 구축
+2. EU 21차 제재, A7·A7A5 stablecoin 네트워크 직접 겨냥
+3. Robinhood Chain RWA value 약 7,000만달러 — tokenized stocks 거래 본격화
+4. BTC ETF 수급 약화, ETH ETF는 상대 우위 유지
+5. Triple-A hot wallet drain 970만달러 — 7월 보안 리스크 재가열
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-26.md
+
 ### 2026-07-25
 1. CLARITY Act, 2026년 통과 확률 30%로 하향
 2. BTC ETF 2.25억달러 유출, ETH ETF는 2,632만달러 유입
