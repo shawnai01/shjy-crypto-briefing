@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.26
+☕ 크립토 모닝 브리핑 — 2026.07.27
 
-1️⃣ Sberbank, 12월까지 crypto trading·digital depository 인프라 구축
-2️⃣ EU 21차 제재, A7·A7A5 stablecoin 네트워크 직접 겨냥
-3️⃣ Robinhood Chain RWA value 약 7,000만달러 — tokenized stocks 거래 본격화
-4️⃣ BTC ETF 수급 약화, ETH ETF는 상대 우위 유지
-5️⃣ Triple-A hot wallet drain 970만달러 — 7월 보안 리스크 재가열
+1️⃣ BTC ETF 5일 연속 순유입 — 약 7.27억달러 회복
+2️⃣ CFTC 24/7 futures·perp 의견수렴 오늘 마감
+3️⃣ Robinhood Chain RWA 약 7,000만달러 — tokenized stocks 실사용 확대
+4️⃣ LayerZero·Keeta, 은행 예금형 stablecoin을 ETH·SOL·Base로 확장
+5️⃣ AFX·Verus·B² 사고 — cross-chain 운영보안 리스크 재부각
 
-📌 규제권 진입과 제재 단속, RWA 실사용, hot-wallet 운영 보안이 오늘의 핵심입니다.
+📌 수급 회복보다 시장 구조, 결제 레일, 운영보안이 오늘의 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-26.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-27.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)

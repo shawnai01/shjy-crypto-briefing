@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-27
+1. BTC ETF 5일 연속 순유입 — 약 7.27억달러 회복
+2. CFTC 24/7 futures·perp 의견수렴 오늘 마감
+3. Robinhood Chain RWA 약 7,000만달러 — tokenized stocks 실사용 확대
+4. LayerZero·Keeta, 은행 예금형 stablecoin을 ETH·SOL·Base로 확장
+5. AFX·Verus·B² 사고 — cross-chain 운영보안 리스크 재부각
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-27.md
+
 ### 2026-07-26
 1. Sberbank, 12월까지 crypto trading·digital depository 인프라 구축
 2. EU 21차 제재, A7·A7A5 stablecoin 네트워크 직접 겨냥
