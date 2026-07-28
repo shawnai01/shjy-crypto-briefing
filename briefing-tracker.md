@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-28
+1. CLARITY Act, Senate 일정 밀리며 9월 리스크 확대
+2. BTC ETF 3주 연속 순유입 — 하지만 late-week $465M 유출
+3. Lido, 8M+ ETH validator consolidation 시작
+4. Securitize, SEC adviser 등록으로 tokenized vault 포지션 강화
+5. Circle, IBM blockchain patents nearly 1,000개 인수
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-28.md
+
 ### 2026-07-27
 1. BTC ETF 5일 연속 순유입 — 약 7.27억달러 회복
 2. CFTC 24/7 futures·perp 의견수렴 오늘 마감
