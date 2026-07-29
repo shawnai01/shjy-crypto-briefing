@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.07.28
+☕ 크립토 모닝 브리핑 — 2026.07.29
 
-1️⃣ CLARITY Act, Senate 일정 밀리며 9월 리스크 확대
-2️⃣ BTC ETF 3주 연속 순유입 — 하지만 late-week $465M 유출
-3️⃣ Lido, 8M+ ETH validator consolidation 시작
-4️⃣ Securitize, SEC adviser 등록으로 tokenized vault 포지션 강화
-5️⃣ Circle, IBM blockchain patents nearly 1,000개 인수
+1️⃣ CLARITY Act, Senate recess 전 처리 난항 + FOMC 경계
+2️⃣ Morgan Stanley, ETH·SOL ETP 출시 — staking reward 포함
+3️⃣ H1 crypto hacks 212건·$1.1B+ — Ethereum·Solana 집중
+4️⃣ Bank of Russia, 조직화된 crypto trading·digital depository 초안 공개
+5️⃣ Tether-NSE MoU — stablecoin이 RWA 시장 인프라로 확장
 
-📌 가격보다 법안 일정, ETF 수급의 질, staking/RWA/stablecoin 인프라 제도권 편입이 핵심입니다.
+📌 가격보다 규제 일정, 기관 상품화, 보안 리스크, market infrastructure 실험이 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-28.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-07-29.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)

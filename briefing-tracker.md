@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-29
+1. CLARITY Act, Senate recess 전 처리 난항 + FOMC 경계
+2. Morgan Stanley, ETH·SOL ETP 출시 — staking reward 포함
+3. H1 crypto hacks 212건·$1.1B+ — Ethereum·Solana 집중
+4. Bank of Russia, 조직화된 crypto trading·digital depository 초안 공개
+5. Tether-NSE MoU — stablecoin이 RWA 시장 인프라로 확장
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-29.md
+
 ### 2026-07-28
 1. CLARITY Act, Senate 일정 밀리며 9월 리스크 확대
 2. BTC ETF 3주 연속 순유입 — 하지만 late-week $465M 유출
