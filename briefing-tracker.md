@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-30
+1. Fed 9-3 동결, BTC $64k 부근 정체 — 9월 리스크로 초점 이동
+2. 한국 Digital Asset Basic Act 통합 추진 — 22% crypto tax는 2027년 예정
+3. MoonPay PayBox 출시 — ChatGPT/Claude 안에서 agentic crypto payment 연결
+4. SoFiUSD, enterprise 24/7 payment로 확장 — Q2 crypto revenue $134.3M
+5. BitMart wind-down 후 ETH 출금 급증 — exchange consolidation 리스크 재부각
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-30.md
+
 ### 2026-07-29
 1. CLARITY Act, Senate recess 전 처리 난항 + FOMC 경계
 2. Morgan Stanley, ETH·SOL ETP 출시 — staking reward 포함
