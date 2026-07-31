@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-07-31
+1. BTC ETF 7월 순유입 $205M — 월간 최저 페이스, ETH는 상대 우위
+2. CLARITY Act, 윤리 조항이 막판 병목 — Schumer anti-corruption 법안 제출
+3. Samsung SDS-Dunamu, stablecoin·digital asset infra 협력 논의
+4. 2026 crypto hacks $972M — code보다 keys·governance 리스크 부각
+5. Luno 20% 감원 — crypto layoffs 7월에도 확산
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-07-31.md
+
 ### 2026-07-30
 1. Fed 9-3 동결, BTC $64k 부근 정체 — 9월 리스크로 초점 이동
 2. 한국 Digital Asset Basic Act 통합 추진 — 22% crypto tax는 2027년 예정
