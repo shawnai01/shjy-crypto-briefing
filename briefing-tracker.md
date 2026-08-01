@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-01
+1. Coldcard 취약점, 594 BTC 탈취 — self-custody 운영 리스크 재부각
+2. Tether Q2: 순영업이익 $1.5B, 초과준비금 $4.11B
+3. Circle, NYDFS trust charter 획득 — USDC 규제 인프라 강화
+4. ETH staking queue 43일 — 강한 수요지만 단순 bullish signal은 아님
+5. BTC 7월 +7.5% 마감권, 8월은 $60k put 방어 수요 우세
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-01.md
+
 ### 2026-07-31
 1. BTC ETF 7월 순유입 $205M — 월간 최저 페이스, ETH는 상대 우위
 2. CLARITY Act, 윤리 조항이 막판 병목 — Schumer anti-corruption 법안 제출
