@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-02
+1. Coldcard 공격, 4,585개 주소·1,367 BTC로 확대
+2. SEC, CME 이의제기 뒤 Nasdaq bitcoin options 승인을 재검토
+3. Tokenized stock 거래량 7월 +288% — 단일 QQQB token 착시가 대부분
+4. Bank of Italy: stablecoin remittance, 항상 더 싸지 않다
+5. Strategy, STRC dividend 12% 유지 — BTC treasury 모델의 현금 압박 지속
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-02.md
+
 ### 2026-08-01
 1. Coldcard 취약점, 594 BTC 탈취 — self-custody 운영 리스크 재부각
 2. Tether Q2: 순영업이익 $1.5B, 초과준비금 $4.11B
