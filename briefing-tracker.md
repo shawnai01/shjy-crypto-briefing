@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-03
+1. Coldcard 사고, 3차 wave로 4,585개 주소·1,367 BTC 피해
+2. BTC가 거래소로 역류 — self-custody 리스크가 행동을 바꿈
+3. CLARITY Act, Senate recess 전 절차 투표가 관건
+4. Aviva, XRP Ledger에서 tokenized MMF share class 출시
+5. Crypto on-ramp·bridge는 앱 내부 결제 API로 흡수 중
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-03.md
+
 ### 2026-08-02
 1. Coldcard 공격, 4,585개 주소·1,367 BTC로 확대
 2. SEC, CME 이의제기 뒤 Nasdaq bitcoin options 승인을 재검토
