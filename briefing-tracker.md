@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-04
+1. BlackRock, stablecoin reserve용 tokenized MMF 2종 출시
+2. CLARITY Act, Senate recess 전 처리 가능성 더 낮아짐
+3. Hashdex, 소형 Bitcoin ETF DEFI 청산 결정
+4. Strategy는 BTC 매도, Bitmine은 ETH 매수·staking 확대
+5. Coldcard 이후 hardware wallet RNG 감사 기준 논쟁 확대
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-04.md
+
 ### 2026-08-03
 1. Coldcard 사고, 3차 wave로 4,585개 주소·1,367 BTC 피해
 2. BTC가 거래소로 역류 — self-custody 리스크가 행동을 바꿈
