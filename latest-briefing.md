@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.04
+☕ 크립토 모닝 브리핑 — 2026.08.05
 
-1️⃣ BlackRock, stablecoin reserve용 tokenized MMF 2종 출시
-2️⃣ CLARITY Act, Senate recess 전 처리 가능성 더 낮아짐
-3️⃣ Hashdex, 소형 Bitcoin ETF DEFI 청산 결정
-4️⃣ Strategy는 BTC 매도, Bitmine은 ETH 매수·staking 확대
-5️⃣ Coldcard 이후 hardware wallet RNG 감사 기준 논쟁 확대
+1️⃣ Samsung Wallet, 8억대 Galaxy에 stablecoin 기능 기본 탑재 계획
+2️⃣ Cloudflare, AI agent용 stablecoin wallet·x402 결제 레일 공개
+3️⃣ Dinari, 미국 투자자에게 724개 tokenized U.S. stocks 제공
+4️⃣ Coldcard 취약점 피해, 1.3억달러 수준으로 확대 가능
+5️⃣ Mastercard, BVNK 인수 완료로 stablecoin 결제 인프라 내재화
 
-📌 오늘은 제도권 reserve infra와 crypto treasury 현금흐름, self-custody 감사 기준을 봐야 합니다.
+📌 오늘은 stablecoin이 wallet·agent·brokerage·card network의 공통 결제 레일로 들어가는 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-04.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-05.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)
