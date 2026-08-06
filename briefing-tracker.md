@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-06
+1. Circle Arc, BlackRock·DTCC·Visa 등 창립 validator 공개
+2. Ethereum tapered issuance burn 초안, staking reward 구조 논쟁 점화
+3. Coldcard 이후, self-custody에서 regulated custody·ETF로 수요 이동 가능성
+4. Broadridge·Payward, xStocks tokenized equities에 proxy voting 연결
+5. CLARITY Act, Senate recess 전 표결 가능성은 여전히 불확실
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-06.md
+
 ### 2026-08-05
 1. Samsung Wallet, 8억대 Galaxy에 stablecoin 기능 기본 탑재 계획
 2. Cloudflare, AI agent용 stablecoin wallet·x402 결제 레일 공개
