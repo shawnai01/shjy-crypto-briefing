@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-07
+1. CLARITY Act, Senate recess 전 첫 표결 가능성 재부각
+2. Coldcard 이후 Bitcoin ETF 3일 6.2억달러대 순유입
+3. Tether Hadron, 사우디 기관 부동산 tokenization에 투입
+4. JPYC, Series B extension 60억엔 조달 — 물류 결제 실사용 확대
+5. Mastercard·Borderless.xyz, cross-border stablecoin compliance pilot
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-07.md
+
 ### 2026-08-06
 1. Circle Arc, BlackRock·DTCC·Visa 등 창립 validator 공개
 2. Ethereum tapered issuance burn 초안, staking reward 구조 논쟁 점화
