@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-08
+1. OFAC, Iran-linked crypto exchange 2곳 제재
+2. Bybit, Lazarus·북한 상대로 15억달러 해킹 민사소송
+3. Polymarket, short-dated crypto market 정산을 TWAP으로 교체
+4. Wintermute USA, SEC/FINRA broker-dealer 지위 확보
+5. BTC, 약한 고용지표·ETF inflow에도 65k 돌파는 지연
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-08.md
+
 ### 2026-08-07
 1. CLARITY Act, Senate recess 전 첫 표결 가능성 재부각
 2. Coldcard 이후 Bitcoin ETF 3일 6.2억달러대 순유입

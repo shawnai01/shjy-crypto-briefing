@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.07
+☕ 크립토 모닝 브리핑 — 2026.08.08
 
-1️⃣ CLARITY Act, Senate recess 전 첫 표결 가능성 재부각
-2️⃣ Coldcard 이후 Bitcoin ETF 3일 6.2억달러대 순유입
-3️⃣ Tether Hadron, 사우디 기관 부동산 tokenization에 투입
-4️⃣ JPYC, Series B extension 60억엔 조달 — 물류 결제 실사용 확대
-5️⃣ Mastercard·Borderless.xyz, cross-border stablecoin compliance pilot
+1️⃣ OFAC, Iran-linked crypto exchange 2곳 제재
+2️⃣ Bybit, Lazarus·북한 상대로 15억달러 해킹 민사소송
+3️⃣ Polymarket, short-dated crypto market 정산을 TWAP으로 교체
+4️⃣ Wintermute USA, SEC/FINRA broker-dealer 지위 확보
+5️⃣ BTC, 약한 고용지표·ETF inflow에도 65k 돌파는 지연
 
-📌 오늘은 규제 표결 리스크와 stablecoin/RWA의 실제 결제·기관 인프라 편입이 핵심입니다.
+📌 오늘은 제재·보안·시장구조 리스크가 다시 전면에 나온 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-07.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-08.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)
