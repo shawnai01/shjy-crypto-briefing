@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-09
+1. BTCPay 취약점으로 LND Lightning node drain
+2. BTC·ETH ETF, 주간 11억달러 유입
+3. CLARITY Act, 9월 Senate procedural vote 경로 진입
+4. Ethereum EIP-8363 staking reward cut 논쟁 확대
+5. 브라질, 대형 해외·자가보관 crypto transfer 24시간 지연 규칙
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-09.md
+
 ### 2026-08-08
 1. OFAC, Iran-linked crypto exchange 2곳 제재
 2. Bybit, Lazarus·북한 상대로 15억달러 해킹 민사소송
