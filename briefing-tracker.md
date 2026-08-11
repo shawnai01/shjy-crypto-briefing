@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-11
+1. CLARITY Act, 9월 표결로 밀리며 통과 확률 재평가
+2. Strategy, BTC proxy에서 digital credit platform으로 포지셔닝 전환
+3. Grayscale, ADA·DOT·HBAR ETF 계획 철회
+4. FATF, DeFi에 "control or sufficient influence" 테스트 제시
+5. Bitmine, ETH 매수 속도 둔화하고 자사주 매입 확대
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-11.md
+
 ### 2026-08-10
 1. BTCPay 2.4.2, actively exploited critical vulnerability 긴급 패치
 2. Bitcoin ETF, 주간 8.535억달러 유입으로 4월 이후 최고

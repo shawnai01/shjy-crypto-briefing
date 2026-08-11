@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.10
+☕ 크립토 모닝 브리핑 — 2026.08.11
 
-1️⃣ BTCPay 2.4.2, actively exploited critical vulnerability 긴급 패치
-2️⃣ Bitcoin ETF, 주간 8.535억달러 유입으로 4월 이후 최고
-3️⃣ CLARITY Act, 9월 첫 절차 표결 경로 확보
-4️⃣ Bybit, 북한/Lazarus 15억달러 해킹 자금 추적에 expedited discovery 확보
-5️⃣ Tokenized funds 72억달러 중 DeFi 실사용은 1% 안팎
+1️⃣ CLARITY Act, 9월 표결로 밀리며 통과 확률 재평가
+2️⃣ Strategy, BTC proxy에서 digital credit platform으로 포지셔닝 전환
+3️⃣ Grayscale, ADA·DOT·HBAR ETF 계획 철회
+4️⃣ FATF, DeFi에 "control or sufficient influence" 테스트 제시
+5️⃣ Bitmine, ETH 매수 속도 둔화하고 자사주 매입 확대
 
-📌 오늘은 "보안 사고와 기관형 레일"이 시장 구조 뉴스를 끌고 갑니다.
+📌 오늘은 규제 타임라인 지연과 treasury/ETF narrative의 재가격화가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-10.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-11.md
 
-전송 상태: 대기 (현 isolated cron 세션에 Telegram group direct message route/tool 없음)
+전송 상태: 대기 (현 cron 세션에 Telegram group direct message route/tool 없음)
