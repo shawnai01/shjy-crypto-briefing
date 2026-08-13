@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-13
+1. CFTC, Kalshi 긴급명령 뒤 prediction market incentive filing 경고
+2. Fidelity, 약 9억달러 ETH ETF에 staking·분기 현금분배 추가 추진
+3. 홍콩 HKDAP, HashKey·OSL 통해 beta distribution 시작
+4. 러시아, retail crypto 거래를 BTC·ETH·USDT로 제한하는 초안 공개
+5. Solana, routing failure로 stake 29% 오프라인 — freeze threshold 근접
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-13.md
+
 ### 2026-08-12
 1. SEC, CLARITY 지연 공백에서 crypto offering 규칙 검토
 2. BTC, ETF 매수와 miner/Strategy 매도 사이 $62k-$66k 박스권
