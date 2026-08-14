@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.13
+☕ 크립토 모닝 브리핑 — 2026.08.14
 
-1️⃣ CFTC, Kalshi 긴급명령 뒤 prediction market filing 경고
-2️⃣ Fidelity, ETH ETF에 staking·분기 현금분배 추가 추진
-3️⃣ 홍콩 HKDAP, HashKey·OSL 통해 beta distribution 시작
-4️⃣ 러시아, retail crypto 거래를 BTC·ETH·USDT로 제한 추진
-5️⃣ Solana, routing failure로 stake 29% 오프라인 — freeze threshold 근접
+1️⃣ SEC, Regulation Crypto 공개회의 취소 — rulemaking 일정 재지연
+2️⃣ Tether, KPMG U.S. full financial audit 완료 주장
+3️⃣ BTC ETF 6,116만달러 유출, ETH ETF는 소폭 유입
+4️⃣ Trezor 배송 파트너 침해로 고객 약 1.4만명 정보 노출
+5️⃣ Solana, routing failure에도 mainnet finality 유지
 
-📌 오늘은 제도권 crypto 접근이 넓어지는 동시에, 시장 인프라·validator 집중 리스크가 같이 드러났습니다.
+📌 제도권 진입은 계속되지만, 규제 일정·운영 보안·인프라 집중 리스크가 같이 드러난 하루입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-13.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-14.md
 
 전송 상태: 대기 (현 cron 세션에 Telegram group direct message route/tool 없음)

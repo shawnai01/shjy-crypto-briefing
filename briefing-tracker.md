@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-14
+1. SEC, Regulation Crypto 공개회의 취소 — rulemaking 일정 재지연
+2. Tether, KPMG U.S. full financial audit 완료 주장
+3. BTC ETF 6,116만달러 유출, ETH ETF는 소폭 유입
+4. Trezor 배송 파트너 침해로 고객 약 1.4만명 정보 노출
+5. Solana, routing failure에도 mainnet finality 유지
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-14.md
+
 ### 2026-08-13
 1. CFTC, Kalshi 긴급명령 뒤 prediction market incentive filing 경고
 2. Fidelity, 약 9억달러 ETH ETF에 staking·분기 현금분배 추가 추진
