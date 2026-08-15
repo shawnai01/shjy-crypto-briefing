@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-15
+1. SEC, Regulation Crypto 회의 취소로 tokenization 일정 재지연
+2. World Liberty Trust, OCC preliminary conditional approval 획득
+3. Morgan Stanley, BlackRock IBIT 보유 23% 확대
+4. Neutrl, NUSD minting·redemption 중단
+5. Solana Agave 4.2, Alpenglow 4.3 전 단계 준비
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-15.md
+
 ### 2026-08-14
 1. SEC, Regulation Crypto 공개회의 취소 — rulemaking 일정 재지연
 2. Tether, KPMG U.S. full financial audit 완료 주장
