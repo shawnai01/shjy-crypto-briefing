@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-16
+1. Cboe BZX, 미국 첫 3x Bitcoin·Ether ETF 상장 승인 요청
+2. Bitwise, Superstate와 BSOL ETF share tokenization 추진
+3. Tudor Investment, BlackRock IBIT 직접 보유 18.9% 확대
+4. Coldcard exploit, Galaxy 기준 확정 피해 1,778 BTC로 확대
+5. Bitcoin ETF 주간 3.897억달러 유출, Solana ETF는 상대 유입
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-16.md
+
 ### 2026-08-15
 1. SEC, Regulation Crypto 회의 취소로 tokenization 일정 재지연
 2. World Liberty Trust, OCC preliminary conditional approval 획득

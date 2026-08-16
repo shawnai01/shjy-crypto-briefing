@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.15
+☕ 크립토 모닝 브리핑 — 2026.08.16
 
-1️⃣ SEC, Regulation Crypto 회의 취소로 tokenization 일정 재지연
-2️⃣ World Liberty Trust, OCC preliminary conditional approval 획득
-3️⃣ Morgan Stanley, BlackRock IBIT 보유 23% 확대
-4️⃣ Neutrl, NUSD minting·redemption 중단
-5️⃣ Solana Agave 4.2, Alpenglow 4.3 전 단계 준비
+1️⃣ Cboe BZX, 미국 첫 3x Bitcoin·Ether ETF 상장 승인 요청
+2️⃣ Bitwise, Superstate와 BSOL ETF share tokenization 추진
+3️⃣ Tudor Investment, BlackRock IBIT 직접 보유 18.9% 확대
+4️⃣ Coldcard exploit, Galaxy 기준 확정 피해 1,778 BTC로 확대
+5️⃣ Bitcoin ETF 주간 3.897억달러 유출, Solana ETF는 상대 유입
 
-📌 제도권 인프라는 전진 중이지만, 규제 일정·DeFi reserve·tokenization 실행 리스크가 같이 커졌습니다.
+📌 제도권 상품은 더 복잡해지고, custody·staking·flow 리스크는 더 세밀하게 봐야 합니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-15.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-16.md
 
 전송 상태: 대기 (현 cron 세션에 Telegram group direct message route/tool 없음)
