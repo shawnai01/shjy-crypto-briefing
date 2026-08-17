@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.16
+☕ 크립토 모닝 브리핑 — 2026.08.17
 
-1️⃣ Cboe BZX, 미국 첫 3x Bitcoin·Ether ETF 상장 승인 요청
-2️⃣ Bitwise, Superstate와 BSOL ETF share tokenization 추진
-3️⃣ Tudor Investment, BlackRock IBIT 직접 보유 18.9% 확대
-4️⃣ Coldcard exploit, Galaxy 기준 확정 피해 1,778 BTC로 확대
-5️⃣ Bitcoin ETF 주간 3.897억달러 유출, Solana ETF는 상대 유입
+1️⃣ Galaxy, CLARITY Act 2026년 통과 확률을 10%로 하향
+2️⃣ Morgan Stanley, BlackRock IBIT 보유 23% 확대
+3️⃣ Ethereum·Solana staking yield, ETF 배당화와 동시에 축소 논쟁
+4️⃣ Nakamoto, 600 BTC 매각 뒤에도 12월 6,000만 USDT 만기 부담
+5️⃣ Aztec DV Labs exit 미완료, 138.6만 AZTEC validating 상태 잔류
 
-📌 제도권 상품은 더 복잡해지고, custody·staking·flow 리스크는 더 세밀하게 봐야 합니다.
+📌 규제는 늦어지고, 기관 상품은 복잡해지고, yield·treasury·validator 리스크는 더 세밀해집니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-16.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-17.md
 
 전송 상태: 대기 (현 cron 세션에 Telegram group direct message route/tool 없음)

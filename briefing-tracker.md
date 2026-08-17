@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-17
+1. Galaxy, CLARITY Act 2026년 통과 확률을 10%로 하향
+2. Morgan Stanley, BlackRock IBIT 보유 23% 확대
+3. Ethereum·Solana staking yield, ETF 배당화와 동시에 축소 논쟁
+4. Nakamoto, 600 BTC 매각 뒤에도 12월 6,000만 USDT 만기 부담
+5. Aztec DV Labs exit 미완료, 138.6만 AZTEC validating 상태 잔류
+- ⚠️ 텔레그램 직접 전송 미실행 (현 cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-17.md
+
 ### 2026-08-16
 1. Cboe BZX, 미국 첫 3x Bitcoin·Ether ETF 상장 승인 요청
 2. Bitwise, Superstate와 BSOL ETF share tokenization 추진
