@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-18
+1. White House, 8월 19일 crypto·prediction market 회동 예정
+2. BTC ETF 주간 3.897억달러 유출, SOL ETF는 5월 이후 최대 유입
+3. Tokenized equities, 약 27억달러 규모로 확대
+4. Goldman Sachs, NEOS 인수로 Bitcoin income ETF 노출 확보
+5. Strategy, BTC 매매 없이 MSTR 매각으로 USD reserve 보강
+- ✅ 텔레그램 전송 완료 (messageId: 274, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-08-18.md
+
 ### 2026-08-17
 1. Galaxy, CLARITY Act 2026년 통과 확률을 10%로 하향
 2. Morgan Stanley, BlackRock IBIT 보유 23% 확대
