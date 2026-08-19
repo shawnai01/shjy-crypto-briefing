@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-19
+1. SEC, CLARITY 공백 속 `Regulation Crypto Assets` 제안
+2. FASB, stablecoin의 cash equivalent 분류 기준 예시 제안
+3. Visa, Mastercard-BVNK 이후 새 stablecoin settlement 파트너 탐색
+4. Securitize·Neuberger, multi-chain tokenized fixed-income fund 출시
+5. Interstice·FalconX, Canton-Ethereum-Solana-Robinhood Chain swap engine 연결
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram group direct message route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-19.md
+
 ### 2026-08-18
 1. White House, 8월 19일 crypto·prediction market 회동 예정
 2. BTC ETF 주간 3.897억달러 유출, SOL ETF는 5월 이후 최대 유입

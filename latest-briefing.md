@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.18
+☕ 크립토 모닝 브리핑 — 2026.08.19
 
-1️⃣ White House, 8월 19일 crypto·prediction market 회동 예정
-2️⃣ BTC ETF 주간 3.897억달러 유출, SOL ETF는 5월 이후 최대 유입
-3️⃣ Tokenized equities, 약 27억달러 규모로 확대
-4️⃣ Goldman Sachs, NEOS 인수로 Bitcoin income ETF 노출 확보
-5️⃣ Strategy, BTC 매매 없이 MSTR 매각으로 USD reserve 보강
+1️⃣ SEC, CLARITY 공백 속 `Regulation Crypto Assets` 제안
+2️⃣ FASB, stablecoin의 cash equivalent 분류 기준 예시 제안
+3️⃣ Visa, Mastercard-BVNK 이후 새 stablecoin settlement 파트너 탐색
+4️⃣ Securitize·Neuberger, multi-chain tokenized fixed-income fund 출시
+5️⃣ Interstice·FalconX, Canton-Ethereum-Solana-Robinhood Chain swap engine 연결
 
-📌 규제 신호는 회동과 9월 표결로 미뤄졌고, 자금은 BTC 단일 노출보다 ETF·RWA·income 상품으로 분산 중입니다.
+📌 가격보다 규제·회계·결제·RWA 인프라가 오늘의 메인 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-18.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-19.md
 
-전송 상태: 완료 (Telegram messageId: 274, target: -1003930029847)
+전송 상태: 대기 (현 isolated cron 세션에 Telegram message route/tool 없음)
