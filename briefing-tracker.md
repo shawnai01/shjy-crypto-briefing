@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-20
+1. Trump, White House crypto event에서 CLARITY Act 처리 압박
+2. OCC, GENIUS stablecoin 최종 규칙을 11월까지 예고
+3. BTC 69.7k 근처 급등 — Treasury 장기물 buyback 확대가 촉매
+4. FalconX·Ethena, USDe backing assets로 10억달러 기관 credit facility 출시
+5. HSBC·Standard Chartered, Swift blockchain ledger 첫 live transaction 완료
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-20.md
+
 ### 2026-08-19
 1. SEC, CLARITY 공백 속 `Regulation Crypto Assets` 제안
 2. FASB, stablecoin의 cash equivalent 분류 기준 예시 제안
