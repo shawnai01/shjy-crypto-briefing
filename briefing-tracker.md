@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-21
+1. CFTC, CLARITY Act 불발 시 자체 crypto 규칙 추진 예고
+2. SEC Regulation Crypto Assets, crypto offering safe harbor 공식 제안
+3. BTC 72k 회복 — CLARITY 기대와 ETF 5.17억달러대 inflow
+4. Binance Agent OS 출시 — AI agent가 거래·지갑·결제 인프라에 연결
+5. Rapid7, 88.5만 전화번호 타깃 Operation ASTERIX 피싱 인프라 공개
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-21.md
+
 ### 2026-08-20
 1. Trump, White House crypto event에서 CLARITY Act 처리 압박
 2. OCC, GENIUS stablecoin 최종 규칙을 11월까지 예고

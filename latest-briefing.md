@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.20
+☕ 크립토 모닝 브리핑 — 2026.08.21
 
-1️⃣ Trump, White House crypto event에서 CLARITY Act 처리 압박
-2️⃣ OCC, GENIUS stablecoin 최종 규칙을 11월까지 예고
-3️⃣ BTC 69.7k 근처 급등 — Treasury 장기물 buyback 확대가 촉매
-4️⃣ FalconX·Ethena, USDe backing assets로 10억달러 기관 credit facility 출시
-5️⃣ HSBC·Standard Chartered, Swift blockchain ledger 첫 live transaction 완료
+1️⃣ CFTC, CLARITY Act 불발 시 자체 crypto 규칙 추진 예고
+2️⃣ SEC Regulation Crypto Assets, crypto offering safe harbor 공식 제안
+3️⃣ BTC 72k 회복 — CLARITY 기대와 ETF 5.17억달러대 inflow
+4️⃣ Binance Agent OS 출시 — AI agent가 거래·지갑·결제 인프라에 연결
+5️⃣ Rapid7, 88.5만 전화번호 타깃 Operation ASTERIX 피싱 인프라 공개
 
-📌 오늘은 규제기관 규칙화와 TradFi 결제/신용 인프라가 가격 반등보다 더 큰 신호입니다.
+📌 오늘은 규제기관 선제 rulemaking과 AI-agent 운영 리스크가 가격 반등만큼 중요합니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-20.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-21.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram message route/tool 없음)
