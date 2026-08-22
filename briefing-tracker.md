@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-22
+1. BTC·ETH ETF, 하루 8.29억달러대 순유입
+2. Solana, mainnet slot time 350ms 활성화
+3. BounceBit, 2.865억 BB exploit 뒤 자체 체인 영구 종료
+4. MANTRA Chain, 미공개 incident 조사로 네트워크 정지
+5. Ripple·Clearpool·Cicada, XRPL 기반 RLUSD 기관 신용 플랫폼 개발
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-22.md
+
 ### 2026-08-21
 1. CFTC, CLARITY Act 불발 시 자체 crypto 규칙 추진 예고
 2. SEC Regulation Crypto Assets, crypto offering safe harbor 공식 제안
