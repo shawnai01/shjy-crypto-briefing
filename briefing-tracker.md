@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-23
+1. BTC·ETH ETF, 주간 26.1억달러 유입
+2. SEC, Regulation Crypto Assets 공식 제안
+3. OCC, GENIUS Act stablecoin 최종 규칙 11월 목표
+4. X, creator payout에 USDC 등 stablecoin 검토
+5. BounceBit, 2.865억 BB exploit 뒤 자체 체인 영구 종료
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-23.md
+
 ### 2026-08-22
 1. BTC·ETH ETF, 하루 8.29억달러대 순유입
 2. Solana, mainnet slot time 350ms 활성화
