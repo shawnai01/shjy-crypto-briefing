@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-24
+1. BTC·ETH ETF, 2026년 최대 주간 유입
+2. SEC Regulation Crypto Assets, comment window 진입
+3. Term Labs, 거버넌스 exploit로 약 850만달러 유출
+4. The Sandbox, Base·BNB Chain SAND bridge 중단
+5. Nomura-backed Laser Digital, 일본 4년 만의 신규 crypto 등록
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-24.md
+
 ### 2026-08-23
 1. BTC·ETH ETF, 주간 26.1억달러 유입
 2. SEC, Regulation Crypto Assets 공식 제안
