@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-25
+1. Coinbase, Base에서 토큰화 미국 주식 출시
+2. BNB Chain Pasteur hard fork, BSC mainnet 활성화
+3. THORChain v3.20, BNB/Base/Solana 거래 재개 준비
+4. Standard Chartered, HKDAP 홍콩달러 stablecoin 유통 참여
+5. SEC Regulation Crypto Assets, 60일 comment window 진행
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-25.md
+
 ### 2026-08-24
 1. BTC·ETH ETF, 2026년 최대 주간 유입
 2. SEC Regulation Crypto Assets, comment window 진입
