@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.25
+☕ 크립토 모닝 브리핑 — 2026.08.26
 
-1️⃣ Coinbase, Base에서 토큰화 미국 주식 출시
-2️⃣ BNB Chain Pasteur hard fork, BSC mainnet 활성화
-3️⃣ THORChain v3.20, BNB/Base/Solana 거래 재개 준비
-4️⃣ Standard Chartered, HKDAP 홍콩달러 stablecoin 유통 참여
-5️⃣ SEC Regulation Crypto Assets, 60일 comment window 진행
+1️⃣ BTC, $81k 터치 후 ETF 유입 지속성 테스트
+2️⃣ Solana ETF, 5일 연속 유입과 누적 $1.22B 기록
+3️⃣ Bitwise, Coinbase 토큰화 주식 기반 자동 포트폴리오 출시
+4️⃣ USD1, Canton Network에서 기관 RWA 결제용 native issuance
+5️⃣ Morpho PT-reUSD, 약 3% 가격 이동으로 $36.4M 청산
 
-📌 오늘 키워드는 RWA/토큰화와 체인 운영 신뢰 회복입니다.
+📌 오늘 키워드는 ETF 자금 확산, RWA 상품화, DeFi 레버리지 리스크입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-25.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-26.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram message route/tool 없음)

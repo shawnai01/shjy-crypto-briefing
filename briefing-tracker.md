@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-26
+1. BTC, $81k 터치 후 ETF 유입 지속성 테스트
+2. Solana ETF, 5일 연속 유입과 누적 $1.22B 기록
+3. Bitwise, Coinbase 토큰화 주식 기반 자동 포트폴리오 출시
+4. USD1, Canton Network에서 기관 RWA 결제용 native issuance
+5. Morpho PT-reUSD, 약 3% 가격 이동으로 $36.4M 청산
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-26.md
+
 ### 2026-08-25
 1. Coinbase, Base에서 토큰화 미국 주식 출시
 2. BNB Chain Pasteur hard fork, BSC mainnet 활성화
