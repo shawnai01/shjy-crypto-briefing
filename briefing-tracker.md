@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-27
+1. BTC, 7일 +23% 후 $79k로 숨고르기
+2. 신한금융-Visa, 한국형 stablecoin 결제 인프라 공동 실증
+3. 일본, 주식·국채 24/7 blockchain settlement 검토
+4. SEC, crypto custody rule proposal을 White House review로 송부
+5. Dallas Fed, tokenized deposit이 은행 대출 여력 $700B 줄일 수 있다고 경고
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-27.md
+
 ### 2026-08-26
 1. BTC, $81k 터치 후 ETF 유입 지속성 테스트
 2. Solana ETF, 5일 연속 유입과 누적 $1.22B 기록

@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.26
+☕ 크립토 모닝 브리핑 — 2026.08.27
 
-1️⃣ BTC, $81k 터치 후 ETF 유입 지속성 테스트
-2️⃣ Solana ETF, 5일 연속 유입과 누적 $1.22B 기록
-3️⃣ Bitwise, Coinbase 토큰화 주식 기반 자동 포트폴리오 출시
-4️⃣ USD1, Canton Network에서 기관 RWA 결제용 native issuance
-5️⃣ Morpho PT-reUSD, 약 3% 가격 이동으로 $36.4M 청산
+1️⃣ BTC, 7일 +23% 후 $79k로 숨고르기
+2️⃣ 신한금융-Visa, 한국형 stablecoin 결제 인프라 공동 실증
+3️⃣ 일본, 주식·국채 24/7 blockchain settlement 검토
+4️⃣ SEC, crypto custody rule proposal을 White House review로 송부
+5️⃣ Dallas Fed, tokenized deposit이 은행 대출 여력 $700B 줄일 수 있다고 경고
 
-📌 오늘 키워드는 ETF 자금 확산, RWA 상품화, DeFi 레버리지 리스크입니다.
+📌 오늘 키워드는 ETF 수요와 기관 결제 인프라 재편입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-26.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-27.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram message route/tool 없음)
