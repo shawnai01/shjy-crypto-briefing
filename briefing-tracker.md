@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-28
+1. SEC, crypto asset offering exemption 규칙 제안
+2. 영국, BoE에 stablecoin 결제 innovation mandate 추진
+3. StarkWare, Bitcoin mainnet quantum-resistant spending 실험
+4. Mirae Asset, Digital X 중심 $109B digital asset 사업 계획
+5. Solana, disinflation·fee burn 거버넌스 투표
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-28.md
+
 ### 2026-08-27
 1. BTC, 7일 +23% 후 $79k로 숨고르기
 2. 신한금융-Visa, 한국형 stablecoin 결제 인프라 공동 실증
