@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-29
+1. Solana, SGP-0002 통과로 SOL disinflation 가속
+2. Bullish, USD.AI에 1억달러 stablecoin credit facility 제공
+3. Virtu·Tradeweb, sovereign digital bond 기반 onchain repo 완료
+4. BitGo, NYDIG institutional trading business 인수
+5. Revolut, EURR euro stablecoin을 EEA 일부 국가에 롤아웃
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-29.md
+
 ### 2026-08-28
 1. SEC, crypto asset offering exemption 규칙 제안
 2. 영국, BoE에 stablecoin 결제 innovation mandate 추진

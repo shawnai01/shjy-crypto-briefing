@@ -1,13 +1,13 @@
-☕ 크립토 모닝 브리핑 — 2026.08.28
+☕ 크립토 모닝 브리핑 — 2026.08.29
 
-1️⃣ SEC, crypto asset offering exemption 규칙 제안
-2️⃣ 영국, BoE에 stablecoin 결제 innovation mandate 추진
-3️⃣ StarkWare, Bitcoin mainnet quantum-resistant spending 실험
-4️⃣ Mirae Asset, Digital X 중심 $109B digital asset 사업 계획
-5️⃣ Solana, disinflation·fee burn 거버넌스 투표
+1️⃣ Solana, SGP-0002 통과로 SOL disinflation 가속
+2️⃣ Bullish, USD.AI에 1억달러 stablecoin credit facility 제공
+3️⃣ Virtu·Tradeweb, sovereign digital bond 기반 onchain repo 완료
+4️⃣ BitGo, NYDIG institutional trading business 인수
+5️⃣ Revolut, EURR euro stablecoin을 EEA 일부 국가에 롤아웃
 
-📌 오늘 키워드는 제도권 레일 재설계입니다.
+📌 오늘 키워드는 기관용 온체인 금융 레일의 실제 사용입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-28.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-08-29.md
 
 전송 상태: 대기 (현 isolated cron 세션에 Telegram message route/tool 없음)
