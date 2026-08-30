@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-08-30
+1. Bitcoin ETF, 9거래일 유입 뒤 2.018억달러 순유출
+2. Tokenized stock, 30일 transfer volume 415% 증가해 295억달러
+3. Stellar RWA, 2026년 약 360% 증가해 40억달러 근접
+4. Polygon, Austin·Kyoto hard fork로 Bor·Heimdall 보안 취약점 수정
+5. 두나무·Visa, stablecoin 결제와 AI commerce 전략적 협력
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-08-30.md
+
 ### 2026-08-29
 1. Solana, SGP-0002 통과로 SOL disinflation 가속
 2. Bullish, USD.AI에 1억달러 stablecoin credit facility 제공
