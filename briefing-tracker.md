@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-01
+1. Bitcoin ETF, 9일 유입 뒤 2.019억달러 순유출
+2. Solana, SGP-0002 통과로 SOL disinflation 속도 2배
+3. 러시아, 9월 1일 새 crypto 규칙 시행과 460억달러 시장 전망
+4. Hyperliquid, Kraken parent Payward 통해 미국 perps 진입 논의
+5. 아일랜드, 신규 tax-advantaged account에서 crypto 제외
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-01.md
+
 ### 2026-08-30
 1. Bitcoin ETF, 9거래일 유입 뒤 2.018억달러 순유출
 2. Tokenized stock, 30일 transfer volume 415% 증가해 295억달러
