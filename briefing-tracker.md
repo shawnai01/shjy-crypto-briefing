@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-02
+1. Bitcoin ETF, BlackRock 주도로 2.167억달러 순유입 반등
+2. SEC, tokenized securities 대응 transfer agent 규칙 개편 추진
+3. BofA·Citi·Goldman 등 21개 금융기관, G7 stablecoin 발행사 계획
+4. Binance, 비미국 이용자 대상 미국 주식·ETF options 확대
+5. Cronos, Tectonic exploit 뒤 rollback·재가동
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-02.md
+
 ### 2026-09-01
 1. Bitcoin ETF, 9일 유입 뒤 2.019억달러 순유출
 2. Solana, SGP-0002 통과로 SOL disinflation 속도 2배
