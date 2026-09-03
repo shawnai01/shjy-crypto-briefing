@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-03
+1. SEC, onchain securities 대응 transfer agent 규칙 대개편 제안
+2. Grayscale·a16z·CCI, SEC novel ETF 일괄 제한 반대
+3. Ondo, 미국 주식 perpetual futures 온쇼어 허용 촉구
+4. Tether, 6,100만달러 scam 사건 관련 USDT 동결 권한 소송
+5. Sui DeFi Full Sail, Switchboard oracle incident 뒤 wind down
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-03.md
+
 ### 2026-09-02
 1. Bitcoin ETF, BlackRock 주도로 2.167억달러 순유입 반등
 2. SEC, tokenized securities 대응 transfer agent 규칙 개편 추진
