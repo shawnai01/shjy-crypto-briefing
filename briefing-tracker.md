@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-04
+1. Bitcoin ETF 1.01억달러 유입, ETH·SOL·XRP ETF는 동반 유출
+2. CFTC, CME의 crypto perpetual futures 소송 각하 요청
+3. SoFi-Kraken, 24/7 달러 결제망·SoFiUSD·Kraken Prime 연동
+4. Mantle, Paxos USDG native launch와 Global Dollar Network 합류
+5. Hyperliquid HIP-3, deployer-managed permissioned markets 테스트넷 공개
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-04.md
+
 ### 2026-09-03
 1. SEC, onchain securities 대응 transfer agent 규칙 대개편 제안
 2. Grayscale·a16z·CCI, SEC novel ETF 일괄 제한 반대
