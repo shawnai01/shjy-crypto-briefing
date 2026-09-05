@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-05
+1. 미국 Bitcoin ETF, 7.31억달러 순유입 — 1월 이후 최대
+2. SEC novel ETF 논의, 빠른 심사 vs 시장 보호로 갈림
+3. OpenReserve, OCC national bank charter 예비 승인
+4. 한국, 2027년 2월 tokenized securities 시장 로드맵 부각
+5. FinCEN, 해외 scam center 연계 digital asset 사기 127억달러 식별
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-05.md
+
 ### 2026-09-04
 1. Bitcoin ETF 1.01억달러 유입, ETH·SOL·XRP ETF는 동반 유출
 2. CFTC, CME의 crypto perpetual futures 소송 각하 요청
