@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-06
+1. BOK, USD stablecoin 수요가 현지 통화 약세 압력으로 전이될 수 있다고 분석
+2. Bitcoin ETF, BTC 8만달러 하회에도 1.746억달러 순유입
+3. Robinhood Chain, 일간 DEX volume 30억달러 돌파와 UNI burn 115만달러 기록
+4. XRP spot ETF 13F 보유, Goldman·Jane Street·Millennium이 상위권
+5. Polymarket 10억달러 라운드 추진 보도와 CLARITY Act 변수 완화
+- ⚠️ 텔레그램 직접 전송 미실행 (현 isolated cron 세션에 Telegram `message(action="send")` route/tool 없음; latest-briefing.md에 전송 대기 상태로 저장)
+- 📄 상세 보고서: reports/2026-09-06.md
+
 ### 2026-09-05
 1. 미국 Bitcoin ETF, 7.31억달러 순유입 — 1월 이후 최대
 2. SEC novel ETF 논의, 빠른 심사 vs 시장 보호로 갈림
