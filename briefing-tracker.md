@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-07
+1. Liquid Network, 약 4,000 BTC unauthorized peg-out 뒤 중단
+2. Router Protocol, 9월 30일 종료와 3.033억 ROUTE 소각 발표
+3. Bitcoin ETF 수요, BlackRock IBIT에 더 집중
+4. 한국, 2027년 2월 토큰증권 제도권 확대 로드맵
+5. G20, digital asset·global stablecoin 규제 조율을 공식 의제로 유지
+- ✅ 텔레그램 전송 완료 (messageId: 515, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-07.md
+
 ### 2026-09-06
 1. BOK, USD stablecoin 수요가 현지 통화 약세 압력으로 전이될 수 있다고 분석
 2. Bitcoin ETF, BTC 8만달러 하회에도 1.746억달러 순유입
