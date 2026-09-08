@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-08
+1. Liquid Network, 4,000 BTC peg-out 사고 뒤 복구 여부가 핵심 변수
+2. Ethereum Hegotá, FOCIL·Frame Transactions를 must-ship으로 지정
+3. Harmony, L1 종료와 ONE의 Ethereum ERC-20 이전 제안
+4. 브라질 대형 은행, 고객용 crypto 확대하지만 balance sheet 노출은 0
+5. Bitcoin ETF, 9월 첫 4거래일 약 7.7억달러 순유입
+- ✅ 텔레그램 전송 완료 (messageId: 530, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-08.md
+
 ### 2026-09-07
 1. Liquid Network, 약 4,000 BTC unauthorized peg-out 뒤 중단
 2. Router Protocol, 9월 30일 종료와 3.033억 ROUTE 소각 발표
