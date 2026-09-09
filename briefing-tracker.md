@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-09
+1. Solana, Transaction V1로 tx size 1,232→4,096 bytes 확대 준비
+2. Cronos, Tectonic exploit 사후보고: $120.4M 중 $9.19M 미회수
+3. Citi, Swift ledger로 tokenized deposit을 자체망 밖 결제에 연결
+4. 미국 CLARITY Act, 9월 15일 cloture vote가 단기 규제 분기점
+5. Cardano, Dijkstra hard fork 준비 단계로 node 11.1.1 공개
+- ✅ 텔레그램 전송 완료 (messageId: 542, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-09.md
+
 ### 2026-09-08
 1. Liquid Network, 4,000 BTC peg-out 사고 뒤 복구 여부가 핵심 변수
 2. Ethereum Hegotá, FOCIL·Frame Transactions를 must-ship으로 지정
