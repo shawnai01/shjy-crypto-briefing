@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.09
+☕ 크립토 모닝 브리핑 — 2026.09.10
 
-1️⃣ Solana, Transaction V1로 tx size 1,232→4,096 bytes 확대 준비
-2️⃣ Cronos, Tectonic exploit 사후보고: $120.4M 중 $9.19M 미회수
-3️⃣ Citi, Swift ledger로 tokenized deposit을 자체망 밖 결제에 연결
-4️⃣ 미국 CLARITY Act, 9월 15일 cloture vote가 단기 규제 분기점
-5️⃣ Cardano, Dijkstra hard fork 준비 단계로 node 11.1.1 공개
+1️⃣ Canary, 미국 첫 spot staked TRX ETF(TRXS) 출시
+2️⃣ U.S. Bank, Stellar에서 USBDC stablecoin 결제 파일럿 완료
+3️⃣ Consensys, MetaMask와 Ethereum 기관 인프라 회사 분리
+4️⃣ 美 Secret Service·OFAC, Xinbi 관련 $52.8M crypto 동결/제재
+5️⃣ Trezor, email provider 침해와 STM32 phishing alert 경고
 
-📌 오늘은 가격보다 transaction capacity, rollback governance, bank settlement rails, 규제 일정이 핵심입니다.
+📌 오늘은 가격보다 기관 접근 상품, 은행 stablecoin rails, 보안 집행/피싱 리스크가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-09.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-10.md

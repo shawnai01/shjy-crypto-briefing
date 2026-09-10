@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-10
+1. Canary, 미국 첫 spot staked TRX ETF(TRXS) 출시
+2. U.S. Bank, Stellar에서 USBDC stablecoin 결제 파일럿 완료
+3. Consensys, MetaMask와 Ethereum 기관 인프라 회사 분리
+4. 美 Secret Service·OFAC, Xinbi 관련 $52.8M crypto 동결/제재
+5. Trezor, email provider 침해와 STM32 phishing alert 경고
+- ✅ 텔레그램 전송 완료 (messageId: 548, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-10.md
+
 ### 2026-09-09
 1. Solana, Transaction V1로 tx size 1,232→4,096 bytes 확대 준비
 2. Cronos, Tectonic exploit 사후보고: $120.4M 중 $9.19M 미회수
