@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-11
+1. CLARITY Act revised draft 공개 — 9/15 vote가 DeFi 규제 분기점
+2. ESMA, tokenized equities·DeFi exploits·prediction markets를 TradFi spillover risk로 지목
+3. Coinbase·Moov, 미국 community banks 1,000곳 이상에 stablecoin rails 제공 추진
+4. Uniswap v4 StablePair Hook 출시 — stablecoin LP fee logic 경쟁 본격화
+5. Arya.ag, Avalanche L1에서 grain warehouse receipt tokenization 테스트
+- ✅ 텔레그램 전송 완료 (messageId: 556, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-11.md
+
 ### 2026-09-10
 1. Canary, 미국 첫 spot staked TRX ETF(TRXS) 출시
 2. U.S. Bank, Stellar에서 USBDC stablecoin 결제 파일럿 완료

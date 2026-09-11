@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.10
+☕ 크립토 모닝 브리핑 — 2026.09.11
 
-1️⃣ Canary, 미국 첫 spot staked TRX ETF(TRXS) 출시
-2️⃣ U.S. Bank, Stellar에서 USBDC stablecoin 결제 파일럿 완료
-3️⃣ Consensys, MetaMask와 Ethereum 기관 인프라 회사 분리
-4️⃣ 美 Secret Service·OFAC, Xinbi 관련 $52.8M crypto 동결/제재
-5️⃣ Trezor, email provider 침해와 STM32 phishing alert 경고
+1️⃣ CLARITY Act revised draft 공개 — 9/15 vote가 DeFi 규제 분기점
+2️⃣ ESMA, tokenized equities·DeFi exploits·prediction markets를 TradFi spillover risk로 지목
+3️⃣ Coinbase·Moov, 미국 community banks 1,000곳 이상에 stablecoin rails 제공 추진
+4️⃣ Uniswap v4 StablePair Hook 출시 — stablecoin LP fee logic 경쟁 본격화
+5️⃣ Arya.ag, Avalanche L1에서 grain warehouse receipt tokenization 테스트
 
-📌 오늘은 가격보다 기관 접근 상품, 은행 stablecoin rails, 보안 집행/피싱 리스크가 핵심입니다.
+📌 오늘은 "규제 market structure + stablecoin distribution + RWA collateral verification"이 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-10.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-11.md
