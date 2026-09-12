@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-12
+1. SEC, Regulation Crypto Assets 공개 코멘트 절차 개시
+2. Ethereum Foundation, Hegotá·post-quantum 로드맵 공식화
+3. Liquid Network exploit 후속 — 3,400 BTC 반환, 약 600 BTC 미반환
+4. Tether·Fasanara, 4억달러 StableFund로 stablecoin private credit 진입
+5. Hyperliquid, perps DEX 선두지만 규제 경로가 핵심 리스크
+- ✅ 텔레그램 전송 완료 (messageId: 559, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-12.md
+
 ### 2026-09-11
 1. CLARITY Act revised draft 공개 — 9/15 vote가 DeFi 규제 분기점
 2. ESMA, tokenized equities·DeFi exploits·prediction markets를 TradFi spillover risk로 지목
