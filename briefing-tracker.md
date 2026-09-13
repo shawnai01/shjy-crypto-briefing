@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-13
+1. CLARITY Act, 9/15 60표 cloture가 단기 규제 분기점
+2. Bitcoin ETF 4.627억달러 유출 vs Ethereum ETF 1.969억달러 유입
+3. Revolut, 가짜 정부 요청에 KYC·Bitcoin 거래내역 제공
+4. Symbiosis BTC bridge exploit — syBTC 무단 mint와 route 중단
+5. Ripple, RLUSD를 기업 treasury·MiCA 유럽 확장 축으로 제시
+- ⚠️ 텔레그램 전송 확인 실패/대기 (기존 `-5295629261` 및 supergroup `-1003930029847` conversationRef 모두 `conversations_send` gateway timeout; 중복 방지를 위해 추가 재시도 중단)
+- 📄 상세 보고서: reports/2026-09-13.md
+
 ### 2026-09-12
 1. SEC, Regulation Crypto Assets 공개 코멘트 절차 개시
 2. Ethereum Foundation, Hegotá·post-quantum 로드맵 공식화
