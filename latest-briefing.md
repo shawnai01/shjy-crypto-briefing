@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.13
+☕ 크립토 모닝 브리핑 — 2026.09.14
 
-1️⃣ CLARITY Act, 9/15 60표 cloture가 단기 규제 분기점
-2️⃣ BTC ETF 4.627억달러 유출 vs ETH ETF 1.969억달러 유입
-3️⃣ Revolut, 가짜 정부 요청에 KYC·Bitcoin 거래내역 제공
-4️⃣ Symbiosis BTC bridge exploit — syBTC 무단 mint와 route 중단
-5️⃣ Ripple, RLUSD를 기업 treasury·MiCA 유럽 확장 축으로 제시
+1️⃣ CLARITY Act, 내일 60표 cloture가 미국 crypto market structure 분기점
+2️⃣ BTC ETF 주간 4.627억달러 유출 vs ETH ETF 2억달러대 유입
+3️⃣ Symbiosis BTC bridge exploit 후속 — 15 BTC 회수, BridgeV2 사후 설명 미완
+4️⃣ Ethereum Foundation, Hegotá scope와 2029 post-quantum target 공개
+5️⃣ EU CRA, wallet 제조사에도 24h/72h 보안 사고 보고 clock 시작
 
-📌 오늘은 "미국 규제 표결 + ETF rotation + crypto KYC/bridge 보안"이 핵심입니다.
+📌 오늘은 "미국 규제 표결 + ETF rotation + bridge/wallet 보안 규제"가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-13.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-14.md
