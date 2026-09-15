@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-15
+1. CLARITY Act, 오늘 60표 cloture가 미국 crypto 규제 분기점
+2. Kraken, tokenized stocks/ETF에 DeFi yield vault 출시
+3. Robinhood Chain, TVL 10억달러 근접·일일 DEX 18.8억달러
+4. Bitmine, ETH 506만개 staking으로 연 3.34억달러 수익 전망
+5. S&P Global, Kaiko Series B를 1.1억달러로 확장
+- ✅ 텔레그램 전송 완료 (messageId: 571, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-15.md
+
 ### 2026-09-14
 1. CLARITY Act, 내일 60표 cloture가 미국 crypto market structure 분기점
 2. BTC ETF 주간 4.627억달러 유출 vs ETH ETF 2억달러대 유입
