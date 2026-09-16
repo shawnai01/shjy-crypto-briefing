@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.15
+☕ 크립토 모닝 브리핑 — 2026.09.16
 
-1️⃣ CLARITY Act, 오늘 60표 cloture가 미국 crypto 규제 분기점
-2️⃣ Kraken, tokenized stocks/ETF에 DeFi yield vault 출시
-3️⃣ Robinhood Chain, TVL 10억달러 근접·일일 DEX 18.8억달러
-4️⃣ Bitmine, ETH 506만개 staking으로 연 3.34억달러 수익 전망
-5️⃣ S&P Global, Kaiko Series B를 1.1억달러로 확장
+1️⃣ CLARITY Act, 상원 cloture 49-50으로 부결
+2️⃣ 하원 Ways and Means, Digital Asset Tax Certainty Act markup
+3️⃣ Solana Transaction V1, mainnet 4,096 bytes tx 활성화
+4️⃣ BTC ETF 일일 유입 재개, ETH ETF 주간 모멘텀 유지
+5️⃣ Balancer, 1.28억달러 exploit 후 wind-down proposal
 
-📌 오늘은 "규제 표결 + tokenized equities가 DeFi/기관 인프라로 연결되는 흐름"이 핵심입니다.
+📌 미국 입법은 멈췄지만 세법·규제기관 rulemaking은 계속되고, 인프라/DeFi는 확장성과 지속가능성이 갈리는 하루입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-15.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-16.md

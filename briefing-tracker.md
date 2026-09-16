@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-16
+1. CLARITY Act, 상원 cloture 49-50으로 부결
+2. 하원 Ways and Means, Digital Asset Tax Certainty Act markup
+3. Solana Transaction V1, mainnet 4,096 bytes tx 활성화
+4. BTC ETF 일일 유입 재개, ETH ETF 주간 모멘텀 유지
+5. Balancer, 1.28억달러 exploit 후 wind-down proposal
+- ✅ 텔레그램 전송 완료 (messageId: 579, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-16.md
+
 ### 2026-09-15
 1. CLARITY Act, 오늘 60표 cloture가 미국 crypto 규제 분기점
 2. Kraken, tokenized stocks/ETF에 DeFi yield vault 출시
