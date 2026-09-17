@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-17
+1. SEC, 24-hour trading roundtable 개최
+2. Digital Asset Tax Certainty Act, 하원 Ways and Means 38-5 통과
+3. Circle, Arc mainnet 공개와 기관 validator cohort 가동
+4. FCA, UK crypto authorisation perimeter guidance 확정
+5. Deutsche Bank, 유럽 기관 대상 digital asset custody 준비
+- ✅ 텔레그램 전송 완료 (messageId: 584, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-17.md
+
 ### 2026-09-16
 1. CLARITY Act, 상원 cloture 49-50으로 부결
 2. 하원 Ways and Means, Digital Asset Tax Certainty Act markup

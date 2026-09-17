@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.16
+☕ 크립토 모닝 브리핑 — 2026.09.17
 
-1️⃣ CLARITY Act, 상원 cloture 49-50으로 부결
-2️⃣ 하원 Ways and Means, Digital Asset Tax Certainty Act markup
-3️⃣ Solana Transaction V1, mainnet 4,096 bytes tx 활성화
-4️⃣ BTC ETF 일일 유입 재개, ETH ETF 주간 모멘텀 유지
-5️⃣ Balancer, 1.28억달러 exploit 후 wind-down proposal
+1️⃣ SEC, 24-hour trading roundtable 개최
+2️⃣ Digital Asset Tax Certainty Act, 하원 Ways and Means 38-5 통과
+3️⃣ Circle, Arc mainnet 공개와 기관 validator cohort 가동
+4️⃣ FCA, UK crypto authorisation perimeter guidance 확정
+5️⃣ Deutsche Bank, 유럽 기관 대상 digital asset custody 준비
 
-📌 미국 입법은 멈췄지만 세법·규제기관 rulemaking은 계속되고, 인프라/DeFi는 확장성과 지속가능성이 갈리는 하루입니다.
+📌 가격보다 제도권 레일이 핵심입니다. 규제 문턱은 높아지지만 24/7 거래, stablecoin L1, 은행 custody는 동시에 앞으로 가고 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-16.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-17.md
