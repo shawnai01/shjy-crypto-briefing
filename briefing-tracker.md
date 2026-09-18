@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-18
+1. SEC, tokenized stock venue에 5년 Innovation Exemption 발행
+2. Crypto.com/Nadex, single-stock futures용 SEC notice registration 발효
+3. 하원 금융서비스위, Strategic Bitcoin Reserve 법안 28-21 통과
+4. Fed rate hike 직후 BTC/ETH ETF 합산 5.2억달러 유출
+5. World, stablecoin 기반 World Money를 150개 이상 국가에 롤아웃
+- ✅ 텔레그램 전송 완료 (messageId: 587, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-18.md
+
 ### 2026-09-17
 1. SEC, 24-hour trading roundtable 개최
 2. Digital Asset Tax Certainty Act, 하원 Ways and Means 38-5 통과
