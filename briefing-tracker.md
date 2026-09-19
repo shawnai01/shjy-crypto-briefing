@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-19
+1. CFTC, crypto market rulemaking을 White House OMB로 송부
+2. BTC 8만달러 회복, Solana·HYPE가 반등 주도
+3. BTC ETF는 1.59억달러 유입, ETH·XRP ETF는 유출 지속
+4. Corporate BTC treasury 매수, 최근 3개월 5,900 BTC로 급감
+5. Zcash NU7, 11월 5일 mainnet activation 목표
+- ✅ 텔레그램 전송 완료 (messageId: 590, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-19.md
+
 ### 2026-09-18
 1. SEC, tokenized stock venue에 5년 Innovation Exemption 발행
 2. Crypto.com/Nadex, single-stock futures용 SEC notice registration 발효

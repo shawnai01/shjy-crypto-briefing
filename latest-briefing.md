@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.18
+☕ 크립토 모닝 브리핑 — 2026.09.19
 
-1️⃣ SEC, tokenized stock venue에 5년 Innovation Exemption 발행
-2️⃣ Crypto.com/Nadex, single-stock futures용 SEC notice registration 발효
-3️⃣ 하원 금융서비스위, Strategic Bitcoin Reserve 법안 28-21 통과
-4️⃣ Fed rate hike 직후 BTC/ETH ETF 합산 5.2억달러 유출
-5️⃣ World, stablecoin 기반 World Money를 150개 이상 국가에 롤아웃
+1️⃣ CFTC, crypto market rulemaking을 White House OMB로 송부
+2️⃣ BTC 8만달러 회복, Solana·HYPE가 반등 주도
+3️⃣ BTC ETF는 1.59억달러 유입, ETH·XRP ETF는 유출 지속
+4️⃣ Corporate BTC treasury 매수, 최근 3개월 5,900 BTC로 급감
+5️⃣ Zcash NU7, 11월 5일 mainnet activation 목표
 
-📌 SEC가 토큰화 주식 레일을 열자 derivatives·reserve·stablecoin 앱까지 제도권 접점이 한꺼번에 넓어지고 있습니다.
+📌 법안 부재에도 규제기관이 직접 레일을 열고, 시장은 BTC 중심으로 반등했지만 기관 수요 회복은 아직 선별적입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-18.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-19.md
