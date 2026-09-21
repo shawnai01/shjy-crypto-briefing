@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.20
+☕ 크립토 모닝 브리핑 — 2026.09.21
 
-1️⃣ CLARITY Act 부결 뒤 SEC·CFTC rulemaking 가속
-2️⃣ Bitcoin ETF, 금요일 4.33억달러 유입으로 주간 플러스 전환
-3️⃣ Solana, target slot time 300ms→250ms 단축
-4️⃣ Kalshi·Coinbase·Kraken 계열, 미국 single-stock perps 경쟁
-5️⃣ Haruko cyberattack, 기관 crypto 인프라 15개 고객 영향
+1️⃣ ZetaChain, L1 종료와 ZETA의 Solana 이전 표결
+2️⃣ Polymarket, 1,000만달러 fraud attempt와 계정 침해 이슈
+3️⃣ CFTC, passive software 제공자에 no-action position 공식화
+4️⃣ SEC tokenized-stock exemption, Coinbase·Robinhood·Circle 수혜 가능성
+5️⃣ XRPL Batch V1.1, 9월 29일 전후 활성화 가능성
 
-📌 미국 규제 공백을 행정권한이 메우고, 시장은 BTC ETF 중심으로 회복하지만 인프라 보안 리스크는 계속 남아 있습니다.
+📌 중소 L1 재편과 tokenized securities 제도권 실험이 동시에 진행되고, 보안·컴플라이언스 리스크는 prediction market 쪽에서 다시 부각됐습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-20.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-21.md

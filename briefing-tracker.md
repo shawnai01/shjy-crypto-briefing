@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-21
+1. ZetaChain, L1 종료와 ZETA의 Solana 이전 표결
+2. Polymarket, 1,000만달러 fraud attempt와 계정 침해 이슈
+3. CFTC, passive software 제공자에 no-action position 공식화
+4. SEC tokenized-stock exemption, Coinbase·Robinhood·Circle 수혜 가능성
+5. XRPL Batch V1.1, 9월 29일 전후 활성화 가능성
+- ✅ 텔레그램 전송 완료 (messageId: 597, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 오류로 재시도)
+- 📄 상세 보고서: reports/2026-09-21.md
+
 ### 2026-09-20
 1. CLARITY Act 부결 뒤 SEC·CFTC rulemaking 가속
 2. Bitcoin ETF, 금요일 4.33억달러 유입으로 주간 플러스 전환
