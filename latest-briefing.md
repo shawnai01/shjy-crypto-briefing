@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.21
+☕ 크립토 모닝 브리핑 — 2026.09.22
 
-1️⃣ ZetaChain, L1 종료와 ZETA의 Solana 이전 표결
-2️⃣ Polymarket, 1,000만달러 fraud attempt와 계정 침해 이슈
-3️⃣ CFTC, passive software 제공자에 no-action position 공식화
-4️⃣ SEC tokenized-stock exemption, Coinbase·Robinhood·Circle 수혜 가능성
-5️⃣ XRPL Batch V1.1, 9월 29일 전후 활성화 가능성
+1️⃣ ECB, 자체 자금 일부를 tokenized securities에 투자 준비
+2️⃣ Circle, BTC 담보 USDC 차입을 Circle Mint에 출시
+3️⃣ Ondo, 기관 보유 주식으로 tokenized shares 직접 전환 지원
+4️⃣ 사우디, mBridge CBDC 프로젝트 이탈 보도
+5️⃣ BTC 8.6만달러 돌파, short squeeze 뒤 레버리지 재확대
 
-📌 중소 L1 재편과 tokenized securities 제도권 실험이 동시에 진행되고, 보안·컴플라이언스 리스크는 prediction market 쪽에서 다시 부각됐습니다.
+📌 중앙은행·Circle·Ondo가 tokenized finance를 기관 workflow 안으로 밀어 넣고, BTC 랠리는 spot/ETF 수요 확인이 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-21.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-22.md

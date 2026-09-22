@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-22
+1. ECB, 자체 자금 일부를 tokenized securities에 투자 준비
+2. Circle, BTC 담보 USDC 차입을 Circle Mint에 출시
+3. Ondo, 기관 보유 주식으로 tokenized shares 직접 전환 지원
+4. 사우디, mBridge CBDC 프로젝트 이탈 보도
+5. BTC 8.6만달러 돌파, short squeeze 뒤 레버리지 재확대
+- ✅ 텔레그램 전송 완료 (messageId: 610, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-22.md
+
 ### 2026-09-21
 1. ZetaChain, L1 종료와 ZETA의 Solana 이전 표결
 2. Polymarket, 1,000만달러 fraud attempt와 계정 침해 이슈
