@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-23
+1. CFTC, prediction market "mention market" 조작 리스크 공식 경고
+2. 캐나다 6대 은행, CAD tokenized deposit 공동 개발 착수
+3. ECB·EU 중앙은행권, MiCA stablecoin reserve·yield 규칙 재조정 요구
+4. Binance, Circle 지분 1억달러 매입과 5년 USDC 프로모션 계약
+5. CME, Bitcoin Cash·Uniswap futures 출시 계획
+- ✅ 텔레그램 전송 완료 (messageId: 615, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-23.md
+
 ### 2026-09-22
 1. ECB, 자체 자금 일부를 tokenized securities에 투자 준비
 2. Circle, BTC 담보 USDC 차입을 Circle Mint에 출시

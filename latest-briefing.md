@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.22
+☕ 크립토 모닝 브리핑 — 2026.09.23
 
-1️⃣ ECB, 자체 자금 일부를 tokenized securities에 투자 준비
-2️⃣ Circle, BTC 담보 USDC 차입을 Circle Mint에 출시
-3️⃣ Ondo, 기관 보유 주식으로 tokenized shares 직접 전환 지원
-4️⃣ 사우디, mBridge CBDC 프로젝트 이탈 보도
-5️⃣ BTC 8.6만달러 돌파, short squeeze 뒤 레버리지 재확대
+1️⃣ CFTC, prediction market "mention market" 조작 리스크 공식 경고
+2️⃣ 캐나다 6대 은행, CAD tokenized deposit 공동 개발 착수
+3️⃣ ECB·EU 중앙은행권, MiCA stablecoin reserve·yield 규칙 재조정 요구
+4️⃣ Binance, Circle 지분 1억달러 매입과 5년 USDC 프로모션 계약
+5️⃣ CME, Bitcoin Cash·Uniswap futures 출시 계획
 
-📌 중앙은행·Circle·Ondo가 tokenized finance를 기관 workflow 안으로 밀어 넣고, BTC 랠리는 spot/ETF 수요 확인이 핵심입니다.
+📌 prediction market 규제와 은행권 tokenized deposit이 앞에 섰고, stablecoin·알트 derivatives는 제도권 인프라 안으로 더 깊게 들어가는 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-22.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-23.md
