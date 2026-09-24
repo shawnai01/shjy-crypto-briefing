@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.23
+☕ 크립토 모닝 브리핑 — 2026.09.24
 
-1️⃣ CFTC, prediction market "mention market" 조작 리스크 공식 경고
-2️⃣ 캐나다 6대 은행, CAD tokenized deposit 공동 개발 착수
-3️⃣ ECB·EU 중앙은행권, MiCA stablecoin reserve·yield 규칙 재조정 요구
-4️⃣ Binance, Circle 지분 1억달러 매입과 5년 USDC 프로모션 계약
-5️⃣ CME, Bitcoin Cash·Uniswap futures 출시 계획
+1️⃣ BitMEX, 11년 만에 거래 중단 — 출금만 유지
+2️⃣ Solana Alpenglow, public testnet에서 150ms finality 검증
+3️⃣ XRP Ledger, 기관 결제·컴플라이언스 권한 위임 업그레이드 재시도
+4️⃣ MoonPay, SEC 등록 North Capital 6천만달러+ 인수 추진
+5️⃣ Coinbase, BTC 담보 고정금리 USDC 대출 출시
 
-📌 prediction market 규제와 은행권 tokenized deposit이 앞에 섰고, stablecoin·알트 derivatives는 제도권 인프라 안으로 더 깊게 들어가는 흐름입니다.
+📌 derivatives 구세대 정리와 L1 성능·기관 권한 구조 업그레이드가 동시에 보였고, stablecoin은 결제와 신용 상품의 공통 레일로 더 깊게 들어가고 있습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-23.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-24.md

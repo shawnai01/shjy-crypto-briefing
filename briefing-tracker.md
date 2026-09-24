@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-24
+1. BitMEX, 11년 만에 거래 중단 — 출금만 유지
+2. Solana Alpenglow, public testnet에서 150ms finality 검증
+3. XRP Ledger, 기관 결제·컴플라이언스 권한 위임 업그레이드 재시도
+4. MoonPay, SEC 등록 North Capital 6천만달러+ 인수 추진
+5. Coinbase, BTC 담보 고정금리 USDC 대출 출시
+- ✅ 텔레그램 전송 완료 (messageId: 624, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-24.md
+
 ### 2026-09-23
 1. CFTC, prediction market "mention market" 조작 리스크 공식 경고
 2. 캐나다 6대 은행, CAD tokenized deposit 공동 개발 착수
