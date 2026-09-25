@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.24
+☕ 크립토 모닝 브리핑 — 2026.09.25
 
-1️⃣ BitMEX, 11년 만에 거래 중단 — 출금만 유지
-2️⃣ Solana Alpenglow, public testnet에서 150ms finality 검증
-3️⃣ XRP Ledger, 기관 결제·컴플라이언스 권한 위임 업그레이드 재시도
-4️⃣ MoonPay, SEC 등록 North Capital 6천만달러+ 인수 추진
-5️⃣ Coinbase, BTC 담보 고정금리 USDC 대출 출시
+1️⃣ Fed, GENIUS Act stablecoin 규칙 2건 공개
+2️⃣ CFTC, tokenized asset·blockchain recordkeeping FAQ 업데이트
+3️⃣ Bitget, 3.516억달러 규모 hot/warm wallet 침해 공지
+4️⃣ New York, Polymarket US를 불법 gambling operation 혐의로 제소
+5️⃣ 영국 주요 은행, tokenized sterling deposits 실거래 완료
 
-📌 derivatives 구세대 정리와 L1 성능·기관 권한 구조 업그레이드가 동시에 보였고, stablecoin은 결제와 신용 상품의 공통 레일로 더 깊게 들어가고 있습니다.
+📌 규제기관은 stablecoin·tokenized finance를 제도권으로 좁히는 중이고, 거래소 보안·prediction market licensing 리스크가 동시에 커졌습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-24.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-25.md
