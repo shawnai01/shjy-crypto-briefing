@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.25
+☕ 크립토 모닝 브리핑 — 2026.09.26
 
-1️⃣ Fed, GENIUS Act stablecoin 규칙 2건 공개
-2️⃣ CFTC, tokenized asset·blockchain recordkeeping FAQ 업데이트
-3️⃣ Bitget, 3.516억달러 규모 hot/warm wallet 침해 공지
-4️⃣ New York, Polymarket US를 불법 gambling operation 혐의로 제소
-5️⃣ 영국 주요 은행, tokenized sterling deposits 실거래 완료
+1️⃣ SEC, token buyback·upgrade·profit promise FAQ 업데이트
+2️⃣ Kalshi sports contracts, Sixth Circuit서 state gaming 규제 대상 판단
+3️⃣ Blockchain Association, CLARITY Act 부결 직후 CEO 교체
+4️⃣ OG.com, CFTC에 single-stock perpetual futures 규칙 제출
+5️⃣ KelpDAO 개발사, LayerZero에 2.92억달러 exploit 책임 소송
 
-📌 규제기관은 stablecoin·tokenized finance를 제도권으로 좁히는 중이고, 거래소 보안·prediction market licensing 리스크가 동시에 커졌습니다.
+📌 규제 공백은 법원·agency guidance·파생상품 filing으로 쪼개지고, bridge 보안 책임은 법정 이슈로 넘어갔습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-25.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-26.md

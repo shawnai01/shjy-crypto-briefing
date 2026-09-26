@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-26
+1. SEC, token buyback·upgrade·profit promise FAQ 업데이트
+2. Kalshi sports contracts, Sixth Circuit서 state gaming 규제 대상 판단
+3. Blockchain Association, CLARITY Act 부결 직후 CEO 교체
+4. OG.com, CFTC에 single-stock perpetual futures 규칙 제출
+5. KelpDAO 개발사, LayerZero에 2.92억달러 exploit 책임 소송
+- ✅ 텔레그램 전송 완료 (messageId: 632, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-26.md
+
 ### 2026-09-25
 1. Fed, GENIUS Act stablecoin 규칙 2건 공개
 2. CFTC, tokenized asset·blockchain recordkeeping FAQ 업데이트
