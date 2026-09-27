@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-27
+1. Bitcoin ETF, 주간 24억달러 유입으로 2026년 누적 플러스 전환
+2. Solana Alpenglow, devnet·testnet 모두 활성화
+3. XRP Ledger Batch 업그레이드, 10월 9일 이후로 지연
+4. Bitget 해커, 동결 불가능한 stolen XRP 8,300만달러 이동
+5. Binance-Circle 5년 USDC 계약, Tether와 유통 경쟁 재점화
+- ✅ 텔레그램 전송 완료 (messageId: 634, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-27.md
+
 ### 2026-09-26
 1. SEC, token buyback·upgrade·profit promise FAQ 업데이트
 2. Kalshi sports contracts, Sixth Circuit서 state gaming 규제 대상 판단
