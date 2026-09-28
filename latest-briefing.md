@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.27
+☕ 크립토 모닝 브리핑 — 2026.09.28
 
-1️⃣ Bitcoin ETF, 주간 24억달러 유입으로 2026년 누적 플러스 전환
-2️⃣ Solana Alpenglow, devnet·testnet 모두 활성화
-3️⃣ XRP Ledger Batch 업그레이드, 10월 9일 이후로 지연
-4️⃣ Bitget 해커, 동결 불가능한 stolen XRP 8,300만달러 이동
-5️⃣ Binance-Circle 5년 USDC 계약, Tether와 유통 경쟁 재점화
+1️⃣ Vitalik, Ethereum 2030 비전에서 cryptographic world computer 제시
+2️⃣ CLARITY Act 좌초 후, 미국 market structure는 기관 rulemaking 의존
+3️⃣ SEC Hester Peirce, 10월 2일 퇴임 예정
+4️⃣ Riot Platforms, Coinbase Credit 2억달러 상환·BTC 담보 해제
+5️⃣ Bitcoin quantum 대응, FUD보다 방어 비용·업그레이드 경로로 이동
 
-📌 오늘은 ETF 수요 회복, L1 업그레이드, stablecoin 유통전이 핵심입니다.
+📌 오늘은 정책 공백, Ethereum 장기 로드맵, 기관 인프라 리스크 관리가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-27.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-28.md

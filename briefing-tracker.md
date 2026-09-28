@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-28
+1. Vitalik, Ethereum 2030 비전에서 cryptographic world computer 제시
+2. CLARITY Act 좌초 후, 미국 market structure는 기관 rulemaking 의존
+3. SEC Hester Peirce, 10월 2일 퇴임 예정
+4. Riot Platforms, Coinbase Credit 2억달러 상환·BTC 담보 해제
+5. Bitcoin quantum 대응, FUD보다 방어 비용·업그레이드 경로로 이동
+- ✅ 텔레그램 전송 완료 (messageId: 637, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-28.md
+
 ### 2026-09-27
 1. Bitcoin ETF, 주간 24억달러 유입으로 2026년 누적 플러스 전환
 2. Solana Alpenglow, devnet·testnet 모두 활성화
