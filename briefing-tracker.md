@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-29
+1. SEC, crypto FAQ 업데이트로 Howey·staking receipt 해석 보강
+2. Citi-Coinbase, 기업 stablecoin 결제를 은행 레일에 연결
+3. Franklin Templeton, Bybit에 tokenized MMF collateral 제공
+4. Chainlink CCIP 2.0, cross-chain verifier 통제권 확대
+5. Bitget exploit 후속, third-party 보안 취약점·THORChain 이동 확인
+- ✅ 텔레그램 전송 완료 (messageId: 642, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-29.md
+
 ### 2026-09-28
 1. Vitalik, Ethereum 2030 비전에서 cryptographic world computer 제시
 2. CLARITY Act 좌초 후, 미국 market structure는 기관 rulemaking 의존

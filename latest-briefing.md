@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.09.28
+☕ 크립토 모닝 브리핑 — 2026.09.29
 
-1️⃣ Vitalik, Ethereum 2030 비전에서 cryptographic world computer 제시
-2️⃣ CLARITY Act 좌초 후, 미국 market structure는 기관 rulemaking 의존
-3️⃣ SEC Hester Peirce, 10월 2일 퇴임 예정
-4️⃣ Riot Platforms, Coinbase Credit 2억달러 상환·BTC 담보 해제
-5️⃣ Bitcoin quantum 대응, FUD보다 방어 비용·업그레이드 경로로 이동
+1️⃣ SEC, crypto FAQ 업데이트로 Howey·staking receipt 해석 보강
+2️⃣ Citi-Coinbase, 기업 stablecoin 결제를 은행 레일에 연결
+3️⃣ Franklin Templeton, Bybit에 tokenized MMF collateral 제공
+4️⃣ Chainlink CCIP 2.0, cross-chain verifier 통제권 확대
+5️⃣ Bitget exploit 후속, third-party 보안 취약점·THORChain 이동 확인
 
-📌 오늘은 정책 공백, Ethereum 장기 로드맵, 기관 인프라 리스크 관리가 핵심입니다.
+📌 오늘은 규제 공백을 메우는 staff guidance와 기관용 stablecoin/RWA collateral 인프라가 핵심입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-28.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-09-29.md
