@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-09-30
+1. Robinhood, 미국 적격 고객 대상 crypto perps·주말 거래·AI agent 확대
+2. Cboe-S&P Dow Jones, tokenized options 가능성 포함해 25년 라이선스 연장
+3. SEC·CFTC 위원 공석 확대, crypto rulemaking 병목 리스크 부각
+4. Aztec, Ethereum L2 기반 zk.money privacy wallet 재출시
+5. Aave V4 Sentora 외부 curated Hub 제안, 수익 배분·손실 부담 논쟁
+- ✅ 텔레그램 전송 완료 (messageId: 645, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-09-30.md
+
 ### 2026-09-29
 1. SEC, crypto FAQ 업데이트로 Howey·staking receipt 해석 보강
 2. Citi-Coinbase, 기업 stablecoin 결제를 은행 레일에 연결
