@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-01
+1. MetaMask, 보안 사고 조사 중 Ethereum staking validator exit 착수
+2. Base, Cobalt upgrade로 tokenized asset issuer control 확대
+3. CFTC, prediction market event contract를 swaps로 묶는 규칙 추진
+4. UK FCA, crypto firm authorisation gateway 개방
+5. Bloomberg Terminal, Allium 기반 onchain stablecoin dashboard 출시
+- ✅ 텔레그램 전송 완료 (messageId: 652, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-01.md
+
 ### 2026-09-30
 1. Robinhood, 미국 적격 고객 대상 crypto perps·주말 거래·AI agent 확대
 2. Cboe-S&P Dow Jones, tokenized options 가능성 포함해 25년 라이선스 연장
