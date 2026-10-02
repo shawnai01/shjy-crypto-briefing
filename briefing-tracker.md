@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-02
+1. SEC, 투자자문사·펀드 crypto custody 규칙 제안
+2. Ethereum Foundation, private API payment용 zkAPI 공개
+3. MiCA review, stablecoin rewards·reserves 논쟁 확대
+4. NEAR Intents, $3.8M exploit 후 서비스 중단·전액 보상
+5. Bitcoin ETF, 9일·$3B 유입 streak 종료
+- ✅ 텔레그램 전송 완료 (messageId: 660, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-02.md
+
 ### 2026-10-01
 1. MetaMask, 보안 사고 조사 중 Ethereum staking validator exit 착수
 2. Base, Cobalt upgrade로 tokenized asset issuer control 확대
