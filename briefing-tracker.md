@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-03
+1. ICBA, OCC의 crypto trust charter 승인 권한에 소송
+2. Blast, Ethereum L2 운영 종료 결정
+3. Drift exploit 보상 클레임 개시, 초기 지급은 손실의 1%대
+4. ECB, central bank money onchain 결제 모델 3가지 제시
+5. BNY, Kraken 모회사 Payward와 인프라 파트너십 논의
+- ✅ 텔레그램 전송 완료 (messageId: 661, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-03.md
+
 ### 2026-10-02
 1. SEC, 투자자문사·펀드 crypto custody 규칙 제안
 2. Ethereum Foundation, private API payment용 zkAPI 공개
