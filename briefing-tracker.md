@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-04
+1. OpenPayd, Nasdaq 상장으로 미국 결제·stablecoin 인프라 확장 추진
+2. BlackRock-Ondo, onchain 단일 토큰 포트폴리오로 tokenization 범위 확장
+3. NEAR Intents, 380만달러 exploit 자금 전액 회수
+4. Anchorage Digital, 인력 17% 감축 보도
+5. Chainalysis, Bitget 3.87억달러 해킹을 북한 연계 행위자로 attribution
+- ✅ 텔레그램 전송 완료 (messageId: 662, target: -1003930029847; 기존 `-5295629261`은 supergroup migration으로 거절되어 재전송)
+- 📄 상세 보고서: reports/2026-10-04.md
+
 ### 2026-10-03
 1. ICBA, OCC의 crypto trust charter 승인 권한에 소송
 2. Blast, Ethereum L2 운영 종료 결정

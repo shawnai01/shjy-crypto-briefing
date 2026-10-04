@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.03
+☕ 크립토 모닝 브리핑 — 2026.10.04
 
-1️⃣ ICBA, OCC의 crypto trust charter 승인 권한에 소송
-2️⃣ Blast, Ethereum L2 운영 종료 결정
-3️⃣ Drift exploit 보상 클레임 개시, 초기 지급은 손실의 1%대
-4️⃣ ECB, central bank money onchain 결제 모델 3가지 제시
-5️⃣ BNY, Kraken 모회사 Payward와 인프라 파트너십 논의
+1️⃣ OpenPayd, Nasdaq 상장으로 미국 결제·stablecoin 인프라 확장 추진
+2️⃣ BlackRock-Ondo, onchain 단일 토큰 포트폴리오로 tokenization 범위 확장
+3️⃣ NEAR Intents, 380만달러 exploit 자금 전액 회수
+4️⃣ Anchorage Digital, 인력 17% 감축 보도
+5️⃣ Chainalysis, Bitget 3.87억달러 해킹을 북한 연계 행위자로 attribution
 
-📌 은행권 편입은 소송으로 부딪히고, 온체인 인프라는 L2 구조조정과 기관 결제 레일 쪽으로 재편 중입니다.
+📌 기관 인프라는 결제·토큰화로 확장하지만, 보안 사고와 비용 압박이 동시에 업계의 체력을 시험하는 국면입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-03.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-04.md
