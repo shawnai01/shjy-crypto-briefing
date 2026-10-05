@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.04
+☕ 크립토 모닝 브리핑 — 2026.10.05
 
-1️⃣ OpenPayd, Nasdaq 상장으로 미국 결제·stablecoin 인프라 확장 추진
-2️⃣ BlackRock-Ondo, onchain 단일 토큰 포트폴리오로 tokenization 범위 확장
-3️⃣ NEAR Intents, 380만달러 exploit 자금 전액 회수
-4️⃣ Anchorage Digital, 인력 17% 감축 보도
-5️⃣ Chainalysis, Bitget 3.87억달러 해킹을 북한 연계 행위자로 attribution
+1️⃣ Zcash, 워싱턴 로비 등록으로 privacy policy 대응 강화
+2️⃣ 일본, 러시아 제재 명단에 Garantex 추가
+3️⃣ IMF, El Salvador에 1.38억달러 집행 승인 — Bitcoin 조건은 waiver
+4️⃣ 러시아 재무부, digital ruble 급여 지급 첫 공식화
+5️⃣ Bitcoin ETF, 10월 첫 2거래일 1.344억달러 순유입
 
-📌 기관 인프라는 결제·토큰화로 확장하지만, 보안 사고와 비용 압박이 동시에 업계의 체력을 시험하는 국면입니다.
+📌 정책·제재·CBDC는 제도권 안으로 더 깊게 들어가고, ETF 수요는 10월 초 다시 살아나는 흐름입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-04.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-05.md

@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-05
+1. Zcash, 워싱턴 로비 등록으로 privacy policy 대응 강화
+2. 일본, 러시아 제재 명단에 Garantex 추가
+3. IMF, El Salvador에 1.38억달러 집행 승인 — Bitcoin 조건은 waiver
+4. 러시아 재무부, digital ruble 급여 지급 첫 공식화
+5. Bitcoin ETF, 10월 첫 2거래일 1.344억달러 순유입
+- ✅ 텔레그램 전송 완료 (messageId: 665, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-05.md
+
 ### 2026-10-04
 1. OpenPayd, Nasdaq 상장으로 미국 결제·stablecoin 인프라 확장 추진
 2. BlackRock-Ondo, onchain 단일 토큰 포트폴리오로 tokenization 범위 확장
