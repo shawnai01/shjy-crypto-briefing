@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.05
+☕ 크립토 모닝 브리핑 — 2026.10.06
 
-1️⃣ Zcash, 워싱턴 로비 등록으로 privacy policy 대응 강화
-2️⃣ 일본, 러시아 제재 명단에 Garantex 추가
-3️⃣ IMF, El Salvador에 1.38억달러 집행 승인 — Bitcoin 조건은 waiver
-4️⃣ 러시아 재무부, digital ruble 급여 지급 첫 공식화
-5️⃣ Bitcoin ETF, 10월 첫 2거래일 1.344억달러 순유입
+1️⃣ CFTC, leveraged retail crypto 거래용 연방 프레임워크 착수
+2️⃣ OKX-ICE, tokenized US stock venue를 SEC에 통지
+3️⃣ Ethereum Glamsterdam, 오늘 Sepolia testnet 활성화 예정
+4️⃣ 미국 spot crypto ETF, 강한 주간 유입 뒤에도 streak 유지
+5️⃣ Strive, 2,000 BTC 추가 매수로 corporate treasury 경쟁 재점화
 
-📌 정책·제재·CBDC는 제도권 안으로 더 깊게 들어가고, ETF 수요는 10월 초 다시 살아나는 흐름입니다.
+📌 미국 시장구조 규제와 tokenization 실험이 법안보다 빠르게 agency rulemaking·exemption으로 움직이는 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-05.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-06.md

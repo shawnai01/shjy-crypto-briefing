@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-06
+1. CFTC, leveraged retail crypto 거래용 연방 프레임워크 착수
+2. OKX-ICE, tokenized US stock venue를 SEC에 통지
+3. Ethereum Glamsterdam, 오늘 Sepolia testnet 활성화 예정
+4. 미국 spot crypto ETF, 강한 주간 유입 뒤에도 streak 유지
+5. Strive, 2,000 BTC 추가 매수로 corporate treasury 경쟁 재점화
+- ✅ 텔레그램 전송 완료 (messageId: 672, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-06.md
+
 ### 2026-10-05
 1. Zcash, 워싱턴 로비 등록으로 privacy policy 대응 강화
 2. 일본, 러시아 제재 명단에 Garantex 추가
