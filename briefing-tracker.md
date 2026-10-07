@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-07
+1. Ethereum Glamsterdam, Sepolia에서 200M gas 테스트 단계 진입
+2. Stablecoin 시총 313B달러, CEX pair 거래량 1T달러 회복
+3. Rain·Modern Treasury, OCC trust bank 신청으로 stablecoin 수탁 경쟁 가속
+4. Ondo, private-company exposure를 onchain 24/7 상품으로 확장
+5. DeFi Development, SOL treasury 기반 CHAD preferred buyback 권한 승인
+- ✅ 텔레그램 전송 완료 (messageId: 751, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-07.md
+
 ### 2026-10-06
 1. CFTC, leveraged retail crypto 거래용 연방 프레임워크 착수
 2. OKX-ICE, tokenized US stock venue를 SEC에 통지

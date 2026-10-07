@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.06
+☕ 크립토 모닝 브리핑 — 2026.10.07
 
-1️⃣ CFTC, leveraged retail crypto 거래용 연방 프레임워크 착수
-2️⃣ OKX-ICE, tokenized US stock venue를 SEC에 통지
-3️⃣ Ethereum Glamsterdam, 오늘 Sepolia testnet 활성화 예정
-4️⃣ 미국 spot crypto ETF, 강한 주간 유입 뒤에도 streak 유지
-5️⃣ Strive, 2,000 BTC 추가 매수로 corporate treasury 경쟁 재점화
+1️⃣ Ethereum Glamsterdam, Sepolia에서 200M gas 테스트 단계 진입
+2️⃣ Stablecoin 시총 313B달러, CEX pair 거래량 1T달러 회복
+3️⃣ Rain·Modern Treasury, OCC trust bank 신청으로 stablecoin 수탁 경쟁 가속
+4️⃣ Ondo, private-company exposure를 onchain 24/7 상품으로 확장
+5️⃣ DeFi Development, SOL treasury 기반 CHAD preferred buyback 권한 승인
 
-📌 미국 시장구조 규제와 tokenization 실험이 법안보다 빠르게 agency rulemaking·exemption으로 움직이는 날입니다.
+📌 규제 뉴스보다 제도권 수탁·RWA·L1 확장 실험이 더 중요한 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-06.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-07.md
