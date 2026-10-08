@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-08
+1. Coinbase-Deribit 통합 완료, 미국 기관에 글로벌 crypto derivatives 유동성 연결
+2. Tether-Kazakhstan 중앙은행, tenge stablecoin·RWA tokenization MoU
+3. Wells Fargo, Kraken 모회사 Payward와 crypto liquidity 공급 논의
+4. Pudgy Penguins의 Abstract, 12월 종료 예정 — L2 구조조정 가속
+5. Cardano CIP-0113, regulated token에 freeze/seize/restrict 기능 제공
+- ✅ 텔레그램 전송 완료 (messageId: 754, target: -1003930029847; 기존 `-5295629261`은 supergroup migration으로 거절되어 재전송)
+- 📄 상세 보고서: reports/2026-10-08.md
+
 ### 2026-10-07
 1. Ethereum Glamsterdam, Sepolia에서 200M gas 테스트 단계 진입
 2. Stablecoin 시총 313B달러, CEX pair 거래량 1T달러 회복

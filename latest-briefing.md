@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.07
+☕ 크립토 모닝 브리핑 — 2026.10.08
 
-1️⃣ Ethereum Glamsterdam, Sepolia에서 200M gas 테스트 단계 진입
-2️⃣ Stablecoin 시총 313B달러, CEX pair 거래량 1T달러 회복
-3️⃣ Rain·Modern Treasury, OCC trust bank 신청으로 stablecoin 수탁 경쟁 가속
-4️⃣ Ondo, private-company exposure를 onchain 24/7 상품으로 확장
-5️⃣ DeFi Development, SOL treasury 기반 CHAD preferred buyback 권한 승인
+1️⃣ Coinbase-Deribit 통합 완료, 미국 기관에 글로벌 crypto derivatives 유동성 연결
+2️⃣ Tether-Kazakhstan 중앙은행, tenge stablecoin·RWA tokenization MoU
+3️⃣ Wells Fargo, Kraken 모회사 Payward와 crypto liquidity 공급 논의
+4️⃣ Pudgy Penguins의 Abstract, 12월 종료 예정 — L2 구조조정 가속
+5️⃣ Cardano CIP-0113, regulated token에 freeze/seize/restrict 기능 제공
 
-📌 규제 뉴스보다 제도권 수탁·RWA·L1 확장 실험이 더 중요한 날입니다.
+📌 가격보다 구조 변화: 파생상품·stablecoin·RWA가 규제권과 기관 채널로 재배치 중입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-07.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-08.md
