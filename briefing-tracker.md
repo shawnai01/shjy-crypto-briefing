@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-09
+1. Securitize, Apple·Nvidia 등 미국 주식 12종 tokenized trading 출시
+2. ESMA, non-MiCA stablecoin 서비스 3개월 내 정리 요구
+3. Standard Chartered, Singapore 기관 대상 crypto·stablecoin·RWA custody 계획
+4. Samsung Wallet, 미국 Galaxy 8,200만 대에 USDC 송금 기능 도입
+5. Ethereum Glamsterdam, Sepolia에서 200M gas limit 테스트 진행
+- ✅ 텔레그램 전송 완료 (messageId: 757, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-09.md
+
 ### 2026-10-08
 1. Coinbase-Deribit 통합 완료, 미국 기관에 글로벌 crypto derivatives 유동성 연결
 2. Tether-Kazakhstan 중앙은행, tenge stablecoin·RWA tokenization MoU
