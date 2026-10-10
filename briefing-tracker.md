@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-10
+1. CFTC, prediction market event contracts를 swaps 규정으로 포섭 추진
+2. 태국 SEC, 현지 상장 Bitcoin·Ether ETF 규정 10월 16일 시행
+3. Solana, 200ms slot time 메인넷 단계 진입
+4. XRP Ledger, 은행·스테이블코인·토큰화 펀드용 권한 관리 기능 추가
+5. Ledger, CryptoBilis 구매자 지갑 drain 의혹 조사
+- ✅ 텔레그램 전송 완료 (messageId: 758, target: -1003930029847; 기존 `-5295629261`은 supergroup migration으로 거절되어 재전송)
+- 📄 상세 보고서: reports/2026-10-10.md
+
 ### 2026-10-09
 1. Securitize, Apple·Nvidia 등 미국 주식 12종 tokenized trading 출시
 2. ESMA, non-MiCA stablecoin 서비스 3개월 내 정리 요구
