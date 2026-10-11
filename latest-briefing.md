@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.10
+☕ 크립토 모닝 브리핑 — 2026.10.11
 
-1️⃣ CFTC, prediction market event contracts를 swaps 규정으로 포섭 추진
-2️⃣ 태국 SEC, 현지 상장 Bitcoin·Ether ETF 규정 10월 16일 시행
-3️⃣ Solana, 200ms slot time 메인넷 단계 진입
-4️⃣ XRP Ledger, 은행·스테이블코인·토큰화 펀드용 권한 관리 기능 추가
-5️⃣ Ledger, CryptoBilis 구매자 지갑 drain 의혹 조사
+1️⃣ ETH ETF 9일 연속 유출, SOL ETF 14주 inflow streak 종료
+2️⃣ Ledger 리셀러 CryptoBilis 구매자 지갑 drain 의혹 확대
+3️⃣ Blockchain.com, 미국 prediction market·crypto derivatives용 CFTC 라이선스 신청
+4️⃣ EU, ESMA crypto 직접 감독 대상을 360개 중 10~15개로 축소
+5️⃣ 미국, Iran-linked crypto 10억 달러 압류 예고
 
-📌 규제는 prediction market·ETF로, 인프라는 고속 체인·기관 권한관리·월렛 공급망 보안으로 갈라지는 날입니다.
+📌 ETF 플로우는 식고, 규제·제재·공급망 보안 리스크가 다시 전면으로 올라왔습니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-10.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-11.md

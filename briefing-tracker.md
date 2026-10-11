@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-11
+1. Ether ETF 9일 연속 유출, Solana ETF 14주 inflow streak 종료
+2. Ledger, CryptoBilis 구매자 지갑 drain 의혹 조사 확대
+3. Blockchain.com, 미국 prediction market·crypto derivatives용 CFTC 라이선스 신청
+4. EU, ESMA crypto 직접 감독 대상을 360개 중 10~15개로 축소
+5. 미국, Iran-linked crypto 10억 달러 압류 예고
+- ✅ 텔레그램 전송 완료 (messageId: 759, target: -1003930029847; 기존 `-5295629261`은 supergroup migration으로 거절되어 재전송)
+- 📄 상세 보고서: reports/2026-10-11.md
+
 ### 2026-10-10
 1. CFTC, prediction market event contracts를 swaps 규정으로 포섭 추진
 2. 태국 SEC, 현지 상장 Bitcoin·Ether ETF 규정 10월 16일 시행
