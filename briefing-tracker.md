@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-12
+1. CLARITY Act 불발 뒤 SEC/CFTC 주도 crypto 규칙화로 중심 이동
+2. IMF, tokenized stocks 수요 인정하되 유동성·법적 리스크 경고
+3. XRP Ledger, 2015년부터 있던 XRP 초과 mint 가능 버그 긴급 패치
+4. Papertrade, Hyperliquid ETH 가격 피드 조작성 거래 뒤 OI cap 강화
+5. 10/10 플래시 크래시 1년 뒤 BTC/ETH 유동성은 회복, 알트는 약화
+- ✅ 텔레그램 전송 완료 (messageId: 762, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- 📄 상세 보고서: reports/2026-10-12.md
+
 ### 2026-10-11
 1. Ether ETF 9일 연속 유출, Solana ETF 14주 inflow streak 종료
 2. Ledger, CryptoBilis 구매자 지갑 drain 의혹 조사 확대
