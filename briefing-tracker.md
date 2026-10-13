@@ -8,6 +8,15 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-13
+1. CFTC, 이벤트 계약은 swap에 포함하고 카지노식 도박은 제외하는 규칙 추진
+2. 호주 ASIC, crypto-settled CFD에도 레버리지·손실 제한 보호 적용 추진
+3. FASB cash-equivalent 논의, 기업 stablecoin 보유 회계 장벽 완화 가능성
+4. crypto PACs, 미국 중간선거 앞두고 270만 달러 광고 집행
+5. Bitcoin miners, AI/HPC 전환에서 자금 조달 비용 격차 확대
+- ✅ 텔레그램 전송 완료 (messageId: 764, target: -1003930029847; 기존 `-5295629261`은 supergroup migration으로 거절되어 재전송)
+- 📄 상세 보고서: reports/2026-10-13.md
+
 ### 2026-10-12
 1. CLARITY Act 불발 뒤 SEC/CFTC 주도 crypto 규칙화로 중심 이동
 2. IMF, tokenized stocks 수요 인정하되 유동성·법적 리스크 경고

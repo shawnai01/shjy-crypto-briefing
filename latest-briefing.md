@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.12
+☕ 크립토 모닝 브리핑 — 2026.10.13
 
-1️⃣ CLARITY Act 불발 뒤 SEC/CFTC 주도 crypto 규칙화로 중심 이동
-2️⃣ IMF, tokenized stocks 수요 인정하되 유동성·법적 리스크 경고
-3️⃣ XRP Ledger, 2015년부터 있던 XRP 초과 mint 가능 버그 긴급 패치
-4️⃣ Papertrade, Hyperliquid ETH 가격 피드 조작성 거래 뒤 OI cap 강화
-5️⃣ 10/10 플래시 크래시 1년 뒤 BTC/ETH 유동성은 회복, 알트는 약화
+1️⃣ CFTC, 이벤트 계약은 swap에 포함하고 카지노식 도박은 제외하는 규칙 추진
+2️⃣ 호주 ASIC, crypto-settled CFD에도 레버리지·손실 제한 보호 적용 추진
+3️⃣ FASB cash-equivalent 논의, 기업 stablecoin 보유 회계 장벽 완화 가능성
+4️⃣ crypto PACs, 미국 중간선거 앞두고 270만 달러 광고 집행
+5️⃣ Bitcoin miners, AI/HPC 전환에서 자금 조달 비용 격차 확대
 
-📌 규제는 의회에서 기관으로, 시장 리스크는 "유동성·가격 피드·보안"으로 좁혀졌습니다.
+📌 오늘은 가격보다 규제 경계선·회계 처리·정책 자금·인프라 financing이 더 중요한 날입니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-12.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-13.md
