@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-14
+1. CFTC, retail crypto transaction/market 전용 규칙화 ANPRM 게시
+2. Strive, warrant exercise 2.08억 달러로 BTC 보유량 32,773 BTC까지 확대
+3. Metaplanet, 520억 엔 전환사채로 BTC 담보대출 상환·자사주 매입 추진
+4. ENS, ENSv2 활성화를 위한 DAO 승인 절차 착수
+5. 한국 FIU, KuCoin·MEXC 등 미등록 crypto 사이트 27곳 접속 차단 승인
+- ✅ 텔레그램 전송 완료 (messageId: 770, target: -1003930029847; 기존 `-5295629261`은 supergroup upgrade 이력에 따라 전송 대상 유지)
+- ✅ 중복 항목 정정 전송 완료 (messageId: 771; 5번 Securitize 항목은 2026-10-09 기보고 이력과 중복되어 한국 FIU 항목으로 교체)
+- 📄 상세 보고서: reports/2026-10-14.md
+
 ### 2026-10-13
 1. CFTC, 이벤트 계약은 swap에 포함하고 카지노식 도박은 제외하는 규칙 추진
 2. 호주 ASIC, crypto-settled CFD에도 레버리지·손실 제한 보호 적용 추진
