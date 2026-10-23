@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.14
+☕ 크립토 모닝 브리핑 — 2026.10.23
 
-1️⃣ CFTC, retail crypto transaction/market 전용 규칙화 ANPRM 게시
-2️⃣ Strive, warrant exercise 2.08억 달러로 BTC 보유량 32,773 BTC까지 확대
-3️⃣ Metaplanet, 520억 엔 전환사채로 BTC 담보대출 상환·자사주 매입 추진
-4️⃣ ENS, ENSv2 활성화를 위한 DAO 승인 절차 착수
-5️⃣ 한국 FIU, KuCoin·MEXC 등 미등록 crypto 사이트 27곳 접속 차단 승인
+1️⃣ Ethereum, finality 16분→4분 단축 초안 — 활성화 일정 미정
+2️⃣ Solana Alpenglow 활성화 보도 — 150ms finality는 정상 조건 목표
+3️⃣ 아일랜드 중앙은행, Coinbase Ireland 약 325만 유로 제재 합의 — 법원 확인 대기
+4️⃣ Dune, 12개 체인·200곳 이상 온체인 시장 실시간 데이터 피드 출시
+5️⃣ 미 국방부, 비공개 군사정보 이용 예측시장 거래 금지 지침
 
-📌 오늘은 규제 프레임워크, BTC treasury financing, 한국 CEX 접근성 변화가 핵심입니다.
+📌 결제·기관 데이터 인프라는 진전하고, 고객자금·내부정보 통제는 강화됩니다.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-14.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-23.md

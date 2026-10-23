@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-23
+1. Ethereum, finality 16분→4분 단축 초안 — 일정 미정
+2. Solana Alpenglow 활성화 보도 — 정상 조건 150ms 목표
+3. Coinbase Ireland, 약 325만 유로 제재 합의 — 법원 확인 대기
+4. Dune, 12개 체인·200곳 이상 온체인 시장 실시간 데이터 피드
+5. 미 국방부, 비공개 군사정보 이용 예측시장 거래 금지 지침
+- 📄 작성 완료: reports/2026-10-23.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 787, accountId: coo, target: -1003930029847; 기존 -5295629261은 supergroup migration으로 거절되어 이관된 동일 그룹에 전송)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체; CT 직접 교차검증 미확인
+
 ### 2026-10-14
 1. CFTC, retail crypto transaction/market 전용 규칙화 ANPRM 게시
 2. Strive, warrant exercise 2.08억 달러로 BTC 보유량 32,773 BTC까지 확대
