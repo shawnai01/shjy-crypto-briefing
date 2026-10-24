@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-24
+1. Initia, 보안 사고로 L1·롤업 중단 — 피해 규모 조사 중
+2. Ethereum, gas 처리 위험 검토로 Glamsterdam Hoodi 테스트 연기
+3. HSBC, PayMe에 HKD 스테이블코인 RedCoin 출시
+4. SEC, 2027 검사 우선순위에 증권 토큰화 추가
+5. Bitcoin Core, 쉽게 재발견되는 취약점 패치·공개 가속
+- 📄 작성 완료: reports/2026-10-24.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 788, accountId: coo, target: -1003930029847; 기존 -5295629261의 supergroup 이관 대상 유지)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체; CT 핵심 10계정 직접 교차검증 미확인. SEC PDF 직접 확인 없이 전문매체 본문에 근거.
+
 ### 2026-10-23
 1. Ethereum, finality 16분→4분 단축 초안 — 일정 미정
 2. Solana Alpenglow 활성화 보도 — 정상 조건 150ms 목표

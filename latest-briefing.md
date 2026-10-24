@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.23
+☕ 크립토 모닝 브리핑 — 2026.10.24
 
-1️⃣ Ethereum, finality 16분→4분 단축 초안 — 활성화 일정 미정
-2️⃣ Solana Alpenglow 활성화 보도 — 150ms finality는 정상 조건 목표
-3️⃣ 아일랜드 중앙은행, Coinbase Ireland 약 325만 유로 제재 합의 — 법원 확인 대기
-4️⃣ Dune, 12개 체인·200곳 이상 온체인 시장 실시간 데이터 피드 출시
-5️⃣ 미 국방부, 비공개 군사정보 이용 예측시장 거래 금지 지침
+1️⃣ Initia, 보안 사고로 L1·롤업 중단 — 피해 규모 조사 중
+2️⃣ Ethereum, 계약 gas 처리 위험 검토로 Glamsterdam Hoodi 테스트 연기
+3️⃣ HSBC, PayMe에 HKD 스테이블코인 RedCoin 출시
+4️⃣ SEC, 2027 검사 우선순위에 증권 토큰화 추가
+5️⃣ Bitcoin Core, 쉽게 재발견되는 취약점 패치·공개 가속
 
-📌 결제·기관 데이터 인프라는 진전하고, 고객자금·내부정보 통제는 강화됩니다.
+📌 실사용 확대와 함께 체인 가용성·호환성·인프라 통제가 핵심 과제로 부상.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-23.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-24.md
