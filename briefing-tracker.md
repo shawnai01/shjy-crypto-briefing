@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-25
+1. BTC, 중동 긴장 보도 속 8만 달러 하회
+2. Wells Fargo·Cisco 등, OKXICE 토큰화 주식 거래에 이의
+3. Franklin Templeton, XRPL에 MMF 지분 약 1.5억 달러 추가
+4. BTC 재무기업, 우선주 배당·바이백과 추가 매수 간 자금 배분 부담
+5. 미 상원 Blumenthal 의원, Tether·전 백악관 자문역 관련 자료 요구
+- 📄 작성 완료: reports/2026-10-25.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 789, accountId: coo, target: -1003930029847; 기존 -5295629261의 supergroup 이관 대상 유지)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체; CT 직접 교차검증 미확인. Fidelity·The Block 보조 원문 HTTP 403; 검증한 전문매체 본문에 근거. 5번은 10월 23일 미기보고 보완 이슈.
+
 ### 2026-10-24
 1. Initia, 보안 사고로 L1·롤업 중단 — 피해 규모 조사 중
 2. Ethereum, gas 처리 위험 검토로 Glamsterdam Hoodi 테스트 연기

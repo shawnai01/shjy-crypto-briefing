@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.24
+☕ 크립토 모닝 브리핑 — 2026.10.25
 
-1️⃣ Initia, 보안 사고로 L1·롤업 중단 — 피해 규모 조사 중
-2️⃣ Ethereum, 계약 gas 처리 위험 검토로 Glamsterdam Hoodi 테스트 연기
-3️⃣ HSBC, PayMe에 HKD 스테이블코인 RedCoin 출시
-4️⃣ SEC, 2027 검사 우선순위에 증권 토큰화 추가
-5️⃣ Bitcoin Core, 쉽게 재발견되는 취약점 패치·공개 가속
+1️⃣ BTC, 중동 긴장 보도 속 8만 달러 하회 — 기사 시점 기준
+2️⃣ Wells Fargo·Cisco 등, OKXICE 토큰화 주식 거래에 이의
+3️⃣ Franklin Templeton, XRPL에 MMF 지분 약 1.5억 달러 추가
+4️⃣ BTC 재무기업, 우선주 배당·바이백과 추가 매수 간 자금 배분 부담
+5️⃣ 미 상원 의원, Tether·전 백악관 자문역 관련 자료 요구 — 위법 확정 아님
 
-📌 실사용 확대와 함께 체인 가용성·호환성·인프라 통제가 핵심 과제로 부상.
+📌 토큰화 확장과 함께 발행사 통제·자금조달 지속성·정책 감독을 점검할 시점.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-24.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-25.md
