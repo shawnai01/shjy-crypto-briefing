@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-26
+1. Anchorpoint, HKD 스테이블코인 소매 출시 시점 확답 유보
+2. ECB, 디지털 유로 2027년 실거래 파일럿 계획 재확인
+3. 라트비아, 2027년 상반기 RWA 토큰화 규칙 목표
+4. 영국 은행 크립토 거래 제한 민원, 90일간 1만 건 초과
+5. 네타냐후의 블록체인 제재 대응 발언에 중앙은행 반론 보도
+- 📄 작성 완료: reports/2026-10-26.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 790, accountId: coo, target: -1003930029847; 기존 -5295629261의 supergroup 이관 대상 유지)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체; CT 직접 교차검증 미확인. Globes 보조 원문 HTTP 403; 반론은 Cointelegraph 인용 보도에 한정.
+
 ### 2026-10-25
 1. BTC, 중동 긴장 보도 속 8만 달러 하회
 2. Wells Fargo·Cisco 등, OKXICE 토큰화 주식 거래에 이의
