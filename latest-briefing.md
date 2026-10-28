@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.27
+☕ 크립토 모닝 브리핑 — 2026.10.28
 
-1️⃣ Electrum, RBF 탈취 취약점 패치 — 4.8.3 업그레이드 필요
-2️⃣ CoinDCX, 폐기 지갑 회수 실패로 1,599만 USDT 손실 자체 부담
-3️⃣ 한국 가상자산 과세 2029년 유예 논의 — 국회 확정 전
-4️⃣ 캐나다, 스테이블코인 규정안 의견수렴 — 보유 이자 금지 유지
-5️⃣ 미국 OCC, 지역은행의 스테이블코인 발행 참여 권고
+1️⃣ Ethereum, Glamsterdam 예치금 오분류 결함 수정 — 실제 피해 보고 없음
+2️⃣ Keystone, 웹 침해 후 미판매 지갑 18,835대 폐기 방침
+3️⃣ Ripple, 미국 national trust bank 최종 승인 발표
+4️⃣ Janus Henderson·Centrifuge, Stellar 기반 Nasdaq-100 펀드 JQQQ 출시
+5️⃣ Robinhood·Ripple, 연내 앱 RLUSD 지원·기관 결제 협력 계획
 
-📌 운영 보안과 제도화가 핵심. 유예 논의·규정안을 확정 조치와 구분하세요.
+📌 보안은 공급망·사양까지, 제도화는 은행·펀드·유통으로 확장 중입니다. 예정과 완료를 구분하세요.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-27.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-28.md

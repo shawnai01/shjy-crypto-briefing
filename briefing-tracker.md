@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-28
+1. Ethereum, Glamsterdam 예치금 오분류 결함 수정 — 실제 피해 보고 없음
+2. Keystone, 웹 침해 후 미판매 지갑 18,835대 폐기 방침
+3. Ripple, 미국 national trust bank 최종 승인 발표
+4. Janus Henderson·Centrifuge, Stellar 기반 Nasdaq-100 펀드 JQQQ 출시
+5. Robinhood·Ripple, 연내 앱 RLUSD 지원·기관 결제 협력 계획
+- 📄 작성 완료: reports/2026-10-28.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 792, accountId: coo, target: -1003930029847; 기존 -5295629261의 supergroup 이관 대상 유지)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체; CT 직접 교차검증 미확인. Business Wire 2건 HTTP 403·Keystone X 본문 불충분·OCC 승인 원문 미확인은 전문매체 본문 인용 범위에 한정.
+
 ### 2026-10-27
 1. Electrum, RBF 탈취 취약점 패치 — 4.8.3 업그레이드 필요
 2. CoinDCX, 폐기 지갑 회수 실패로 1,599만 USDT 손실 자체 부담
