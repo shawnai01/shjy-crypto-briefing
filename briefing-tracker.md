@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-29
+1. DTCC, DTC 보관 증권 토큰화 서비스 출시 — 20개 고객사 이용 계약
+2. Google Cloud, 기관 BTC 수탁용 MPC 공개 — 정식 출시 아닌 프리뷰
+3. Phantom, 미국 적격 이용자에 Kalshi 예측시장 연결
+4. Euronext, 결제 운영 요건으로 CoinShares Zcash ETP 거래 중단
+5. Strategy, 우선주 4종 영업일별 배당 개정 승인 — STRC 11월 2일 예정
+- 📄 작성 완료: reports/2026-10-29.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 793, accountId: coo, target: -1003930029847; 기존 -5295629261은 supergroup migration으로 거절되어 이관된 동일 그룹에 전송)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체. CT 직접 교차검증 미확인. 회사 발표 3건 HTTP 403·Euronext PDF 추출 실패는 전문매체 본문에 한정. Google 공식 문서·릴리스 노트 대조 완료.
+
 ### 2026-10-28
 1. Ethereum, Glamsterdam 예치금 오분류 결함 수정 — 실제 피해 보고 없음
 2. Keystone, 웹 침해 후 미판매 지갑 18,835대 폐기 방침
