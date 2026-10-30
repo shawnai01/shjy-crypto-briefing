@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-30
+1. Binance, 보안 사고로 입출금 중단 — 동결 25.4억 달러 발표·최종 손실 미정
+2. Polymarket, 외부 공급자 침해 후 거래 일시 중단·복구
+3. KuCoin, 러시아·벨라루스 이용자 서비스 즉시 종료
+4. ICE·Trade[XYZ], 미국 Hyperliquid 기반 무기한선물 추진 — 승인 전
+5. Canton Strategic Holdings, 11월 2일 자사 주식 토큰화 거래 개시 계획
+- 📄 작성 완료: reports/2026-10-30.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 794, accountId: coo, target: -1003930029847; 기존 -5295629261은 supergroup migration으로 거절되어 이관된 동일 그룹에 전송)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체. CT 핵심 10계정 직접 교차검증 미확인. ICE IR HTTP 403·Canton 회사/SEC 원문 미확인은 전문매체 보도 인용 범위에 한정. Binance 공식 X·KuCoin 영문 공지·Polymarket 현재 상태 대조 완료.
+
 ### 2026-10-29
 1. DTCC, DTC 보관 증권 토큰화 서비스 출시 — 20개 고객사 이용 계약
 2. Google Cloud, 기관 BTC 수탁용 MPC 공개 — 정식 출시 아닌 프리뷰

@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.29
+☕ 크립토 모닝 브리핑 — 2026.10.30
 
-1️⃣ DTCC, DTC 보관 증권 토큰화 서비스 출시 — 20개 고객사 이용 계약
-2️⃣ Google Cloud, 기관 BTC 수탁용 MPC 공개 — 정식 출시 아닌 프리뷰
-3️⃣ Phantom, 미국 적격 이용자에 Kalshi 예측시장 연결
-4️⃣ Euronext, 결제 운영 요건으로 CoinShares Zcash ETP 거래 중단
-5️⃣ Strategy, 우선주 4종 영업일별 배당 개정 승인 — STRC 11월 2일 예정
+1️⃣ Binance, 보안 사고로 입출금 중단 — 동결 25.4억 달러 발표·최종 손실 미정
+2️⃣ Polymarket, 외부 공급자 침해 후 거래 일시 중단·복구
+3️⃣ KuCoin, 러시아·벨라루스 이용자 서비스 즉시 종료
+4️⃣ ICE·Trade[XYZ], 미국 Hyperliquid 기반 무기한선물 추진 — 승인 전
+5️⃣ Canton Strategic Holdings, 11월 2일 자사 주식 토큰화 거래 개시 계획
 
-📌 토큰화·수탁·지갑 유통은 확장 중. 프리뷰·출시·실제 결제 가능 상태를 구분하세요.
+📌 보안 사고의 동결액과 손실액, 신사업의 추진과 실제 출시를 구분하세요.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-29.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-30.md
