@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-10-31
+1. Binance, 63.4억 달러 보전 재원 배정·11월 1일 출금 단계 재개 목표(보안 검사 조건)
+2. Trezor, CryptoBilis 판매 기기 임플란트 의심 경고 — 실물 검사·피해 확인 전
+3. Tether Q3, 순영업이익 15억 달러·초과준비금 약 79.5억 달러 발표
+4. Zcash ZCG, 약 9.8만 ZEC를 미래 채굴 보상으로 전환 제안 — 승인 전
+5. Coinbase·Circle 등 크립토 주식 동반 약세 — 보도 시점 장중 기준
+- 📄 작성 완료: reports/2026-10-31.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 796, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route 전송 확인)
+- 예외: web_search HTTP 422 → RSS·web_fetch 대체. CT 핵심 10계정 전체 직접 교차검증 미완료; Binance 공식 X·Zcash Mert 반론 확인. 5번은 전문매체 종합 보도 장중 관측치에 한정. Zcash는 10월 29일 초안·30일 논쟁 보완 이슈.
+
 ### 2026-10-30
 1. Binance, 보안 사고로 입출금 중단 — 동결 25.4억 달러 발표·최종 손실 미정
 2. Polymarket, 외부 공급자 침해 후 거래 일시 중단·복구
