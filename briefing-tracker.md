@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-11-01
+1. Binance, 탈취 자산 90% 보전 발표·11월 1일 출금 재개 목표 — 완료 미확인
+2. Chainalysis, 고객 이름·이메일 등 접근 사고 공식 공개
+3. CFTC 의장, 역외 거래소 연방 감독 필요성 주장 — 확정 규칙 아님
+4. Uber·HSBC·Franklin Templeton, 토큰화 운전자금·주말 결제 파일럿 보도
+5. Next Technology Holding, 5,833 BTC 매각·담보대출 승인 보도 — 실행 미확인
+- 📄 작성 완료: reports/2026-11-01.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 797, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route status=sent 확인)
+- 예외: web_search HTTP 422 → 공식 RSS·web_fetch 대체. CT 핵심 10계정 전체 교차검증 미완료. 4·5번 기사 HTTP 429 → 매체 공식 RSS 제목·서술형 요약 범위만 채택하고 검증 제한 명시. 3번은 10월 30일 미기보고 보완 이슈.
+
 ### 2026-10-31
 1. Binance, 63.4억 달러 보전 재원 배정·11월 1일 출금 단계 재개 목표(보안 검사 조건)
 2. Trezor, CryptoBilis 판매 기기 임플란트 의심 경고 — 실물 검사·피해 확인 전

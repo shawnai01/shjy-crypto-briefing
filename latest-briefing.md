@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.10.31
+☕ 크립토 모닝 브리핑 — 2026.11.01
 
-1️⃣ Binance, 63.4억 달러 보전 재원 배정·11월 1일 출금 단계 재개 목표(보안 검사 조건)
-2️⃣ Trezor, CryptoBilis 판매 기기 임플란트 의심 경고 — 실물 검사·피해 확인 전
-3️⃣ Tether Q3, 순영업이익 15억 달러·초과준비금 약 79.5억 달러 발표
-4️⃣ Zcash ZCG, 약 9.8만 ZEC를 미래 채굴 보상으로 전환 제안 — 승인 전
-5️⃣ Coinbase·Circle 등 크립토 주식 동반 약세 — 10월 30일 보도 시점 장중 기준
+1️⃣ Binance “탈취 자산 90% 보전” — 오늘 출금 재개 목표, 완료는 미확인
+2️⃣ Chainalysis 고객 이름·이메일 접근 사고 — 조사정보 접근 징후는 없다고 발표
+3️⃣ CFTC 의장, 역외 거래소 연방 감독 필요성 강조 — 규칙 확정 아님
+4️⃣ Uber·HSBC·Franklin Templeton, 토큰화 운전자금·주말 결제 파일럿 보도
+5️⃣ Next Technology Holding, 5,833 BTC 매각·담보대출 승인 보도 — 실행 미확인
 
-📌 보전 재원은 회수액이 아니며, 보안 의혹·재개 목표·거버넌스 초안은 확정 결과와 구분하세요.
+📌 보안 대응과 수탁 신뢰가 우선. 4·5번은 매체 공식 RSS 확인 범위이며 상세에 검증 한계를 명시했습니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-10-31.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-01.md
