@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-11-02
+1. Binance 단계적 출금 재개·24시간 순유출 58억 달러 보도
+2. FBI, 북한 TraderTraitor 지목·DeFi 탈취 주소 차단 협조 요청
+3. 미국 BTC 현물 ETF, 10월 30일 6.432억 달러 순유출 보도
+4. AI 에이전트, 크립토 지출 한도 우회 실험 보도
+5. 크립토 PAC, 미국 중간선거 직전 공화당 지원 확대 보도
+- 📄 작성 완료: reports/2026-11-02.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 798, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route status=sent 확인)
+- 예외: web_search HTTP 422 → 공식 RSS·web_fetch 대체. CT 핵심 10계정 전체 교차검증 미완료. FBI 원문 HTTP 403·CoinDesk 2건 HTTP 429. 4·5번은 공식 RSS 제목·요약 범위만 채택. ETF는 10월 30일 장 마감 집계. 1·2번은 동일 사고의 운영 복구/세탁 차단 후속.
+
 ### 2026-11-01
 1. Binance, 탈취 자산 90% 보전 발표·11월 1일 출금 재개 목표 — 완료 미확인
 2. Chainalysis, 고객 이름·이메일 등 접근 사고 공식 공개
