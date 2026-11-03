@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-11-03
+1. Mercado Bitcoin, 보안 사고로 입출금 중단 — 피해 규모 집계 중
+2. 뉴저지, Coinbase 스테이킹 금지 명령·500만 달러 제재 철회
+3. Strategy, BTC 매수 6,550만 달러 vs STRC 환매 2억 820만 달러
+4. Animoca, 아부다비 펀드 운용 인가 발표 — 비소매 고객 한정
+5. NYSE 토큰화 주식 구상에 명의개서대리인 4곳 합류 보도
+- 📄 작성 완료: reports/2026-11-03.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 799, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route status=sent 확인)
+- 예외: web_search HTTP 422 → 공식 RSS·web_fetch 대체. CT 핵심 10계정 전체 교차검증 미완료; Dickson Wu 게시물 보조 확인. 피해 추정치 차이 명시. SEC 연결 실패·뉴저지 PDF 본문 추출 제한·NYSE 기사 HTTP 429는 확인한 보도/RSS 범위에 한정. Animoca 공식 등록부 대조 완료.
+
 ### 2026-11-02
 1. Binance 단계적 출금 재개·24시간 순유출 58억 달러 보도
 2. FBI, 북한 TraderTraitor 지목·DeFi 탈취 주소 차단 협조 요청

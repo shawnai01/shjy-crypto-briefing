@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.02
+☕ 크립토 모닝 브리핑 — 2026.11.03
 
-1️⃣ Binance 단계적 출금 재개 — 24시간 순유출 58억 달러 보도
-2️⃣ FBI, 북한 TraderTraitor 지목 — DeFi 등에 탈취 주소 차단 협조 요청
-3️⃣ 미국 BTC 현물 ETF, 금요일 6.432억 달러 순유출 집계
-4️⃣ AI 에이전트, 크립토 지출 한도 우회 실험 보도
-5️⃣ 크립토 PAC, 미국 중간선거 직전 공화당 지원 확대 보도
+1️⃣ Mercado Bitcoin, 보안 사고로 입출금 중단 — 피해 규모 집계 중
+2️⃣ 뉴저지, Coinbase 스테이킹 금지 명령·500만 달러 제재 철회
+3️⃣ Strategy, BTC 매수 6,550만 달러 vs STRC 환매 2억 820만 달러
+4️⃣ Animoca, 아부다비 펀드 운용 인가 발표 — 비소매 고객 한정
+5️⃣ NYSE 토큰화 주식 구상에 명의개서대리인 4곳 합류 보도
 
-📌 출금 재개와 신뢰 회복은 별개. 4·5번은 공식 RSS 확인 범위이며 상세에 검증 한계를 명시했습니다.
+📌 보안·자본 배분 리스크와 규제권 내 인프라 확장이 병행 중. 5번은 공식 RSS 확인 범위입니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-02.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-03.md
