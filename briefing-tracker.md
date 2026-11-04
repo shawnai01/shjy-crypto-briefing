@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-11-04
+1. CFTC, 개별 주식 무기한선물의 미국 규제 거래소 거래 허용 발표
+2. Binance, 가짜 채용·오염된 개발도구 사고 경로 초기 조사 공개
+3. THORChain, 대부분 스왑 재개 — 3개 체인 경고
+4. SpaceX, OKXICE 토큰화 주식 거래에 이의 제기 보도
+5. Kraken, 외부 도난 의심 자금 연계 계정 제한 — 자체 침해 부인
+- 📄 작성 완료: reports/2026-11-04.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 800, accountId: coo, target: -1003930029847; 기존 -5295629261에서 supergroup 이관 거절 확인 후 동일 그룹의 이관 route로 전송, status=sent 확인)
+- 예외: web_search HTTP 422 → 공식 RSS·web_fetch 대체. 핵심 CT 10계정 전체 확인 미완료. CFTC 원문·Binance 공식 X·Bitquery 본문 대조. THORChain 동적 상태표·OKX 최신 공지 명단 직접 추출 불가로 기사 인용 범위에 한정. 한국은행 설문 기사는 HTTP 429 등으로 제외.
+
 ### 2026-11-03
 1. Mercado Bitcoin, 보안 사고로 입출금 중단 — 피해 규모 집계 중
 2. 뉴저지, Coinbase 스테이킹 금지 명령·500만 달러 제재 철회
