@@ -8,6 +8,16 @@
 ## 보고 이력
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
+### 2026-11-05
+1. BitMart, 새 해킹·보안팀 인력 부족 인정
+2. Canton CC, SEC 직원 no-action 입장 보도 — 구속력 있는 판결 아님
+3. 프랑스 하원, 10만 유로 이상 자체보관 크립토 신고 수정안 채택 보도 — 확정 전
+4. Circle Q3, ARC 사전판매 수익이 실적 보완·준비금 수익 감소
+5. Riot, 15년·910MW AI 임대계약 발표 — 누적 계약가치 280억 달러
+- 📄 작성 완료: reports/2026-11-05.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 806, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route status=sent 확인)
+- 예외: web_search HTTP 422 → 공식 RSS·web_fetch 대체. CT 핵심 10계정 전체 확인 미완료. BitMart 공식 X·Bitquery·Riot 원문 대조. SEC HTTP 403·프랑스 의회 본문 추출 불충분·Circle PDF 텍스트 추출 불가 항목은 전문매체 본문 인용 범위에 한정.
+
 ### 2026-11-04
 1. CFTC, 개별 주식 무기한선물의 미국 규제 거래소 거래 허용 발표
 2. Binance, 가짜 채용·오염된 개발도구 사고 경로 초기 조사 공개

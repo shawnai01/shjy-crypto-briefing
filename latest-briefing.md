@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.04
+☕ 크립토 모닝 브리핑 — 2026.11.05
 
-1️⃣ CFTC, 미국 이중등록 거래소의 개별 주식 무기한선물 거래 허용 발표
-2️⃣ Binance 초기 조사: 가짜 채용·오염된 개발도구가 지갑 서명 서비스 침해로 연결
-3️⃣ THORChain, 대부분 스왑 재개…BNB Chain·Cosmos Hub·Solana는 경고
-4️⃣ SpaceX도 OKXICE 토큰화 주식 거래에 이의 제기 보도
-5️⃣ Kraken, 외부 도난 의심 자금 연계 계정 제한…자체 시스템 침해는 부인
+1️⃣ BitMart, 새 해킹·보안팀 인력 부족 인정…피해 확정액 미공개
+2️⃣ Canton CC에 SEC 직원 no-action 입장 보도…구속력 있는 법적 판결 아님
+3️⃣ 프랑스 하원, 10만 유로 이상 자체보관 크립토 신고 수정안 채택 보도…법률 확정 전
+4️⃣ Circle Q3, ARC 사전판매 수익이 실적 보완…USDC 준비금 수익은 감소
+5️⃣ Riot, 15년·910MW AI 임대계약 발표…280억 달러는 누적 계약가치
 
-📌 파생상품·토큰화의 제도권 확장과 서명권한·개발환경 보안 리스크가 공존합니다.
+📌 제도권 편입·AI 전환 속에서도 보안 운영 공백과 수익의 질을 점검해야 합니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-04.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-05.md
