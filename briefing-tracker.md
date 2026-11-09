@@ -6,6 +6,16 @@
 - **방식:** 하이브리드 (트렌딩 + CT 교차검증)
 
 ## 보고 이력
+
+### 2026-11-09
+1. FinCEN, MEXC 연계 자금이체 미국 금융기관 처리 금지
+2. Gnosis Pay, 구형 카드 시스템 고객정보 유출 공개
+3. Binance France, 연말 계정 종료·잔액 수수료 보도
+4. FinCEN·연준, Travel Rule 개정 제안 철회
+5. 스테이블코인 공급 정체에도 결제 활용 증가 보도
+- 📄 작성 완료: reports/2026-11-09.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 827, accountId: coo, target: -1003930029847; 기존 -5295629261에서 supergroup 이관 거절 확인 후 동일 그룹 이관 route로 전송, status=sent 확인)
+- 예외: 주말 미보고 11월 6~8일 이슈 포함. 검색 HTTP 422·CoinDesk 본문 HTTP 429. FinCEN·Gnosis 공식 원문과 Cointelegraph 본문 확인. 5번은 공식 RSS 서술 범위 한정. CT 10계정 직접 교차검증 미완료.
 <!-- 날짜별로 보고한 뉴스 제목 기록 — 중복 방지용 -->
 
 ### 2026-11-05
