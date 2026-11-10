@@ -7,6 +7,17 @@
 
 ## 보고 이력
 
+### 2026-11-10
+1. NYSE 계열 예정 ATS, Avalanche 청산·결제 원장 채택
+2. Formation, Solana 토큰화 주식 거래소 추진 — 2027년 초 목표
+3. PNC·Coinbase, USDC 수취 후 달러 예금 전환 파일럿
+4. Mercado Bitcoin, 조회 전용 접근 복구 추진 — 출금 일정 미정
+5. HIVE, BTC 생산 49% 증가에도 채굴 매출 7.4% 감소 보도
+- 📄 작성 완료: reports/2026-11-10.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 828, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 그룹, OpenClaw conversation route status=sent 확인)
+- 예외: CT 10계정 직접 교차검증 미완료. SEC HIVE 공시 HTTP 403 → 전문매체 인용 범위 한정. 기업 발표 3건·기사 5건 본문 확인.
+
+
 ### 2026-11-09
 1. FinCEN, MEXC 연계 자금이체 미국 금융기관 처리 금지
 2. Gnosis Pay, 구형 카드 시스템 고객정보 유출 공개
