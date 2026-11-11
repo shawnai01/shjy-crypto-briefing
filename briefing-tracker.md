@@ -7,6 +7,17 @@
 
 ## 보고 이력
 
+### 2026-11-11
+1. Across, 도메인 문제 조사·앱 접속 및 서명 중단 권고
+2. 글로벌 은행 Project Faro, 2.7억 달러 출자 약정 보도
+3. Kalshi, 상품 통지 절차 관련 CFTC 제재 가능성 보도
+4. Plume 계열 Kimber, SEC 브로커딜러 등록·FINRA 가입 발표
+5. Mercado Bitcoin, 다음 주 Pix 입출금 재개 계획 — 코인 전송은 중단
+- 📄 작성 완료: reports/2026-11-11.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 837, accountId: coo, target: -1003930029847; 기존 -5295629261에서 supergroup 이관 거절 확인 후 동일 그룹 이관 route로 전송, status=sent 확인)
+- 예외: CT 10계정 전체 직접 확인 미완료. Politico 원문 HTTP 403 → 전문매체 인용 보도 한정. Across 공식 X·Kimber 회사 발표 및 기사 5건 본문 확인.
+
+
 ### 2026-11-10
 1. NYSE 계열 예정 ATS, Avalanche 청산·결제 원장 채택
 2. Formation, Solana 토큰화 주식 거래소 추진 — 2027년 초 목표
