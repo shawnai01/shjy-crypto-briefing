@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.11
+☕ 크립토 모닝 브리핑 — 2026.11.12
 
-1️⃣ Across, 도메인 문제 조사·앱 접속 및 서명 중단 권고
-2️⃣ 은행 연합 Faro, 2.7억 달러 출자 약정 보도·2027년 출시 목표
-3️⃣ Kalshi, 상품 통지 절차 관련 CFTC 제재 가능성 보도 — 확정 전
-4️⃣ Plume 계열 Kimber, 브로커딜러 등록 발표·토큰화 증권 추진
-5️⃣ Mercado Bitcoin, 다음 주 Pix 입출금 재개 계획·코인 전송은 중단
+1️⃣ MSCI, Strategy 등 지수 제외 보도 — 11/30 장 마감 후 적용
+2️⃣ Deutsche Bank, 기업·기관 크립토 수탁 출시 보도
+3️⃣ Suiet 지갑 종료 — 11/14까지 API 유지, 이전 필요
+4️⃣ Nomura, Laser Digital 매각 검토 보도 — 결정 전
+5️⃣ OKXICE, 11/23 토큰화 주식 거래 개시 예정 보도
 
-📌 은행·증권의 온체인 진입과 함께 보안·상품 신고 통제가 중요해지고 있습니다.
+📌 기관 인프라는 확장 중이나 지수 자격·서비스 지속성은 별도 점검.
 
-📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-11.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-12.md

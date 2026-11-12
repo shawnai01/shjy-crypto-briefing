@@ -7,6 +7,17 @@
 
 ## 보고 이력
 
+### 2026-11-12
+1. MSCI, Strategy 등 지수 제외 보도 — 11월 30일 적용
+2. Deutsche Bank, 기업·기관 크립토 수탁 출시 보도
+3. Suiet 지갑 종료 — 11월 14일까지 API 유지
+4. Nomura, Laser Digital 매각 검토 보도 — 결정 전
+5. OKXICE, 11월 23일 토큰화 주식 거래 개시 예정 보도
+- 📄 작성 완료: reports/2026-11-12.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 838, accountId: coo, target: -1003930029847; 기존 -5295629261에서 supergroup 이관 거절 확인 후 동일 그룹 이관 route로 전송, status=sent 확인)
+- 예외: 검색 HTTP 422 → RSS·web_fetch 대체. CT 10계정 직접 교차검증 미완료. 기사 5건·MSCI 일정 공지·Suiet 공식 공지 본문 확인. Bloomberg HTTP 403, MSCI 최종 개별 명단·은행 원문·SEC 면제 원문은 기사 인용 범위 한정.
+
+
 ### 2026-11-11
 1. Across, 도메인 문제 조사·앱 접속 및 서명 중단 권고
 2. 글로벌 은행 Project Faro, 2.7억 달러 출자 약정 보도
