@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.12
+☕ 크립토 모닝 브리핑 — 2026.11.13
 
-1️⃣ MSCI, Strategy 등 지수 제외 보도 — 11/30 장 마감 후 적용
-2️⃣ Deutsche Bank, 기업·기관 크립토 수탁 출시 보도
-3️⃣ Suiet 지갑 종료 — 11/14까지 API 유지, 이전 필요
-4️⃣ Nomura, Laser Digital 매각 검토 보도 — 결정 전
-5️⃣ OKXICE, 11/23 토큰화 주식 거래 개시 예정 보도
+1️⃣ DTCC, 2027년 하반기 Solana 토큰화 증권 연결 계획
+2️⃣ Maple 공동창업자·COO 이탈 보도 — 전략 이견
+3️⃣ 미 법무부·업계, 일리노이 0.2% 크립토세 소송 지원
+4️⃣ 트럼프, SEC·CFTC 위원 후보 각 2명 지명 보도
+5️⃣ 이더리움 연구진, 2027년 양자내성 계정 우선 추진 보도
 
-📌 기관 인프라는 확장 중이나 지수 자격·서비스 지속성은 별도 점검.
+📌 기관 토큰화·온체인 신용의 확장과 규제·보안 전환이 함께 진행 중. 4·5번은 매체 공식 RSS 확인 범위.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-12.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-13.md
