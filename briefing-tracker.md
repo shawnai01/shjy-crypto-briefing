@@ -7,6 +7,17 @@
 
 ## 보고 이력
 
+### 2026-11-14
+1. Unocoin, 입출금 중단 유지·외부 서명 경로 조사
+2. Blockstream·Thales, HSM 내부 MPC 수탁 솔루션 출시
+3. Kraken 모회사 Payward, 점유율 확대에도 조정 EBITDA 전년비 66% 감소 보도
+4. Metaplanet, 1~9월 1.7억 달러 순손실 보도 — BTC 매각·평가손 반영
+5. 미 크립토 신탁 인가 확대와 상원 자료 요구 병행 보도
+- 📄 작성 완료: reports/2026-11-14.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 864, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인)
+- 예외: 검색 HTTP 422 → RSS·web_fetch 대체. CT 10계정 직접 검증 미완료. 기사 5건·Unocoin·Blockstream 원문 확인. Payward 수치는 기사 인용; Metaplanet 공시·OCC 원문 미대조.
+
+
 ### 2026-11-13
 1. DTCC, 2027년 하반기 Solana 토큰화 증권 연결 계획
 2. Maple 공동창업자·COO 이탈 보도 — 전략 이견
