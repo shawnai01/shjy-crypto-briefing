@@ -7,6 +7,17 @@
 
 ## 보고 이력
 
+### 2026-11-15
+1. MegaETH 모회사, 인력 20% 감축·AI 사업 확대
+2. 미 BTC 현물 ETF, 2주간 23.5억 달러 순유출 보도
+3. 카자흐스탄, 토큰화 국채 1분기 추진 보도
+4. 영국·싱가포르·태국 중앙은행, 국경 간 FX 결제 실험 보도
+5. BTC, 6.4만 달러 하회·3개월 저점 보도
+- 📄 작성 완료: reports/2026-11-15.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 867, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인)
+- 예외: 검색 HTTP 422. CoinDesk 본문 3건 HTTP 429로 공식 RSS 범위 한정. Farside HTTP 403으로 ETF 기사 인용. CT 10계정 직접 검증 미완료; MegaETH 공동창업자 원문 대조.
+
+
 ### 2026-11-14
 1. Unocoin, 입출금 중단 유지·외부 서명 경로 조사
 2. Blockstream·Thales, HSM 내부 MPC 수탁 솔루션 출시

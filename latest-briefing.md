@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.14
+☕ 크립토 모닝 브리핑 — 2026.11.15
 
-1️⃣ Unocoin 입출금 중단 유지 — 외부 백업키 서명 경로 조사
-2️⃣ Blockstream·Thales, HSM 내부 MPC 기관 수탁 솔루션 출시
-3️⃣ Kraken 모회사 Payward, 점유율↑·조정 EBITDA 전년비 66%↓ 보도
-4️⃣ Metaplanet, 1~9월 1.7억 달러 순손실 보도 — BTC 보유량은 순증
-5️⃣ 미 신탁 인가 확대·상원 감시 병행 — Coinbase 11/9 승인 후속 보도
+1️⃣ MegaETH 모회사, 인력 20% 감축·AI 사업 확대
+2️⃣ 미 BTC 현물 ETF, 2주간 23.5억 달러 순유출 보도
+3️⃣ 카자흐스탄, 토큰화 국채 1분기 추진 보도
+4️⃣ 영국·싱가포르·태국 중앙은행, 국경 간 FX 결제 실험 보도
+5️⃣ BTC, 6.4만 달러 하회·3개월 저점 보도(14일 시점)
 
-📌 수탁 보안과 재무 건전성 검증이 핵심.
+📌 ETF 수급 약화 속 토큰화·결제 인프라 실험은 지속.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-14.md
+📄 상세·출처·검증 한계: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-15.md
