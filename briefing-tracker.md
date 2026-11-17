@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-17
+1. Lighter, 약 500만 USDC 회수·출금 재개 — 외부 서명 코드 문제
+2. Safe 지갑 약 645만 달러 도난 보도 — 키·권한 설정 조사
+3. Zelle, 국제결제용 ZelleUSD에 Solana 채택 발표 보도
+4. 미 대법원, Custodia 상고 심리 거부 — 연준 계좌 재량 유지
+5. Coinbase·Broadridge, 토큰화 주식 공시 표준 제안
+- 📄 작성 완료: reports/2026-11-17.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 886, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인)
+- GitHub 보존: briefing: 2026-11-17 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: 검색 HTTP 422 → 공식 RSS 대체. CT 10계정 전체 교차검증 미완료. 기사 5건 본문 및 공식·보조 원문 확인; Custodia 결정은 기사 인용 범위.
+
+
 ### 2026-11-16
 1. 코인원, 외주 고객센터 정보 유출·피싱 주의 공지
 2. stUSDT 종료 절차 개시 — 이자 중단·2027년 5월 웹 상환 마감
