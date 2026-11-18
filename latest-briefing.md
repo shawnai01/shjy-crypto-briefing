@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.17
+☕ 크립토 모닝 브리핑 — 2026.11.18
 
-1️⃣ Lighter, 약 500만 USDC 회수·출금 재개 — 외부 서명 코드 문제
-2️⃣ Safe 지갑 약 645만 달러 도난 보도 — 키·권한 설정 조사
-3️⃣ Zelle, 국제결제용 ZelleUSD에 Solana 채택 발표 보도
-4️⃣ 미 대법원, Custodia 상고 심리 거부 — 연준 계좌 재량 유지
-5️⃣ Coinbase·Broadridge, 토큰화 주식 공시 표준 제안
+1️⃣ Solana Foundation, CoinGecko 과반 지분 보유 발표
+2️⃣ CFTC, Kalshi 트럼프 발언 예측계약 일부 일시 중단
+3️⃣ 연준 Waller, 토큰화 금융의 책임·신뢰·법적 보호 강조
+4️⃣ Revolut, 블록체인 기반 사모시장 펀드 4개 추진
+5️⃣ 동유럽 크립토 활동 7.9% 감소·우크라이나 스테이블코인 유입 120억 달러 보도
 
-📌 결제·토큰화는 확장 중. 서명·위임 권한의 운영 리스크는 별도 점검.
+📌 토큰화·데이터 인프라는 확대되지만, 신뢰·책임·조작 방지가 도입의 핵심 조건입니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-17.md
+📄 상세 보고서: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-18.md

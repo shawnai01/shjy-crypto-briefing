@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-18
+1. Solana Foundation, CoinGecko 과반 지분 보유 발표
+2. CFTC, Kalshi 트럼프 발언 예측계약 일부 일시 중단
+3. 연준 Waller, 토큰화 금융의 책임·신뢰·법적 보호 강조
+4. Revolut, 블록체인 기반 사모시장 펀드 4개 추진
+5. 동유럽 크립토 활동 7.9% 감소·우크라이나 스테이블코인 유입 120억 달러 보도
+- 📄 작성 완료: reports/2026-11-18.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 889, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인)
+- GitHub 보존: briefing: 2026-11-18 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: 검색 HTTP 422; CT 10계정 전체 미대조. 기사 5건 본문·재단 CPO X·연준 연설·Chainalysis 보고서 확인.
+
+
 ### 2026-11-17
 1. Lighter, 약 500만 USDC 회수·출금 재개 — 외부 서명 코드 문제
 2. Safe 지갑 약 645만 달러 도난 보도 — 키·권한 설정 조사
