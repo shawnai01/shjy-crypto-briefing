@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-20
+1. Ledger CTO, 2026년 말 퇴임 발표 — 수개월 준비한 전환
+2. MoonPay, 미 신탁은행 인가 신청 — 승인 아닌 신청 단계
+3. SEC 후보 Johnson, 토큰화 주식 정식 규칙 제정 지지
+4. 이더리움 Glamsterdam, 호환성 문제로 2027년 5월까지 지연 가능
+5. Phylax·Titan 보안장치, 해킹 차단과 검열·가용성 논쟁
+- 📄 작성 완료: reports/2026-11-20.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 912, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인)
+- GitHub 보존: briefing: 2026-11-20 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: CT 10계정 직접 교차검증 미완료. 기사 5건·Ledger 당사자·EIP·Phylax 원문 확인. OCC PDF 텍스트 미추출, SEC 청문회 원문 미대조.
+
+
 ### 2026-11-19
 1. Ledger, 베를린 구매자에 지원팀 문의 권고 — 기기 변조 조사 확대
 2. Binance, 65억 달러 전세계 자산동결 명령 확보 발표 — 회수액과 구분
