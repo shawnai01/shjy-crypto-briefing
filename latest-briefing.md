@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.20
+☕ 크립토 모닝 브리핑 — 2026.11.21
 
-1️⃣ Ledger CTO, 2026년 말 퇴임 발표 — 수개월 준비한 전환
-2️⃣ MoonPay, 미 신탁은행 인가 신청 — 승인 아닌 신청 단계
-3️⃣ SEC 후보 Johnson, 토큰화 주식 정식 규칙 제정 지지
-4️⃣ 이더리움 Glamsterdam, 호환성 문제로 2027년 5월까지 지연 가능
-5️⃣ Phylax·Titan 보안장치, 해킹 차단과 검열·가용성 논쟁
+1️⃣ BTC, 6만 달러 하회 — 위험자산 동반 약세
+2️⃣ Sky, 하루 20억 달러 이상 교환 처리 — 페그 유지 발표
+3️⃣ 미 상원, 전쟁·사망 예측계약 제한 법안 통과 보도
+4️⃣ 라가르드, 유럽 토큰화 시장 공통 규칙 촉구
+5️⃣ VanEck, Gemini ETF 수탁 계약 종료 예정 보도
 
-📌 보안 신뢰·프로토콜 호환성과 토큰화 금융의 규제 절차를 함께 점검할 시점.
+📌 위험자산 약세 속 스테이블코인 유동성·예측시장 규제·기관 수탁 변화 점검.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-20.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-21.md

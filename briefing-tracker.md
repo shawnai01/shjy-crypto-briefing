@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-21
+1. BTC, 6만 달러 하회 — 위험자산 동반 약세
+2. Sky, 하루 20억 달러 이상 교환 처리 — 페그 유지 발표
+3. 미 상원, 전쟁·사망 예측계약 제한 법안 통과 보도
+4. 라가르드, 유럽 토큰화 시장 공통 규칙 촉구
+5. VanEck, Gemini ETF 수탁 계약 종료 예정 보도
+- 📄 작성 완료: reports/2026-11-21.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 919, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인).
+- GitHub 보존: briefing: 2026-11-21 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: 검색 HTTP 422; CT 10계정 직접 대조 미완료; 기사 5건·Sky·ECB 본문 확인. SEC·Congress.gov 403으로 해당 항목은 기사 인용.
+
+
 ### 2026-11-20
 1. Ledger CTO, 2026년 말 퇴임 발표 — 수개월 준비한 전환
 2. MoonPay, 미 신탁은행 인가 신청 — 승인 아닌 신청 단계
