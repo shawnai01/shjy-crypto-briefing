@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-23
+1. Chainflip, 약 1,200만 달러 탈취 확인·90% 반환 요구
+2. 업비트·빗썸, CYBER 입출금 중단 보도
+3. Kraken CAD 시장 BTC 일시 약 1.7만 달러 상당 체결
+4. BTC 양자내성 이전 시간 과제 — 전문가 견해
+5. BTCS, Aave 차입 청산 위험 경고 보도
+- 📄 작성 완료: reports/2026-11-23.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 925, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인).
+- GitHub 보존: briefing: 2026-11-23 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: CT 10계정 직접 검증 미완료. 기사 3건·Chainflip 공식 공지 확인. CoinDesk 2건 HTTP 429 → 공식 RSS 인용 한정. 빗썸 공지 403·Kraken X 본문 미추출.
+
+
 ### 2026-11-22
 1. BTC, 18억 달러 청산 뒤 6만 달러 회복 보도
 2. Bitcoin Core, 노드 지연 취약점 패치
