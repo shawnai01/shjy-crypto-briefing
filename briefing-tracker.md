@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-24
+1. CFTC 직원 지침, BTC·ETH·스테이블코인의 운영준비금 산입 인정
+2. 이더리움 재단, 프로토콜 보안팀 2배 확대
+3. 미 검찰, Binance 탈취 관련 11억 달러 이상 몰수 추진 보도
+4. BTCS, 약 27,300 ETH 매각해 Aave 차입 축소 보도
+5. Cross River·LendingUSA, 최대 25만 달러 BTC 담보대출 출시 보도
+- 📄 작성 완료: reports/2026-11-24.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 930, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인).
+- GitHub 보존: briefing: 2026-11-24 커밋 대상. push 결과는 실행 로그 및 원격 HEAD로 확인.
+- 예외: 검색 HTTP 422 → RSS 대체; CT 10계정 직접 검증 미완료. 기사 5건·공식 원문 3건 확인. SEC·BusinessWire 403으로 기사 인용 한정.
+
+
 ### 2026-11-23
 1. Chainflip, 약 1,200만 달러 탈취 확인·90% 반환 요구
 2. 업비트·빗썸, CYBER 입출금 중단 보도
