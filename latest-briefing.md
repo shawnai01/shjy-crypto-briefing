@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.24
+☕ 크립토 모닝 브리핑 — 2026.11.25
 
-1️⃣ CFTC 직원 지침: BTC·ETH 등 운영준비금 산입 인정
-2️⃣ 이더리움 재단, 프로토콜 보안팀 2배 확대
-3️⃣ 미 검찰, Binance 탈취 관련 11억 달러 이상 몰수 추진 보도
-4️⃣ BTCS, 약 27,300 ETH 매각·Aave 차입 축소 보도
-5️⃣ Cross River·LendingUSA, 최대 25만 달러 BTC 담보대출 출시 보도
+1️⃣ 한국, 은행 과반 스테이블코인·거래소 지분 제한 법안 공개
+2️⃣ Coldcard 사고 후속: 업데이트만으로 기존 시드는 복구 안 돼
+3️⃣ BlackRock, 홍콩 스테이블코인 청약 가능한 토큰화 MMF 보도
+4️⃣ SNB·UBS·SIX, 토큰화 결제 공동원장 탐색 착수
+5️⃣ Sky, stUSDS 출금 위한 4천만~5천만 달러 매입 제안(미승인)
 
-📌 제도권 활용 확대와 보안·레버리지 관리가 함께 부각.
+📌 결제 인프라 확대와 별개로 보관 보안·출금 유동성 점검이 중요합니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-24.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-25.md
