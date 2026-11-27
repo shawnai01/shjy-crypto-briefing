@@ -1,11 +1,11 @@
-☕ 크립토 모닝 브리핑 — 2026.11.26
+☕ 크립토 모닝 브리핑 — 2026.11.27
 
-1️⃣ Braiins, 1천 곳 이상 채굴 사이트 해시레이트 탈취 경고
-2️⃣ 홍콩 HKMA, 토큰화 채권 24시간 결제 플랫폼 출범
-3️⃣ 이더리움 재단, 차세대 해시 기반 암호에 Keccak-256 권고
-4️⃣ 스위스, 2028년 크립토 과세정보 교환 파트너 57개 관할 승인 보도
-5️⃣ SBI·SMFG·Solana Foundation, 온체인 금융 합작사 출범 보도
+1️⃣ Binance, 해킹 관련 출금 중단 해제 발표
+2️⃣ BNB Chain, 신규 L1 설계 공개 — 별도 네이티브 토큰 없음
+3️⃣ 일본 FSA, DeFi·셀프커스터디 감독 방안 검토
+4️⃣ Coinbase, 영국 DeFi 규제안에 반대 의견
+5️⃣ KuCoin, 11월 30일 Monero 상장폐지 예정 보도
 
-📌 기관 결제 확대와 함께 채굴 통신 보안·암호 전환·세무 보고 준비가 중요합니다.
+📌 운영 복구·신규 L1 개발 속 DeFi·프라이버시 규제 접점이 핵심입니다.
 
-📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-26.md
+📄 상세·출처: https://github.com/shawnai01/shjy-crypto-briefing/blob/main/reports/2026-11-27.md

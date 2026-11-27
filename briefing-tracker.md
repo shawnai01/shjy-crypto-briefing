@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-27
+1. Binance, 해킹 관련 출금 중단 해제 발표
+2. BNB Chain, 신규 L1 설계 공개 — 별도 네이티브 토큰 없음
+3. 일본 FSA, DeFi·셀프커스터디 감독 방안 검토
+4. Coinbase, 영국 DeFi 규제안에 반대 의견
+5. KuCoin, 11월 30일 Monero 상장폐지 예정 보도
+- 📄 작성 완료: reports/2026-11-27.md / latest-briefing.md
+- 전송 요청 접수(queued): accountId=coo, target=-1003930029847 (기존 -5295629261에서 이관된 동일 실행주의 그룹). queueId=convq_354a8a527be8bf761b64a149870e4507. provider messageId 미확인으로 전달 완료 판정 보류. 중복 재전송 금지.
+- 예외: 검색 HTTP 422 → 공개 RSS 사용. CT 10계정 직접 대조 미완료. 기사 5건·BNB 공식 문서 2건 본문 확인. FSA PDF 본문 미추출, Binance 공지 추출 실패, FCA·KuCoin 원문 미대조.
+- GitHub 보존: briefing: 2026-11-27 커밋 대상.
+
+
 ### 2026-11-26
 1. Braiins, 1천 곳 이상 채굴 사이트 해시레이트 탈취 경고
 2. 홍콩 HKMA, 토큰화 채권 24시간 결제 플랫폼 출범
