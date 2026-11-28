@@ -7,6 +7,18 @@
 
 ## 보고 이력
 
+### 2026-11-28
+1. 이더리움 Glamsterdam, Hoodi 테스트넷 12월 15일 일정 보도
+2. 일본은행 관계자, 스테이블코인 준비자산 규칙 필요성 강조 보도
+3. 한·중·일·ASEAN, 디지털 결제·크립토 규제 작업반 구성 추진 보도
+4. Tether, Bitdeer 주식 약 1천만 달러 매입 보도
+5. CryptoQuant: BTC 지속 회복에 USDT 공급 증가 필요 — 분석 보도
+- 📄 작성 완료: reports/2026-11-28.md / latest-briefing.md
+- ✅ 텔레그램 전송 완료 (messageId: 968, accountId: coo, target: -1003930029847; 기존 -5295629261에서 이관된 동일 실행주의 그룹, conversation route status=sent 확인).
+- 예외: 검색 HTTP 422, 기사 본문 HTTP 403. 공식 RSS HTTP 200의 제목·요약만 채택. 당사자 원문·CT 직접 대조 미완료.
+- GitHub 보존: briefing: 2026-11-28 커밋 대상.
+
+
 ### 2026-11-27
 1. Binance, 해킹 관련 출금 중단 해제 발표
 2. BNB Chain, 신규 L1 설계 공개 — 별도 네이티브 토큰 없음
